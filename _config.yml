@@ -12,9 +12,38 @@ plugins:
   - jekyll-menus
   - jekyll-sitemap
 
+collections:
+  authors:
+    title: Authors
+    output: true
+  categories:
+    title: Categories
+    output: true
+
 defaults:
   -
     scope:
       path: ""
     values:
       layout: "default"
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: /blog/:year/:month/:day/:title/
+  -
+    scope:
+      path: ''
+      type: authors
+    values:
+      permalink: "/blogs/author/:title/"
+      layout: authors
+      image: /img/profile-pic.png
+  -
+    scope:
+      path: ''
+      type: categories
+    values:
+      permalink: "/blogs/category/:title/"
+      layout: categories

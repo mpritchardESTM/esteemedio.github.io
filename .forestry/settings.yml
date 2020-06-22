@@ -21,6 +21,11 @@ sections:
 - type: document
   path: privacy-policy.md
   label: Privacy Policy
+- type: directory
+  path: _authors
+  label: Authors
+  create: documents
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

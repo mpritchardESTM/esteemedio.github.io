@@ -4,22 +4,23 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: _posts
+  label: Blog
+  create: documents
+  match: "**/*"
 - type: document
   path: index.html
   label: Homepage
-  match: "**/*"
 - type: document
   path: company.html
   label: Company
-  match: "**/*"
 - type: document
   path: terms-of-use.md
   label: Terms of Use
-  match: "**/*"
 - type: document
   path: privacy-policy.md
   label: Privacy Policy
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

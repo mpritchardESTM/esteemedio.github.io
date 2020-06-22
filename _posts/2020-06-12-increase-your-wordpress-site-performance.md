@@ -1,10 +1,10 @@
 ---
 title: How To Increase Your WordPress Site’s Performance
-author: matthew-pritchard
+author: _authors/matthew-pritchard.md
 categories: wordpress
-image: /img/blog-wordpress-logo.jpg
----
+image: "/img/blog-wordpress-logo.jpg"
 
+---
 Advancing your website’s speed is the ultimate goal of any WordPress user. Ideally, your intended users are able browse your website, and benefit from fast page-loading. Though various factors determine your WordPress website’s speed, things like web hosting and SEO play a critical role. Accelerating your WordPress website is important as it influences how users interact with your digital presence. So important, in fact, that over 53% of users leave websites that take [more than three seconds to load](https://www.marketingdive.com/news/google-53-of-mobile-users-abandon-sites-that-take-over-3-seconds-to-load/426070/).   
 
 If you’re having difficulty optimizing your WordPress sites, there are fortunately multiple online tools, as well as helpful tips and tricks, that can provide a wealth of information about speed and performance of your webpages. 
@@ -104,4 +104,4 @@ While the WordPress marketplace is full of amazing themes, remember that themes 
 
 Go ahead and must perform all the tips and practices as mentioned earlier. But don't forget to analyze your WordPress website performance after the application of such tips. These are not words of mouth, because we are sure that after the application of these tips and practices, you will experience a significant boost in your WordPress performance.  \
  \
-Any tips or tricks we missed, or strategies you’ve learned while building your WordPress site? Let us know in the comments below, and follow us on social media for more WordPress insights. 
+Any tips or tricks we missed, or strategies you’ve learned while building your WordPress site? Let us know in the comments below, and follow us on social media for more WordPress insights.

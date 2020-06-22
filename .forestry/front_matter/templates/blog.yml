@@ -4,13 +4,15 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
+  config:
+    required: true
 - type: text
   name: author
   label: author
-- type: text
-  name: categories
-  label: categories
 - type: file
   name: image
-  label: image
+  label: Header Image
+- type: text
+  name: categories
+  label: Categories

@@ -7,9 +7,18 @@ fields:
   label: Title
   config:
     required: true
-- type: text
-  name: author
-  label: author
+- name: author
+  type: select
+  default: []
+  config:
+    required: true
+    options: []
+    source:
+      type: pages
+      section: authors
+      file: 
+      path: 
+  label: Author
 - type: file
   name: image
   label: Header Image

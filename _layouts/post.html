@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign author = site.authors | where: 'slug', page.author | first %}
+{% assign author = site.authors | where: 'relative_path', page.author | first %}
 {% assign categories = site.categories | where: 'categories', page.categories %}
 
 <div class="grid-container breadcrumb">

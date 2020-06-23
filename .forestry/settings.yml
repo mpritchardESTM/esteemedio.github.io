@@ -26,6 +26,11 @@ sections:
   label: Authors
   create: documents
   match: "**/*"
+- type: directory
+  path: _categories
+  label: Categories
+  create: documents
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

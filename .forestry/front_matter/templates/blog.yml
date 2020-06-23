@@ -30,7 +30,7 @@ fields:
     options: []
     source:
       type: pages
-      section: authors
+      section: categories
       file: 
       path: 
   label: Category

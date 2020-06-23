@@ -31,7 +31,7 @@ layout: default
 
       <div class="post-categories grid-x align-center-middle">
         <div class="cell large-8">
-          <span class="post-categories--title">Categories: </span>
+          <span class="post-categories--title">Category: </span>
           {% for category in categories %}
           <a href="{{ category.url }}">{{ category.title }}</a>
           {% unless forloop.last %}<span class="space-between">,</span>{% endunless %}

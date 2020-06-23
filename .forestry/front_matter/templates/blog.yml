@@ -23,8 +23,16 @@ fields:
   name: image
   label: Header Image
 - name: categories
-  type: tag_list
+  type: select
   default: []
-  label: Categories
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: authors
+      file: 
+      path: 
+  label: Category
 pages:
 - _posts/2020-06-12-increase-your-wordpress-site-performance.md

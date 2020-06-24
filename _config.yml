@@ -3,13 +3,24 @@ description: >-
 url: "https://esteemed.io"
 email: service@esteemed.io
 meta:
-  image: "img/esteemed-main-meta.png"
+  image: "/img/esteemed-main-meta.png"
 google_analytics: UA-167435008-1
+twitter:
+  username: EsteemedTalent
+facebook:
+  publisher: Esteemed-106526290944059
+logo: /img/esteemed-bw-logo.png
+social:
+  links:
+    - https://www.facebook.com/Esteemed-106526290944059/
+    - https://twitter.com/EsteemedTalent
+    - https://www.linkedin.com/company/esteemed/
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-menus
+  - jekyll-seo-tag
   - jekyll-sitemap
 
 collections:
@@ -26,6 +37,7 @@ defaults:
       path: ""
     values:
       layout: "default"
+      image: "/img/esteemed-main-meta.png"
   -
     scope:
       type: "posts"

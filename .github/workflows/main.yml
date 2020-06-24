@@ -1,26 +1,27 @@
-# This is a basic workflow to help you get started with Actions
-
-name: HTMLProofer
-
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
+name: Esteemed
 on:
   push:
     branches: develop
   pull_request:
     branches: develop
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  checklinks:
+    name: HTMLProofer
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    strategy:
+      fail-fast: false
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - name: HTMLProofer
-      uses: chabad360/htmlproofer@v1.1
-      with:
-        directory: "./_site"
+      - uses: actions/checkout@v2
+      - name: Cache gems
+        id: bundler-cache
+        uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      - uses:  lemonarc/jekyll-action@1.0.0
+      - name: HTMLProofer
+        uses: chabad360/htmlproofer@v1.1
+        with:
+          directory: "./_site"

@@ -1,13 +1,7 @@
 <head>
   <meta charset="utf-8" />
-  <title>{{ page.title }} | Esteemed</title>
-  <meta content="{{ page.meta.description }}" name="description" />
-  <meta content="{{ page.title }} | Esteemed" property="og:title" />
-  <meta content="{{ page.meta.description }}" property="og:description" />
-  <meta content="{{ site.url }}/{% if page.meta.image %}{{ page.meta.image }}{% else %}{{ site.meta.image %}}{% endif %}" property="og:image" />
-  <meta content="{{ site.url }}" property="og:url" />
-  <meta content="summary_large_image" name="twitter:card" />
   <meta content="width=device-width, initial-scale=1" name="viewport" />
+  {% seo -%}
   <link rel="canonical" href="https://esteemed.io/" />
   <link rel="stylesheet" href="/css/esteemed.css">
   <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">

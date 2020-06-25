@@ -6,7 +6,7 @@ script: npm i && bundle exec jekyll build
 
 # branch whitelist, only for GitHub Pages
 branches:
-  only: master
+  only: develop
 
 env:
   global:
@@ -19,10 +19,10 @@ deploy:
   keep_history: true
   skip-cleanup: true
   github-token: $GITHUB_ACCESS_TOKEN
-  target-branch: gh-pages
+  target-branch: master
   local-dir: _site
   on:
-    branch: master
+    branch: develop
 
 cache:
   bundler: true

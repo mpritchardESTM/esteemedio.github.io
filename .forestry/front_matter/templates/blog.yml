@@ -7,6 +7,16 @@ fields:
   label: Title
   config:
     required: true
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
 - name: author
   type: select
   default: []

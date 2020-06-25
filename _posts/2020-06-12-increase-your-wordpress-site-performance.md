@@ -1,6 +1,6 @@
 ---
 title: How To Increase Your WordPress Site’s Performance
-author: _authors/matthew-pritchard.md
+author: matthew-pritchard
 categories:
 - WordPress
 image: "/img/blog-wordpress-logo.jpg"

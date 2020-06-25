@@ -2,11 +2,12 @@
 layout: default
 ---
 
-{% assign posts = site.posts | where:'author', page.slug %}
+{% assign author = site.data.authors[page.author] %}
+{% assign posts = site.posts | where:'author', author %}
 <div class="grid-container">
   <div class="grid-x align-top">
-    <h1><img src="{{ page.image }}" />{{ page.title }}'s Posts</h1>
-    <p>{{ page.content }}</p>
+    <h1><img src="{% if author.image %}{{ author.image }}{% else %}/img/profile-pic.png{% endif %}" />{{ author.name }}'s Posts</h1>
+    <p>{{ author.bio }}</p>
     {% for post in posts %}
     <div class="cell" style="background:#efefef; margin: 10px 0; padding: 10px">
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>

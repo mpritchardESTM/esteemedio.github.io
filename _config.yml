@@ -24,6 +24,8 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
+author_dir: "blogs/author"
+author_title_prefix: "Blog - By "
 pagination:
   enabled: true
   per_page: 10
@@ -43,10 +45,6 @@ autopages:
     enabled: false
   tags:
     enabled: false
-collections:
-  authors:
-    title: Authors
-    output: true
 
 defaults:
   -
@@ -61,13 +59,4 @@ defaults:
     values:
       layout: "post"
       permalink: /blog/:year/:month/:day/:title/
-      sitemap: false
-  -
-    scope:
-      path: ""
-      type: authors
-    values:
-      permalink: "/blogs/author/:title/"
-      layout: authors
-      image: /img/profile-pic.png
       sitemap: false

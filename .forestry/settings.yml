@@ -7,7 +7,6 @@ sections:
 - type: jekyll-posts
   label: Blog
   create: documents
-  match: "**/*"
   templates:
   - blog
 - type: document
@@ -27,7 +26,7 @@ sections:
   label: Data
   create: documents
   match: "**/*"
-  new_doc_ext: ".yml"
+  new_doc_ext: yml
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

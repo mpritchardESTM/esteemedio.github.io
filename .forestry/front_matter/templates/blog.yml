@@ -24,9 +24,9 @@ fields:
     required: true
     options: []
     source:
-      type: pages
+      type: documents
       section: authors
-      file: 
+      file: _data/authors.yml
       path: 
   label: Author
 - type: file

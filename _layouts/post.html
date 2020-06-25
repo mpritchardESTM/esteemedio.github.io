@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign author = site.authors | where: 'relative_path', page.author | first %}
+{% assign author = site.data.authors[page.author] %}
 {% assign category = page.categories | first %}
 
 <div class="grid-container breadcrumb">
@@ -17,7 +17,7 @@ layout: default
   <div class="grid-x align-top">
     <div class="cell">
       <h1>{{ page.title }}</h1>
-      <address class="blog-post__author">By <span><a href="{{ author.url }}">{{ author.title }}</a></span></address>
+      <address class="blog-post__author">By <span><a href="/blogs/author/{{ page.author }}/">{{ author.name }}</a></span></address>
       <div class="blog-post__date">{{ page.date | date: "%m.%-d.%Y" }}</div>
       <div class="blog-post__content">
         {% if page.image %}

@@ -4,11 +4,12 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: _posts
+- type: jekyll-posts
   label: Blog
   create: documents
   match: "**/*"
+  templates:
+  - blog
 - type: document
   path: index.html
   label: Homepage
@@ -22,15 +23,11 @@ sections:
   path: privacy-policy.md
   label: Privacy Policy
 - type: directory
-  path: _authors
-  label: Authors
+  path: _data
+  label: Data
   create: documents
   match: "**/*"
-- type: directory
-  path: _categories
-  label: Categories
-  create: documents
-  match: "**/*"
+  new_doc_ext: ".yml"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

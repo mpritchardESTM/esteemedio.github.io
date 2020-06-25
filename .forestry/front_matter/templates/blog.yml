@@ -36,5 +36,3 @@ fields:
   type: tag_list
   default: []
   label: Categories
-pages:
-- _posts/2020-06-12-increase-your-wordpress-site-performance.md

@@ -1,0 +1,96 @@
+.orbit {
+
+  &-bullets {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3rem;
+    margin-right: -.9375rem;
+    margin-left: -.9375rem;
+
+    @include breakpoint(medium down) {
+      margin-bottom: 2rem;
+    }
+
+    button {
+      background-color: transparent;
+      cursor: pointer;
+      height: auto;
+      margin: 0;
+      padding-right: .9375rem;
+      padding-left: .9375rem;
+      opacity: 0.3;
+      transition: .5s;
+      width: auto;
+
+      &:focus {
+        outline: none;
+      }
+
+      &:hover,
+      &.is-active {
+        background-color: transparent;
+        border: none;
+        outline: none;
+        opacity: 1;
+      }
+    }
+  }
+
+  &-container {
+
+    &__wrapper {
+      display: flex;
+      font-family: $font-satisfy;
+
+      ul {
+        font-size: 3rem;
+        flex: 1;
+
+        @include breakpoint(medium down) {
+          font-size: 1.5rem;
+        }
+
+        p {
+          margin-bottom: 0;
+        }
+
+        &,
+        * {
+
+          &:focus {
+            outline: none;
+          }
+        }
+      }
+
+    }
+
+    &__quote-left,
+    &__quote-right {
+      font-size: 8rem;
+      line-height: 5.4rem;
+      height: 0;
+
+      @include breakpoint(medium down) {
+        font-size: 4rem;
+        line-height: 3rem;
+      }
+    }
+
+    &__quote-left {
+      margin-right: 4rem;
+
+      @include breakpoint(medium down) {
+        margin-right: 1.5rem;
+      }
+    }
+
+    &__quote-right {
+      margin-left: 4rem;
+
+      @include breakpoint(medium down) {
+        margin-left: 1.5rem;
+      }
+    }
+  }
+}

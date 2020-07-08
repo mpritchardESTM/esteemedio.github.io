@@ -36,3 +36,5 @@ fields:
   type: tag_list
   default: []
   label: Categories
+pages:
+- _posts/test.md

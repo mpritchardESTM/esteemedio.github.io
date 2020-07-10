@@ -55,12 +55,12 @@ layout: default
           <div class="blog-post__author-block--container grid-x cell large-8">
             <div class="cell medium-3">
               <div class="blog-post__author-block--image">
-                <a href="{{ author.url }}"><img src="{% if author.image %}{{ author.image }}{% else %}/img/profile-pic.png{% endif %}"></a>
+                <a href="/blogs/author/{{ page.author }}/"><img src="{% if author.image %}{{ author.image }}{% else %}/img/profile-pic.png{% endif %}"></a>
               </div>
             </div>
             <div class="cell medium-9">
               <div class="blog-post__author-block--name">
-                <a href="/blogs/author/{{ page.author }}">{{ author.name }}</a>
+                <a href="/blogs/author/{{ page.author }}/">{{ author.name }}</a>
               </div>
               <div class="blog-post__author-block--bio">
                 {{ author.bio }}

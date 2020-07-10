@@ -1,13 +1,13 @@
 ---
 date: 2020-07-08 10:56:15 +0000
 author: matthew-pritchard
+featured: true
 categories:
 - remote work
 - working from home
 title: 5 Benefits of a Distributed Workforce
-image: "/uploads/image6.jpg"
-
 ---
+
 To an outsider, being stuck in your home with free time and internet might sound like paradise. For many, waking up, having a coffee, and settling into work on the couch is an ideal.
 
 Prompted by coronavirus, remote working has increased in 2020 and has made people stay in the confines of their homes. As a result, the daily work routines and tasks have been shifted to online, setting up a distributed workforce.

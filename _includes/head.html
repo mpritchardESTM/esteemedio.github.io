@@ -2,6 +2,17 @@
   <meta charset="utf-8" />
   <meta content="width=device-width, initial-scale=1" name="viewport" />
   {% seo -%}
+  {%- if page.layout == 'categories' -%}
+    {%- assign taxonomy = page.autopages.display_name | downcase | slugify -%}
+    {%- assign tag = site.data.category_meta[taxonomy] -%}
+    {%- if tag.description -%}
+      {% assign description = tag.description %}
+    {%- else -%}
+      {% assign description = page.autopages.display_name | prepend: 'An archive of posts tagged ' %}
+    {%- endif -%}
+  <meta name="description" content="{{ description }}" />
+  <meta property="og:description" content="{{ description }}" />
+  {%- endif -%}
   <link rel="canonical" href="https://esteemed.io/" />
   <link rel="stylesheet" href="/css/esteemed.css">
   <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">

@@ -1,6 +1,10 @@
 ---
 matthew-pritchard:
   name: Matthew Pritchard
-  image: ''
+  image: '/img/matthew-pritchard.jpg'
   bio: 'Matthew Pritchard is a digital content marketer and WordPress developer, interested
     in Vue.js, CraftCMS, and creating awesome web experiences. '
+m-shakaib-zafar:
+  name: M Shakaib Zafar
+  image: '/img/m-shakaib-zafar.jpg'
+  bio: 'M Shakaib Zafar is a Software Engineer at Programmers Force. He creates diverse and attention-caching websites for a variety of clients. Having won the Young Developer Award twice, his services have been solicited by companies including Programmers Force (ISO Certified) and Gertrude Marketers.'

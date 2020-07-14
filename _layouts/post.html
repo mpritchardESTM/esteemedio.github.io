@@ -19,12 +19,24 @@ layout: default
       <h1>{{ page.title }}</h1>
       <address class="blog-post__author">By <span><a href="/blogs/author/{{ page.author }}/">{{ author.name }}</a></span></address>
       <div class="blog-post__date">{{ page.date | date: "%m.%-d.%Y" }}</div>
+
       <div class="blog-post__content">
         {% if page.image %}
         <div class="blog-post__content--image">
           <img src="{{ page.image }}">
         </div>
         {% endif %}
+
+        <!-- AddToAny BEGIN -->
+        <div class="blog-post__share-buttons a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="left:0px; top:150px;">
+        <a class="a2a_button_facebook"></a>
+        <a class="a2a_button_twitter"></a>
+        <a class="a2a_button_linkedin"></a>
+        <a class="a2a_button_email"></a>
+        </div>
+        <script async src="https://static.addtoany.com/menu/page.js"></script>
+        <!-- AddToAny END -->
+
         {{ page.content | markdownify }}
       </div>
 
@@ -43,12 +55,12 @@ layout: default
           <div class="blog-post__author-block--container grid-x cell large-8">
             <div class="cell medium-3">
               <div class="blog-post__author-block--image">
-                <a href="{{ author.url }}"><img src="{% if author.image %}{{ author.image }}{% else %}/img/profile-pic.png{% endif %}"></a>
+                <a href="/blogs/author/{{ page.author }}/"><img src="{% if author.image %}{{ author.image }}{% else %}/img/profile-pic.png{% endif %}"></a>
               </div>
             </div>
             <div class="cell medium-9">
               <div class="blog-post__author-block--name">
-                <a href="/blogs/author/{{ page.author }}">{{ author.name }}</a>
+                <a href="/blogs/author/{{ page.author }}/">{{ author.name }}</a>
               </div>
               <div class="blog-post__author-block--bio">
                 {{ author.bio }}

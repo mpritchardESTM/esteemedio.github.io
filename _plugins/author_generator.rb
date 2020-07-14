@@ -50,7 +50,8 @@ module Jekyll
       self.data['title']       = "#{title_prefix}#{@full_name}"
       # Set the meta-description for this page.
       meta_description_prefix  = site.config['author_meta_description_prefix'] || 'author: '
-      self.data['description'] = "#{meta_description_prefix}#{author}"
+      self.data['description'] = site.data['authors'][author]['bio']
+      self.data['image'] = site.data['authors'][author]['image']
     end
 
   end

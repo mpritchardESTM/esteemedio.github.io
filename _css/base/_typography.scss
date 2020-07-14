@@ -71,4 +71,15 @@ a {
 .breadcrumb {
   font-family: $font-poppins;
   font-size: 1.1rem;
+  text-transform: capitalize;
+}
+
+.heading-subtitle {
+  font-family: $font-lato;
+  font-size: 1.25rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem 0 3rem 0;
+  text-align: center;
+  width: 65%;
 }

@@ -165,6 +165,7 @@ body {
   }
 
   h1 {
+    margin-top: 1rem;
     text-align: center;
   }
 
@@ -198,16 +199,6 @@ body {
     }
   }
 
-  .heading-subtitle {
-    font-family: $font-lato;
-    font-size: 1.25rem;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 1rem 0 3rem 0;
-    text-align: center;
-    width: 65%;
-  }
-
   > h2 {
     margin: 4rem 0 2rem 0;
     text-align: center;
@@ -231,5 +222,31 @@ body {
     a {
       font-weight: $global-weight-bold;
     }
+  }
+}
+
+.author-post-item,
+.category-post-item {
+  margin-bottom: 5rem;
+}
+
+.author-post-item {
+
+  h1 {
+    margin: 1rem auto 0 auto;
+
+    img {
+      border-radius: 100%;
+      margin-right: 0.5rem;
+      width: 6rem;
+    }
+  }
+}
+
+.category-post-item {
+
+  h1 {
+    margin: 1rem auto 3rem auto;
+    text-transform: capitalize;
   }
 }

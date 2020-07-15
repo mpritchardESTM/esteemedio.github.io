@@ -24,7 +24,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
-author_dir: "blogs/author"
+author_dir: "blog/author"
 author_title_prefix: "Blog - By "
 pagination:
   enabled: true
@@ -40,7 +40,7 @@ autopages:
   categories:
     layouts:
       - 'categories.html'
-    permalink: "/blogs/category/:cat/"
+    permalink: "/blog/category/:cat/"
   collections:
     enabled: false
   tags:

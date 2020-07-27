@@ -15,7 +15,6 @@ At Esteemed, we have spent a decade building our Talent Network. Having started 
 
 The job search process can be long and drawn-out with many interviews, conversations, and redundant screening. Even if you do find a great opportunity, you might repeat the same search process a few months later once your project wraps up. At Esteemed we vouch for you with our clients. To do that we screen and qualify your experience, offer feedback that we think will help, and connect you with new opportunities that will be a fit as they come through our pipeline.
 
-  
 Because we’re on Slack, our jobs are posted directly in their respective channels. Looking for new opportunities in Magento, or another related field? Fill out your profile, get in touch, and join the channel for your discipline (#magento, #drupal). Less time searching for jobs means more time focusing on learning new skills or having fun. That’s what we are all about, making work more flexible, abundant and fun.
 
 ## Stand out from the crowd
@@ -36,7 +35,7 @@ Because of our unique relationship with agencies and organizations, joining our 
 
 ## A little help from your friends
 
-As a freelancer people can feel lonely, and lack a support system found in traditional settings. Even if you are on contract at a big company, you are still “a contractor.” Being part of Esteemed provides a large and diverse support system. Whether you are looking for a simple coding solution or a few extra hands, we’re here to help! We know that team camaraderie encourages confidence, increases access to knowledge, and invites shared experiences. We believe being part of a talent network means not only helping you get gigs, but helping scale and grow your skills. 
+As a freelancer people can feel lonely, and lack a support system found in traditional settings. Even if you are on contract at a big company, you are still “a contractor.” Being part of Esteemed provides a large and diverse support system. Whether you are looking for a simple coding solution or a few extra hands, we’re here to help! We know that team camaraderie encourages confidence, increases access to knowledge, and invites shared experiences. We believe being part of a talent network means not only helping you get gigs, but helping scale and grow your skills.
 
 ## Become a partner
 

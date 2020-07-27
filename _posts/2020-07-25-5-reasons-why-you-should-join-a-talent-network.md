@@ -27,7 +27,7 @@ When you join the Esteemed Talent Network, you gain access to hundreds on Slack 
 
 Our Esteemed members are always happy to offer advice, insight, and support. We’re a friendly, open company and we pride ourselves on our ability to build relationships with quality talent and grow lasting connections—whether that be between employer clients or members.
 
-## **Get on the Inside Track**
+## **Join Our Inside Track**
 
 At Esteemed, you can also gain access to opportunities not listed on job sites. More than half of job seekers report that their preferred source for finding jobs is online. The second most popular method? Hearing about [jobs from a friend or trusted colleague](https://www.glassdoor.com/employers/resources/hr-and-recruiting-stats/). We keep a close eye on our current and potential clients, and often hear about their needs first. This means they come to us first before posting on LinkedIn, Indeed, or even on their own website.
 

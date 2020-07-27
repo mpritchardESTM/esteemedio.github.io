@@ -63,7 +63,7 @@ layout: default
                 <a href="/blog/author/{{ page.author }}/">{{ author.name }}</a>
               </div>
               <div class="blog-post__author-block--bio">
-                {{ author.bio }}
+                {{ author.bio | markdownify }}
               </div>
             </div>
           </div>

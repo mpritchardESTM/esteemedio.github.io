@@ -1,10 +1,18 @@
 ---
-matthew-pritchard:
-  name: Matthew Pritchard
-  image: '/img/matthew-pritchard.jpg'
-  bio: 'Matthew Pritchard is a digital content marketer and WordPress developer, interested
-    in Vue.js, CraftCMS, and creating awesome web experiences. '
+casey-horgan:
+  name: Casey Horgan
+  image: '/img/casey-horgan.jpg'
+  bio: "Casey Horgan is an experienced editor, B2B content marketer, and wordsmith. Her talents include SEO, content creation, marketing research, and graphic design. When she's not writing, she studies primary source documents at the Accademia di Merano's Ezra Pound Research Center in northern Italy."
+kelton-reid:
+  name: Kelton Reid
+  image: '/img/kelton-reid.jpg'
+  bio: "Kelton Reid is an independent podcast producer, writer, mediaphile, and the former VP of Multimedia Production for Copyblogger. Find out how great writers keep the cursor moving on his podcast [The Writer Files](https://writerfiles.libsyn.com/), and connect with Kelton on [Twitter](https://twitter.com/KeltonReid)."
 m-shakaib-zafar:
   name: M Shakaib Zafar
   image: '/img/m-shakaib-zafar.jpg'
-  bio: 'M Shakaib Zafar is a Software Engineer at Programmers Force. He creates diverse and attention-caching websites for a variety of clients. Having won the Young Developer Award twice, his services have been solicited by companies including Programmers Force (ISO Certified) and Gertrude Marketers.'
+  bio: "M Shakaib Zafar is a Software Engineer at Programmers Force. He creates diverse and attention-caching websites for a variety of clients. Having won the Young Developer Award twice, his services have been solicited by companies including Programmers Force (ISO Certified) and Gertrude Marketers."
+matthew-pritchard:
+  name: Matthew Pritchard
+  image: '/img/matthew-pritchard.jpg'
+  bio: "Matthew Pritchard is a digital content marketer and WordPress developer, interested
+    in Vue.js, CraftCMS, and creating awesome web experiences."

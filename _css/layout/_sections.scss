@@ -4,6 +4,13 @@ body {
   @include breakpoint(medium down) {
     padding-top: 4.875rem;
   }
+
+  &.page__mobile-nav-hidden {
+
+    @include breakpoint(medium down) {
+      padding-top: 0;
+    }
+  }
 }
 
 .section {
@@ -253,4 +260,12 @@ body {
 
 .hs-form-iframe {
   width: 100% !important;
+}
+
+.sales-deck__wrapper {
+
+  @include breakpoint(medium down) {
+    margin-bottom: 1rem !important;
+    margin-top: 0 !important;
+  }
 }

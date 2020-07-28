@@ -4,8 +4,22 @@
 
 .w-nav {
   background: $white;
+  opacity: 1;
   padding: $spacing 0;
   transition: .3s;
+
+  @include breakpoint(medium down) {
+    box-shadow: 0 2px 2px -2px $light-gray;
+    transition: .75s;
+  }
+
+  &.not-visible {
+
+    @include breakpoint(medium down) {
+      opacity: 0;
+      pointer-events: none;
+    }
+  }
 
   img.logo {
 

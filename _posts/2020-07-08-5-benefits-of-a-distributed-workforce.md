@@ -6,7 +6,7 @@ categories:
 - remote work
 - working from home
 title: 5 Benefits of a Distributed Workforce
-image: "/uploads/code-coding-computer-developer-574080.jpg"
+image: "/uploads/woman-lying-and-typing-on-laptop-6249.jpg"
 
 ---
 To an outsider, being stuck in your home with free time and internet might sound like paradise. For many, waking up, having a coffee, and settling into work on the couch is an ideal.

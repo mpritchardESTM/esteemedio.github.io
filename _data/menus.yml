@@ -4,10 +4,14 @@ navigation:
   title: Company
   url: "/company/"
   weight: 1
+- button: 0
+  title: Pricing
+  url: "/pricing/"
+  weight: 2
 - button: 1
   title: Get Support
   url: "mailto:support@esteemed.io"
-  weight: 2
+  weight: 3
 footer:
 - title: Communities
   menu:

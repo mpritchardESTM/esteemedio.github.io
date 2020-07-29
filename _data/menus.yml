@@ -9,8 +9,8 @@ navigation:
   url: "/pricing/"
   weight: 2
 - button: 1
-  title: Get Support
-  url: "mailto:support@esteemed.io"
+  title: Schedule Demo
+  url: "/sales/schedule-demo/"
   weight: 3
 footer:
 - title: Communities

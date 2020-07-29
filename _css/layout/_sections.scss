@@ -145,6 +145,15 @@ body {
       @include breakpoint(medium up) {
         padding-right: 1rem;
       }
+
+      img {
+        border-radius: 100%;
+
+        @include breakpoint(small only) {
+          max-width: 100%;
+          width: 250px;
+        }
+      }
     }
 
     &--name {

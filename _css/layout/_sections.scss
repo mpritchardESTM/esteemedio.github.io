@@ -278,3 +278,13 @@ body {
     margin-top: 0 !important;
   }
 }
+
+.page__schedule-demo {
+
+  .calendly-inline-widget {
+
+    @include breakpoint(small only) {
+      height: 630px !important;
+    }
+  }
+}

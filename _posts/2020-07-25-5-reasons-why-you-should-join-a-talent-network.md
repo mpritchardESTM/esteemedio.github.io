@@ -23,13 +23,13 @@ In our years in the digital space we find companies work with who they trust. Wh
 
 ## **Grow Your Own Network**
 
-When you join the Esteemed Talent Network, you gain access to hundreds on Slack and thousands in the network at large. Developers, architects, project managers and other digital professionals with a range of experience are available for questions, collaboration or even teaming up on a project that you might need help with. Got a quick question about [Drupal Commerce](https://app.drupalcontractors.com/blogs/come-commerce-drupal-way "Read our our blog on Drupal Commerce.")? Reach out to one of our Drupal experts on our #drupal Slack channel and start a conversation.
+When you join the Esteemed Talent Network, you gain access to hundreds on Slack and thousands in the network at large. Developers, architects, project managers and other digital professionals with a range of experience are available for questions, collaboration or even teaming up on a project that you might need help with. Got a quick question about [Drupal Commerce](https://app.drupalcontractors.com/blogs/come-commerce-drupal-way)? Reach out to one of our Drupal experts on our #drupal Slack channel and start a conversation.
 
 Our Esteemed members are always happy to offer advice, insight, and support. We’re a friendly, open company and we pride ourselves on our ability to build relationships with quality talent and grow lasting connections—whether that be between employer clients or members.
 
 ## **Join Our Inside Track**
 
-At Esteemed, you can also gain access to opportunities not listed on job sites. More than half of job seekers report that their preferred source for finding jobs is online. The second most popular method? Hearing about [jobs from a friend or trusted colleague](https://www.glassdoor.com/employers/resources/hr-and-recruiting-stats/). We keep a close eye on our current and potential clients, and often hear about their needs first. This means they come to us first before posting on LinkedIn, Indeed, or even on their own website.
+At Esteemed, you can also gain access to opportunities not listed on job sites. More than half of job seekers report that their preferred source for finding jobs is online. The second most popular method? Hearing about jobs from a friend or trusted colleague. We keep a close eye on our current and potential clients, and often hear about their needs first. This means they come to us first before posting on LinkedIn, Indeed, or even on their own website.
 
 Because of our unique relationship with agencies and organizations, joining our talent network might even assist with transforming your skill-set to a new area. For example, a developer who may want to transition to Project Management or an Executive role. We have helped many in the network transition to related areas. We believe in doing what you love. For some, that can change over time. We are here to help.
 

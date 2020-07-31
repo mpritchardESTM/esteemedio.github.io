@@ -1,12 +1,12 @@
 ---
-date: 2020-07-25 14:25:03 +0000
+date: 2020-07-25T14:25:03.000+00:00
 author: matthew-pritchard
 categories:
 - talent network
 - remote work
 - partner program
 title: 5 Reasons Why You Should Join a Talent Network
-image: "/uploads/photo-of-people-holding-each-other-s-hands-3184433.jpg"
+image: "/uploads/talentnetwork.png"
 
 ---
 At Esteemed, we have spent a decade building our Talent Network. Having started an agency in 2011, we have sponsored countless events, amassed an impressive list of clients and formed many relationships with top talent. We’re a community of pre-screened digital professionals spread across multiple disciplines and categories. We have practices focused on CMS (WordPress, Drupal, Sitecore, AEM and more), E-commerce, UX, and Cloud. We deliver our service via the tools our clients already use. Built on Slack our premier platform allows us to post open roles, communicate and collaborate with client employers and client providers. We can connect you with a potential hiring manager in minutes. A network of this type removes the burden of business development from a contractor and provides a host of other benefits even for those seeking full-time work.

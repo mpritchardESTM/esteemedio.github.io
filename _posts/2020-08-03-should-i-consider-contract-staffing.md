@@ -11,15 +11,15 @@ image: "/uploads/pexels-burst-374085.jpg"
 ---
 Times have changed. Even before Covid-19 disrupted workplace behavior, the labor market was transforming. Now, this evolution is in overdrive.
 
-One in four American workers use freelancing/independent contracting as either their primary or supplemental source of income, according to a MetLife report. “It’s not just a trend,” the study finds, “it’s a fundamental shift in how our economy operates.” Even if your company bears all the hallmarks of a traditional workforce, you’re no longer immune to the “gig economy.” 
+[One in four American workers](https://www.metlife.com/content/dam/metlifecom/us/ebts/pdf/MetLife_EBTS-GigReport_2019.pdf "MetLife Gig Report") use freelancing/independent contracting as either their primary or supplemental source of income, according to a MetLife report. “It’s not just a trend,” the study finds, “it’s a fundamental shift in how our economy operates.” Even if your company bears all the hallmarks of a traditional workforce, you’re no longer immune to the “gig economy.”
 
 If you’re a traditional employer, your talent pool might be shifting their gaze. If you're already using contractors, you're likely facing challenges with finding highly-qualified talent.  As more and more digital experts seek contract employment, it’s grown increasingly time-consuming to find the right person for the job.
 
-## What is Contract Staffing? 
+## What is Contract Staffing?
 
-When a full-time hire doesn’t fit a position, contract staffing is an alternative. Contract staffing presents companies with talented people that specialize in a given role or industry. 
+When a full-time hire doesn’t fit a position, contract staffing is an alternative. Contract staffing presents companies with talented people that specialize in a given role or industry.
 
-Is your organization experiencing rapid expansion? Do you need additional resources for upcoming projects or roles? Contract staffing connects you with candidates for a specific task or time-frame. 
+Is your organization experiencing rapid expansion? Do you need additional resources for upcoming projects or roles? Contract staffing connects you with candidates for a specific task or time-frame.
 
 Contract staffing suits companies experiencing rapid growth. It’s also an invaluable tool for stable businesses that want top talent at the right price.
 
@@ -37,13 +37,13 @@ There are ample problems that stem from having too many or too few employees. Av
 
 ### Reduction in Hiring Costs
 
-As the hiring process for contract staffing takes less time, you save big. Recruitment costs less for contractors than full-time employees too. By partnering with a contract staffing agency, you skip lengthy interviewing and vetting processes with busy decision-makers.
+As the hiring process for contract staffing takes less time, you save big. Recruitment costs less for contractors than full-time employees, too. By partnering with a contract staffing agency, you skip lengthy interviewing and vetting processes with busy decision-makers.
 
 You pay your contractors only for the hours they work or jobs they complete, as opposed to salaried positions with benefits. Recurring expenses like healthcare, 401(k) contributions and PTO won’t apply.
 
 ## Where Should I Turn for Contract Staffing Solutions?
 
-There is no centralized source for contractors and freelancers. Talent is scattered. Developers and engineers are on LinkedIn, Indeed, job boards, and working for your competitors. Your touchpoints are overwhelming. Looking for top talent in a sea of choices is no easy feat.
+There is no centralized source for contractors and freelancers. Talent is scattered. Developers and engineers are on LinkedIn, Indeed, job boards, and working for your competitors. Your touchpoints are overwhelming. Looking for [top talent](https://esteemed.io/blog/2020/07/25/5-reasons-why-you-should-join-a-talent-network/ "Learn more about our Talent Network.") in a sea of choices is no easy feat.
 
 Trying to fill a technical position? Work with an industry-specific contract staffing agency, like [WordPress Contractors](app.wpcontractors.com "Visit WPContractors!") or [Drupal Contractors](app.drupalcontractors.com "Visit DrupalContractors!"). It’s better than trying to recruit a developer contractor on your own. Why? Tech staffing differs from other freelance and contractor placement. There’s a fundamental lack of engineers and technical management, making it hard to find your ideal candidate.
 
@@ -63,10 +63,10 @@ Many agencies choose to focus their efforts on certain industries or roles. You 
 
 When you need help, how quickly can you receive it? Does a fast turnaround time affect the quality of your hire? How many steps must you go through before you see results?
 
-### Will I Need to Integrate a New Tool or Platform? 
+### Will I Need to Integrate a New Tool or Platform?
 
 If transparency and communication are important to your hiring process, how will your agency contribute to your company goals? Will you be asked to learn new tools? Does this agency work with your existing platforms? At Esteemed, for example, we offer a reliable pipeline of pre-screened individuals that you can tap into from Slack. All you need to do is make requests in your private channel. We'll connect you with top talent almost instantly.
 
-Staffing your organization with contractors and freelancers is cost-effective and well-suited for the modern workplace. Considering the trends in remote work and contract positions, you’re at a competitive disadvantage if you don’t capitalize on this hiring strategy. You can find the best talent at reasonable prices. Best of all, you don’t have to break a sweat if you team up with the right agency. 
+Staffing your organization with contractors and freelancers is cost-effective and well-suited for the modern workplace. Considering the trends in remote work and contract positions, you’re at a competitive disadvantage if you don’t capitalize on this hiring strategy. You can find the best talent at reasonable prices. Best of all, you don’t have to break a sweat if you team up with the right agency.
 
 Want to learn more? [Get in touch with us today](https://esteemed.io/sales/schedule-demo/ "Let's Chat!").

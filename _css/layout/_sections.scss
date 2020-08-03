@@ -271,11 +271,22 @@ body {
   width: 100% !important;
 }
 
-.sales-deck__wrapper {
+.sales-deck {
 
-  @include breakpoint(medium down) {
-    margin-bottom: 1rem !important;
-    margin-top: 0 !important;
+  &__video {
+    max-width: 100%;
+
+    @include breakpoint(small only) {
+      height: 350px;
+    }
+  }
+
+  &__wrapper {
+
+    @include breakpoint(medium down) {
+      margin-bottom: 1rem !important;
+      margin-top: 0 !important;
+    }
   }
 }
 

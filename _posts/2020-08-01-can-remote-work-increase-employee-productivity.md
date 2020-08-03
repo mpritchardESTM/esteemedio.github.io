@@ -1,7 +1,9 @@
 ---
 date: 2020-08-01 14:47:36 +0000
 author: kelton-reid
-categories: []
+categories:
+- remote work
+- productivity
 title: 'Can Remote Work Increase Employee Productivity? '
 image: "/uploads/pexels-cottonbro-4064821.jpg"
 

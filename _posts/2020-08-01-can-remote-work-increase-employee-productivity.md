@@ -6,11 +6,11 @@ title: 'Can Remote Work Increase Employee Productivity? '
 image: "/uploads/pexels-cottonbro-4064821.jpg"
 
 ---
-Our new normal has many businesses and contractors rethinking the future of work. Throughout the current economic uncertainty and global pandemic, remote work is on everyone’s mind. But should you embrace it? 
+Our new normal has many businesses and contractors rethinking the future of work. Throughout the current economic uncertainty and global pandemic, remote work is on everyone’s mind. But should you embrace it?
 
 At first, allowing remote work for your teams and contractors might feel unsettling. But chances are your remote employees will thank you for trusting them to find their ideal working environment. Your business or brand might even see some big results by allowing #remotework.
 
-## How to Boost Employee Productivity
+## **How to Boost Employee Productivity**
 
 At Esteemed, we’re on a mission to help people around the world work smarter, not harder.
 
@@ -20,34 +20,34 @@ For nearly a decade, we’ve been tracking how remote work positively impacts ou
 
 On the whole, remote teams get more done. And they do it all without a dreadful commute.
 
-## Why Does Remote Work Help Skyrocket Performance? 
+## **Why Does Remote Work Help Skyrocket Performance?**
 
 WFA (Work from Anywhere) is the new WFH (Work from Home). Workplace elasticity lets you be your own boss, keep flexible hours, and focus on the tasks that matter.
 
 Most top-tier developers have avoided the traditional office for years. 44% of remote employees said they were less distracted when they worked from home. No more endless meetings, office distractions, or annoying coworkers. The bedroom is the new boardroom.
 
-## Employee Productivity Vs. Hours Worked
+## **Employee Productivity Vs. Hours Worked**
 
 One misconception about distributed teams is that they work fewer hours than their on-site counterparts. This is simply not true. Remote workers say they work more than [40 hours per week](https://www.owllabs.com/state-of-remote-work/2019 "Remote Work Report"), 43% more than on-site workers.
 
-The State of Remote Work Survey discovered the biggest reasons employees choose remote work: 
+The State of Remote Work Survey discovered the biggest reasons employees choose remote work:
 
-* Better work-life balance (91%) 
-* Increased productivity/better focus (79%) 
-* Less stress (78%) 
+* Better work-life balance (91%)
+* Increased productivity/better focus (79%)
+* Less stress (78%)
 * Avoiding a commute (78%)
 
 A distributed workforce can elevate a company’s efficiency, as well as boost employee morale and customer satisfaction. With flexible schedules, remote teams no longer need to worry about the yoke of the 9-to-5.
 
-## Remote Work Productivity
+## **Remote Work Productivity**
 
-The results are in. If brands want to get to the next level, they need to embrace remote work. 
+The results are in. If brands want to get to the next level, they need to embrace remote work.
 
-At Esteemed, we rub elbows with diverse, global digital rockstars every day. We see the benefits of WFA and distributed teams first-hand. 
+At Esteemed, we rub elbows with diverse, global digital rockstars every day. We see the benefits of WFA and distributed teams first-hand.
 
 Numerous studies have shown how much more productive, engaged, and effective employees can be when they’re empowered to choose where, when, and how they’ll get work done.
 
-## Can You Really Measure Employee Productivity?
+## **Can You Really Measure Employee Productivity?**
 
 Productivity metrics and benchmarks will be different for every business. Your productive output and efficiency are important factors to your success, and that balance is delicate.
 

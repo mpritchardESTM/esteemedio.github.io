@@ -37,7 +37,7 @@ We understand the frustration of staffing and have made it our goal to remove th
 
 ## Increased Employee Productivity
 
-Employers have been surprised that _productivity skyrockets when workers go remote_, even part-time. The flexibility of telecommuting has brought an infusion of energy to the workplace.
+Employers have been surprised that [_productivity skyrockets when workers go remote_](https://esteemed.io/blog/2020/08/01/can-remote-work-increase-employee-productivity/ "Read more on employee productivity"), even part-time. The flexibility of telecommuting has brought an infusion of energy to the workplace.
 
 Many top-tier developers have avoided the traditional office for years for good reason. 44% of remote employees said they were less distracted when they worked from home.
 
@@ -67,7 +67,7 @@ Organizations that have never considered distributed workforces are now facing o
 
 ## The Revolution Will Be Distributed
 
-Looking to transform the workday? 
+Looking to transform the workday?
 
 If you’re a results-oriented developer or digital professional looking to bolster your portfolio or meet some new and amazing clients, we’d love to meet you!
 

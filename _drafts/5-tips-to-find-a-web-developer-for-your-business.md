@@ -12,7 +12,7 @@ Finding a web developer for your company or agency is difficult. As he or she gu
 
 Your scope will help determine your web resource needs. For a small month-to-month project, you might just need a part-time support developer. A larger project, for example, might require the creation of specific web or cloud-based infrastructure. Your budget will determine which web skills and services you can afford. Figuring out this step is crucial. Not certain? Esteemed can lend a hand as you're learning your needs. The right hire will stay on track with your goals and within budget.
 
-## **Determine Your Services** 
+## **Determine Your Services**
 
 Depending upon your scope, you may want more than a web developer to finish the job. Web developers provide many services, but they specialize in niches. Whether they offer a full-range of services hinges on a few things: Are they a freelancer? Are they a contractor? Part of an agency? Here are some roles and responsibilities of some common web-related positions.
 
@@ -28,7 +28,7 @@ Web designers focus on the look and feel of a website. They rarely program new f
 
 Web teams have developers and designers to fulfill your business' website goals. Having a web team can ensure quality and efficiency for your project.
 
-## **Search for Your Talent** 
+## **Search for Your Talent**
 
 You can find developers on practice-specific websites. These sites allow filtering and searching based on certain skills. Some will have portfolios for the developers you are searching for. This is a great place to look for any niche skills. Use a job posting site specifically for developers. Why? It ensures you'll find a developer with the necessary skills for your project.
 
@@ -38,7 +38,7 @@ You can find developers on practice-specific websites. These sites allow filteri
 
 ### UpWork
 
-If you're looking for a one-off project like image editing or a quick blog, UpWork is a great platform for satisfying an immediate need. However, you will have to sift through hundreds of profiles in order to accomplish your goals, costing you time and money. 
+If you're looking for a one-off project like image editing or a quick blog, UpWork is a great platform for satisfying an immediate need. However, you will have to sift through hundreds of profiles in order to accomplish your goals, costing you time and money.
 
 ### DrupalContractors
 
@@ -46,12 +46,14 @@ Big site? Use Drupal? [Drupal Contractors](app.drupalcontractors.com "Visit Drup
 
 ### LinkedIn
 
-Looking for web developers on LinkedIn can be strenuous. As you’re scouting talent, you'll find developers from around the globe with a variety of different backgrounds. On LinkedIn, be certain you have a vetting process in place to help pre-screen your talent. 
+Looking for web developers on LinkedIn can be strenuous. As you’re scouting talent, you'll find developers from around the globe with a variety of different backgrounds. On LinkedIn, be certain you have a vetting process in place to help pre-screen your talent.
 
 ### Esteemed
 
-At Esteemed, we've pre-screened our 13,000+ resources in areas like WordPress, Drupal, E-commerce, and UI/UX. Our unique team of [distributed](https://esteemed.io/blog/2020/07/08/5-benefits-of-a-distributed-workforce/ "Learn more about a distributed workforce. "), digital experts integrate with your company's communication networks. Instantly, you are connected with resource managers who will help you get the [talent you need](https://esteemed.io/blog/2020/07/25/5-reasons-why-you-should-join-a-talent-network/ "Learn more about our Talent Network!") to finish your project. 
+At Esteemed, we've pre-screened our 13,000+ resources in areas like WordPress, Drupal, E-commerce, and UI/UX. Our unique team of [distributed](https://esteemed.io/blog/2020/07/08/5-benefits-of-a-distributed-workforce/ "Learn more about a distributed workforce. "), digital experts integrate with your company's communication networks. Instantly, you are connected with resource managers who will help you get the [talent you need](https://esteemed.io/blog/2020/07/25/5-reasons-why-you-should-join-a-talent-network/ "Learn more about our Talent Network!") to finish your project.
 
-## **Get to Work** 
+## **Get to Work**
 
-## **Pay Your Developer** 
+Working with just the web developer? If you don't have a project manager, you must communicate project milestones, as well as anticipated due dates. Remember this is your project.
+
+## **Pay Your Developer**

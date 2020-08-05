@@ -111,6 +111,17 @@ $global-color-pick-contrast-tolerance: 0;
 $print-transparent-backgrounds: true;
 $print-hrefs: true;
 
+// Esteemed Color Pallet.
+$hero-gold: #ecc01c;
+$light-blue: #b8cfeb;
+$dark-blue: #264083;
+$highlight-red: #ec7249;
+$peppercorn: #231f20;
+$button-blue: #4389c8;
+$button-hover-blue: #4d64af;
+$dark-grey: #acb9c4;
+$light-grey: #dde4e8;
+
 @include add-foundation-colors;
 
 // 2. Breakpoints

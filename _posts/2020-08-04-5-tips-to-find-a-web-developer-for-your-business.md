@@ -34,7 +34,7 @@ You can find developers on practice-specific websites. These sites allow filteri
 
 ### WordPress Contractors
 
-[WordPress Contractors](app.wpcontractors.com "Visit WordPress Contractors") is perfect for businesses looking for WordPress developers with and without niches. They have job postings as well as different size plans that can help you find the web experts you are looking for.
+[WordPress Contractors](https://app.wpcontractors.com "Visit WordPress Contractors") is perfect for businesses looking for WordPress developers with and without niches. They have job postings as well as different size plans that can help you find the web experts you are looking for.
 
 ### UpWork
 
@@ -42,7 +42,7 @@ If you're looking for a one-off project like image editing or a quick blog, UpWo
 
 ### DrupalContractors
 
-Big site? Use Drupal? [Drupal Contractors](app.drupalcontractors.com "Visit Drupal Contractors") is for web developers that have years of Drupal experience. Browse through their portfolios and skills to find the right Drupal web developer.
+Big site? Use Drupal? [Drupal Contractors](https://app.drupalcontractors.com "Visit Drupal Contractors") is for web developers that have years of Drupal experience. Browse through their portfolios and skills to find the right Drupal web developer.
 
 ### LinkedIn
 

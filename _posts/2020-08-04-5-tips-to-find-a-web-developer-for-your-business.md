@@ -1,5 +1,5 @@
 ---
-date: 2020-08-04 18:54:17 +0000
+date: 2020-08-04T18:54:17.000+00:00
 author: matthew-pritchard
 categories: []
 title: 5 Tips to Find a Web Developer for Your Business
@@ -54,6 +54,10 @@ At Esteemed, we've pre-screened our 13,000+ resources in areas like WordPress, D
 
 ## **Get to Work**
 
-Working with just the web developer? If you don't have a project manager, you must communicate project milestones, as well as anticipated due dates. Remember this is your project.
+Once you've chosen your talent, it's time to start the project. Only working with a web developer? If you don't have a project manager, you must communicate anticipated due dates and project milestones. Remember this is your project. Trust your developer's expertise, and let them guide you. Nitpicking can  slow down your project. Additionally, make sure to review progress when it is provided. Developers can't move on with your project until then. If you delay your feedback, you run the risk of delaying your project. 
 
 ## **Pay Your Developer**
+
+Handling contracts without a dedicated hiring resource? Make sure to read the terms of your developer's contract. Agree on milestones, and continue to provide payment as the project progresses. Set expectations, but be flexible. 
+
+Hiring a web developer is not always easy, but that doesn't mean it has to be a bad experience. Hopefully you'll learn more about your project as you learn more about what different developers are capable of. You'll also have more time to focus on the things that matter to you, like scaling your business. Once you have a good relationship with the right candidate, they'll ideally become your client for life! Need help finding that trusted advisor? [Talk with us today](https://esteemed.io/sales/schedule-demo/ "Schedule a Demo!"). 

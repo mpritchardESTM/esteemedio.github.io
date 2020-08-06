@@ -35,7 +35,7 @@
       }
 
       img {
-        height: 40px;
+        height: 2.5rem;
       }
     }
 
@@ -44,9 +44,9 @@
 
       button {
         background-color: $medium-gray;
-        height: 15px;
+        height: 1rem;
         padding: 0;
-        width: 15px;
+        width: 1rem;
 
         &:hover,
         &.is-active {

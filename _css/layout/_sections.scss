@@ -154,17 +154,13 @@ body {
 
   &__content {
     color: $black;
+    font-size: 1.125rem;
+    line-height: 2.1;
     margin-top: 2rem;
 
     &--image {
       margin-bottom: 2rem;
       text-align: center;
-    }
-
-    &,
-    * {
-      font-size: 1.125rem;
-      line-height: 2.1;
     }
   }
 

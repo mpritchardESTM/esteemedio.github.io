@@ -20,6 +20,11 @@ body {
     padding: $section-spacing 0;
   }
 
+  @include breakpoint(small only) {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
   &.texture--above {
     padding-top: $section-spacing;
 
@@ -349,6 +354,14 @@ body {
 }
 
 .page__schedule-demo {
+
+  .video__wrapper iframe {
+    max-width: 100%;
+
+    @include breakpoint(small only) {
+      height: 250px;
+    }
+  }
 
   .calendly-inline-widget {
 

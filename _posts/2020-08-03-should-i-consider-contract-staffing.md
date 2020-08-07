@@ -1,5 +1,5 @@
 ---
-date: 2020-08-03 18:28:56 +0000
+date: 2020-08-03T18:28:56.000+00:00
 author: casey-horgan
 categories:
 - staffing solutions
@@ -7,6 +7,7 @@ categories:
 - 'remote work '
 title: Should I Consider Contract Staffing?
 image: "/uploads/pexels-burst-374085.jpg"
+featured: false
 
 ---
 Times have changed. Even before Covid-19 disrupted workplace behavior, the labor market was transforming. Now, this evolution is in overdrive.
@@ -37,7 +38,7 @@ There are ample problems that stem from having too many or too few employees. Av
 
 ### **Reduction in Hiring Costs**
 
-As the hiring process for contract staffing takes less time, you save big. Recruitment costs less for contractors than full-time employees, too. By partnering with a contract staffing agency, you skip lengthy interviewing and vetting processes with busy decision-makers.
+As the hiring process for contract staffing takes less time, you save big. Recruitment costs less for contractors than full-time employees, too. By [partnering with a contract staffing agency](https://esteemed.io/blog/2020/08/01/can-remote-work-increase-employee-productivity/ "Partner with us! "), you skip lengthy interviewing and vetting processes with busy decision-makers.
 
 You pay your contractors only for the hours they work or jobs they complete, as opposed to salaried positions with benefits. Recurring expenses like healthcare, 401(k) contributions and PTO won’t apply.
 

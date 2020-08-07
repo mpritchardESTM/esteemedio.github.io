@@ -19,7 +19,7 @@ At Esteemed, we’re on a mission to help people around the world work smarter, 
 
 For nearly a decade, we’ve been tracking how remote work positively impacts our network. Our colleagues and clients see the difference too.
 
-“65% of employees believe they’re more productive when they work outside of the office, and 47% wish their company provided this benefit.”—[Marija Kojic](https://clockify.me/blog/productivity/increase-employee-productivity/ "Marja Kojic's Biography"), Productivity Writer
+> “65% of employees believe they’re more productive when they work outside of the office, and 47% wish their company provided this benefit.”—[Marija Kojic](https://clockify.me/blog/productivity/increase-employee-productivity/ "Marja Kojic's Biography"), Productivity Writer
 
 On the whole, remote teams get more done. And they do it all without a dreadful commute.
 
@@ -56,7 +56,7 @@ Productivity metrics and benchmarks will be different for every business. Your p
 
 Optimizing that path forward is an important step on the journey, and that’s why we can’t ignore the evidence.
 
-“... A typical employer can save an average of $11,000 per half-time telecommuter per year. The primary savings are the result of increased productivity, lower real estate costs, reduced absenteeism and turnover, and better disaster preparedness.” —[Global Workplace Analytics](https://globalworkplaceanalytics.com/telecommuting-statistics)
+> “... A typical employer can save an average of $11,000 per half-time telecommuter per year. The primary savings are the result of increased productivity, lower real estate costs, reduced absenteeism and turnover, and better disaster preparedness.” —[Global Workplace Analytics](https://globalworkplaceanalytics.com/telecommuting-statistics)
 
 But more than math, we’ve seen the difference in output first-hand, and the future is bright!
 

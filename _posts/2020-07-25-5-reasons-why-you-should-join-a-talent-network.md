@@ -7,9 +7,10 @@ categories:
 - partner program
 title: 5 Reasons Why You Should Join a Talent Network
 image: "/uploads/talentnetwork-1.png"
+featured: false
 
 ---
-At Esteemed, we have spent a decade building our Talent Network. Having started an agency in 2011, we have sponsored countless events, amassed an impressive list of clients and formed many relationships with top talent. We’re a community of pre-screened digital professionals spread across multiple disciplines and categories. We have practices focused on CMS (WordPress, Drupal, Sitecore, AEM and more), E-commerce, UX, and Cloud. We deliver our service via the tools our clients already use. Built on Slack our premier platform allows us to post open roles, communicate and collaborate with client employers and client providers. We can connect you with a potential hiring manager in minutes. A network of this type removes the burden of business development from a contractor and provides a host of other benefits even for those seeking full-time work.
+At Esteemed, we have spent a decade building our Talent Network. Having started an agency in 2011, we have sponsored countless events, amassed an impressive list of clients and formed many relationships with top talent. We’re a community of pre-screened digital professionals spread across multiple disciplines and categories. We have practices focused on CMS (WordPress, Drupal, Sitecore, AEM and more), E-commerce, UX, and Cloud. We deliver our service via the tools our clients already use. Built on Slack, our premier platform allows us to post open roles, communicate, and collaborate with client employers and client providers. We can connect you with a potential hiring manager in minutes. A network of this type removes the burden of business development from a contractor and provides a [host of other benefits](https://esteemed.io/blog/2020/08/03/should-i-consider-contract-staffing/ "Learn more about the benefits of the contract workforce.") even for those seeking full-time work.
 
 ## **Less Time Searching, More Time Working**
 
@@ -23,7 +24,7 @@ In our years in the digital space we find companies work with who they trust. Wh
 
 ## **Grow Your Own Network**
 
-When you join the Esteemed Talent Network, you gain access to hundreds on Slack and thousands in the network at large. Developers, architects, project managers and other digital professionals with a range of experience are available for questions, collaboration or even teaming up on a project that you might need help with. Got a quick question about [Drupal Commerce](https://app.drupalcontractors.com/blogs/come-commerce-drupal-way)? Reach out to one of our Drupal experts on our #drupal Slack channel and start a conversation.
+When you join the Esteemed Talent Network, you gain access to hundreds on Slack and thousands in the network at large. [Developers](https://esteemed.io/blog/2020/08/04/5-tips-to-find-a-web-developer-for-your-business/ "Learn how to hire a web developer."), architects, project managers and other digital professionals with a range of experience are available for questions, collaboration or even teaming up on a project that you might need help with. Got a quick question about [Drupal Commerce](https://app.drupalcontractors.com/blogs/come-commerce-drupal-way)? Reach out to one of our Drupal experts on our #drupal Slack channel and start a conversation.
 
 Our Esteemed members are always happy to offer advice, insight, and support. We’re a friendly, open company and we pride ourselves on our ability to build relationships with quality talent and grow lasting connections—whether that be between employer clients or members.
 
@@ -31,7 +32,7 @@ Our Esteemed members are always happy to offer advice, insight, and support. We�
 
 At Esteemed, you can also gain access to opportunities not listed on job sites. More than half of job seekers report that their preferred source for finding jobs is online. The second most popular method? Hearing about jobs from a friend or trusted colleague. We keep a close eye on our current and potential clients, and often hear about their needs first. This means they come to us first before posting on LinkedIn, Indeed, or even on their own website.
 
-Because of our unique relationship with agencies and organizations, joining our talent network might even assist with transforming your skill-set to a new area. For example, a developer who may want to transition to Project Management or an Executive role. We have helped many in the network transition to related areas. We believe in doing what you love. For some, that can change over time. We are here to help.
+Because of our unique relationship with agencies and organizations, joining our talent network might even assist with transforming your skill-set to a new area. For example: a developer who may want to transition to Project Management, or an Executive role. We have helped many in the network transition to related areas. We believe in doing what you love. For some, that can change over time. We are here to help.
 
 ## **A Little Help from Your Friends**
 

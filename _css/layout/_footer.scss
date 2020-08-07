@@ -56,7 +56,12 @@
     font-size: rem-calc(40);
     font-weight: $global-weight-bold;
     line-height: 1;
-    margin-bottom: 1.8rem;
+    margin-bottom: 2.75rem;
+
+    img {
+      height: auto;
+      max-width: 12.0625rem;
+    }
   }
 
   &__copyright {

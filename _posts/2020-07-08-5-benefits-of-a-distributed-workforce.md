@@ -35,31 +35,31 @@ We understand the frustration of staffing and have made it our goal to remove th
 * Improved culture, loyalty, and retention
 * And a better bottom-line for your business
 
-## Increased Employee Productivity
+### Increased Employee Productivity
 
 Employers have been surprised that [_productivity skyrockets when workers go remote_](https://esteemed.io/blog/2020/08/01/can-remote-work-increase-employee-productivity/ "Read more on employee productivity"), even part-time. The flexibility of telecommuting has brought an infusion of energy to the workplace.
 
 Many top-tier developers have avoided the traditional office for years for good reason. 44% of remote employees said they were less distracted when they worked from home.
 
-## Happier Employees Are More Productive
+### Happier Employees Are More Productive
 
 Happy workers get more done. In a survey from the [State of Remote Work 2019](https://www.owllabs.com/state-of-remote-work/2019) “83% of survey respondents agreed that the ability to work remotely would make them happier.”
 
 Not to mention that \~1,100 US-based firms reported improved relations between managers and workers after implementing a remote-work program.
 
-## Top Global Talent at Your Fingertips
+### Top Global Talent at Your Fingertips
 
 With Esteemed, you can quickly source digital professionals from a pre-vetted pool of global super-stars.
 
 Gone are the days of murky job sites, bad leads, unreliable recruiters, and wasted weeks.
 
-## Improved Culture, Loyalty, and Retention
+### Improved Culture, Loyalty, and Retention
 
 Now more than ever organizations desire a diversity of voices, global leaders with unique viewpoints, and loyal employees who consider flexibility a benefit.
 
 “The impact of telecommuting on employee retention is among the least controversial findings—95% of employers say that telework has a high impact on employee retention.”— [PGI.com](https://www.pgi.com/blog/2019/11/how-telecommuting-saves-money-and-the-planet-too/)
 
-## The Bottom-Line for Your Business
+### The Bottom-Line for Your Business
 
 With the rising costs of office equipment and space, remote employees can save the average business close to $11,000 annually for even a part-time hire.
 

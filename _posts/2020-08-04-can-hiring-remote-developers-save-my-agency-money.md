@@ -1,5 +1,5 @@
 ---
-date: 2020-08-04 01:53:08 +0000
+date: 2020-08-04T01:53:08.000+00:00
 author: kelton-reid
 categories:
 - remote work
@@ -7,6 +7,7 @@ categories:
 - business
 title: Can Hiring Remote Developers Save My Agency Money?
 image: "/uploads/micheile-henderson-zvprbbmt8qa-unsplash.jpg"
+featured: true
 
 ---
 # Can Hiring Remote Developers Save My Agency Money?

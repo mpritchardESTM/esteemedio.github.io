@@ -1,11 +1,12 @@
 ---
-date: 2020-08-01 14:47:36 +0000
+date: 2020-08-01T14:47:36.000+00:00
 author: kelton-reid
 categories:
 - remote work
 - productivity
 title: 'Can Remote Work Increase Employee Productivity? '
 image: "/uploads/pexels-cottonbro-4064821.jpg"
+featured: true
 
 ---
 Our new normal has many businesses and contractors rethinking the future of work. Throughout the current economic uncertainty and global pandemic, remote work is on everyone’s mind. But should you embrace it?

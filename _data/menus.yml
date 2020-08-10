@@ -5,13 +5,17 @@ navigation:
   url: "/company/"
   weight: 1
 - button: 0
+  title: Blog
+  url: "/blog/"
+  weight: 2
+- button: 0
   title: Pricing
   url: "/pricing/"
-  weight: 2
+  weight: 3
 - button: 1
   title: Schedule Demo
   url: "/sales/schedule-demo/"
-  weight: 3
+  weight: 4
 footer:
 - title: Communities
   menu:

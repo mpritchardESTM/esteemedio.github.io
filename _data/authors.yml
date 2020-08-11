@@ -26,3 +26,9 @@ matthew-pritchard:
   bio: 'Matthew Ellis Pritchard is a digital content marketer and Esteemed Talent
     Network member, creating useful content for agency-owners, businesses and freelancers/contractors
     alike. Let''s connect at m.pritchard@esteemed.io. '
+gloria-tucker: 
+  name: Gloria Tucker
+  image: "/image/gloria-tucker.jpg"
+  bio: 'Gloria is an ambitious senior backend web developer who specializes in Drupal and is passionate 
+    about open-source software and government web projects. In her spare time, she enjoys her family, 
+    having fun with friends, and reading literature. '

@@ -1,6 +1,6 @@
 ---
 date: 2020-08-03T18:28:56.000+00:00
-author: m-shakaib-zafar
+author: casey-horgan
 categories:
 - staffing solutions
 - 'talent network '

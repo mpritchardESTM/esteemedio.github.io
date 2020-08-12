@@ -38,15 +38,15 @@ There are ample problems that stem from having too many or too few employees. Av
 
 ### **Reduction in Hiring Costs**
 
-As the hiring process for contract staffing takes less time, you save big. Recruitment costs less for contractors than full-time employees, too. By [partnering with a contract staffing agency](https://esteemed.io/blog/2020/08/01/can-remote-work-increase-employee-productivity/ "Partner with us! ")\{:target='_blank'\}, you skip lengthy interviewing and vetting processes with busy decision-makers.
+As the hiring process for contract staffing takes less time, you save big. Recruitment costs less for contractors than full-time employees, too. By [partnering with a contract staffing agency](https://esteemed.io/blog/2020/08/01/can-remote-work-increase-employee-productivity/ "Partner with us! "){:target='_blank'}, you skip lengthy interviewing and vetting processes with busy decision-makers.
 
 You pay your contractors only for the hours they work or jobs they complete, as opposed to salaried positions with benefits. Recurring expenses like healthcare, 401(k) contributions and PTO won’t apply.
 
 ## **Where Should I Turn for Contract Staffing Solutions?**
 
-There is no centralized source for contractors and freelancers. Talent is scattered. Developers and engineers are on LinkedIn, Indeed, job boards, and working for your competitors. Your touchpoints are overwhelming. Looking for [top talent](https://esteemed.io/blog/2020/07/25/5-reasons-why-you-should-join-a-talent-network/ "Learn more about our Talent Network.")\{:target='_blank'\} in a sea of choices is no easy feat.
+There is no centralized source for contractors and freelancers. Talent is scattered. Developers and engineers are on LinkedIn, Indeed, job boards, and working for your competitors. Your touchpoints are overwhelming. Looking for [top talent](https://esteemed.io/blog/2020/07/25/5-reasons-why-you-should-join-a-talent-network/ "Learn more about our Talent Network."){:target='_blank'} in a sea of choices is no easy feat.
 
-Trying to fill a technical position? Work with an industry-specific contract staffing agency, like [WordPress Contractors](https://app.wpcontractors.com "Visit WPContractors!")\{:target='_blank'\} or [Drupal Contractors](app.drupalcontractors.com "Visit DrupalContractors!")\{:target='_blank'\}. It’s better than trying to recruit a developer contractor on your own. Why? Tech staffing differs from other freelance and contractor placement. There’s a fundamental lack of engineers and technical management, making it hard to find your ideal candidate.
+Trying to fill a technical position? Work with an industry-specific contract staffing agency, like [WordPress Contractors](https://app.wpcontractors.com "Visit WPContractors!"){:target='_blank'} or [Drupal Contractors](app.drupalcontractors.com "Visit DrupalContractors!"){:target='_blank'}. It’s better than trying to recruit a developer contractor on your own. Why? Tech staffing differs from other freelance and contractor placement. There’s a fundamental lack of engineers and technical management, making it hard to find your ideal candidate.
 
 ## **What Should I Look for in a Contract Staffing Agency?**
 
@@ -70,4 +70,4 @@ If transparency and communication are important to your hiring process, how will
 
 Staffing your organization with contractors and freelancers is cost-effective and well-suited for the modern workplace. Considering the trends in remote work and contract positions, you’re at a competitive disadvantage if you don’t capitalize on this hiring strategy. You can find the best talent at reasonable prices. Best of all, you don’t have to break a sweat if you team up with the right agency.
 
-Want to learn more? [Get in touch with us today](https://esteemed.io/sales/schedule-demo/ "Get in touch")\{:target='_blank'\}
+Want to learn more? [Get in touch with us today](https://esteemed.io/sales/schedule-demo/ "Get in touch"){:target='_blank'}

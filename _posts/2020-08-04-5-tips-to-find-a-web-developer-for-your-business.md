@@ -38,7 +38,7 @@ You can find developers on practice-specific websites. These sites allow filteri
 
 ### WordPress Contractors
 
-[WordPress Contractors](https://app.wpcontractors.com "Visit WordPress Contractors") is perfect for businesses looking for WordPress developers with and without niches. They have job postings as well as different size plans that can help you find the web experts you are looking for.
+[WordPress Contractors](https://app.wpcontractors.com "Visit WordPress Contractors"){:target='_blank'} is perfect for businesses looking for WordPress developers with and without niches. They have job postings as well as different size plans that can help you find the web experts you are looking for.
 
 ### UpWork
 
@@ -46,7 +46,7 @@ If you're looking for a one-off project like image editing or a quick blog, UpWo
 
 ### DrupalContractors
 
-Big site? Use Drupal? [Drupal Contractors](https://app.drupalcontractors.com "Visit Drupal Contractors") is for web developers that have years of Drupal experience. Browse through their portfolios and skills to find the right Drupal web developer.
+Big site? Use Drupal? [Drupal Contractors](https://app.drupalcontractors.com "Visit Drupal Contractors"){:target='_blank'} is for web developers that have years of Drupal experience. Browse through their portfolios and skills to find the right Drupal web developer.
 
 ### LinkedIn
 
@@ -54,7 +54,7 @@ Looking for web developers on LinkedIn can be strenuous. As you’re scouting ta
 
 ### Esteemed
 
-At Esteemed, we've pre-screened our 13,000+ resources in areas like WordPress, Drupal, E-commerce, and UI/UX. Our unique team of [distributed](https://esteemed.io/blog/2020/07/08/5-benefits-of-a-distributed-workforce/ "Learn more about a distributed workforce. "), digital experts integrate with your company's communication networks. Instantly, you are connected with resource managers who will help you get the [talent you need](https://esteemed.io/blog/2020/07/25/5-reasons-why-you-should-join-a-talent-network/ "Learn more about our Talent Network!") to finish your project.
+At Esteemed, we've pre-screened our 13,000+ resources in areas like WordPress, Drupal, E-commerce, and UI/UX. Our unique team of [distributed](https://esteemed.io/blog/2020/07/08/5-benefits-of-a-distributed-workforce/ "Learn more about a distributed workforce. "){:target='_blank'}, digital experts integrate with your company's communication networks. Instantly, you are connected with resource managers who will help you get the [talent you need](https://esteemed.io/blog/2020/07/25/5-reasons-why-you-should-join-a-talent-network/ "Learn more about our Talent Network!"){:target='_blank'} to finish your project.
 
 ## **Get to Work**
 
@@ -64,4 +64,4 @@ Once you've chosen your talent, it's time to start the project. Only working wit
 
 Handling contracts without a dedicated hiring resource? Make sure to read the terms of your developer's contract. Agree on milestones, and continue to provide payment as the project progresses. Set expectations, but be flexible.
 
-Hiring a web developer is not always easy, but that doesn't mean it has to be a bad experience. Hopefully you'll learn more about your project as you learn more about what different developers are capable of. You'll also have more time to focus on the things that matter to you, like scaling your business. Once you have a good relationship with the right candidate, they'll ideally become your client for life! Need help finding that trusted advisor? [Talk with us today](https://esteemed.io/sales/schedule-demo/ "Schedule a Demo!").
+Hiring a web developer is not always easy, but that doesn't mean it has to be a bad experience. Hopefully you'll learn more about your project as you learn more about what different developers are capable of. You'll also have more time to focus on the things that matter to you, like scaling your business. Once you have a good relationship with the right candidate, they'll ideally become your client for life! Need help finding that trusted advisor? [Talk with us today](https://esteemed.io/sales/schedule-demo/ "Schedule a Demo!"){:target='_blank'}.

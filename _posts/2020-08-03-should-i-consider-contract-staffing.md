@@ -12,7 +12,7 @@ featured: false
 ---
 Times have changed. Even before Covid-19 disrupted workplace behavior, the labor market was transforming. Now, this evolution is in overdrive.
 
-[One in four American workers](https://www.metlife.com/content/dam/metlifecom/us/ebts/pdf/MetLife_EBTS-GigReport_2019.pdf "MetLife Gig Report")[:target='_blank'] use freelancing/independent contracting as either their primary or supplemental source of income, according to a MetLife report. “It’s not just a trend,” the study finds, “it’s a fundamental shift in how our economy operates.” Even if your company bears all the hallmarks of a traditional workforce, you’re no longer immune to the “gig economy.”
+[One in four American workers](https://www.metlife.com/content/dam/metlifecom/us/ebts/pdf/MetLife_EBTS-GigReport_2019.pdf "MetLife Gig Report")\[:target='_blank'\]  use freelancing/independent contracting as either their primary or supplemental source of income, according to a MetLife report. “It’s not just a trend,” the study finds, “it’s a fundamental shift in how our economy operates.” Even if your company bears all the hallmarks of a traditional workforce, you’re no longer immune to the “gig economy.”
 
 If you’re a traditional employer, your talent pool might be shifting their gaze. If you're already using contractors, you're likely facing challenges with finding highly-qualified talent.  As more and more digital experts seek contract employment, it’s grown increasingly time-consuming to find the right person for the job.
 

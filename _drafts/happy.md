@@ -15,9 +15,9 @@ So how can your business accommodate this new work-life balance and stay on task
 
 ## What Is Work-Life Balance?
 
-Balancing work, personal time, and family life is different for everyone. With some flexibility, it's possible to create [solutions for workers and employers](https://esteemed.io/blog/2020/08/01/can-remote-work-increase-employee-productivity/ "Learn more about work-life balance. ").
+Balancing work, personal time, and family life is different for everyone. With some flexibility, it's possible to create [solutions for workers and employers](https://esteemed.io/blog/2020/08/01/can-remote-work-increase-employee-productivity/ "Learn more about work-life balance. "){:target='_blank'}.
 
-> "As we look ahead, it is clear that in order to remain competitive, employers must find ways to offer flexible work options if they want to attract and retain top talent," said Hank Jackson, president and CEO of the [Society for Human Resource Management](https://www.shrm.org/ "Visit the Society for Human Resource Management.").
+> "As we look ahead, it is clear that in order to remain competitive, employers must find ways to offer flexible work options if they want to attract and retain top talent," said Hank Jackson, president and CEO of the [Society for Human Resource Management](https://www.shrm.org/ "Visit the Society for Human Resource Management."){:target='_blank'}.
 
 For over a decade, we’ve worked with thousands of digital experts, and we know how hard it is to find the right people. For those hard-to-staff niches — like WordPress and Drupal — retention is even harder.
 
@@ -30,11 +30,7 @@ In five years, Millennials will make up 75% of the workforce. They’re not as f
 The future of work lies in talented, distributed networks of eager problem-solvers. And when asked about how working remotely makes them feel, the results are in:
 
 * In a survey from the State of Remote Work 2019 “83% of survey respondents agreed that the ability to work remotely would make them happier.”
-
-
 * Full-time remote workers resoundingly replied that they were 22% happier in their jobs than those who had never worked remotely.
-
-
 * In a report by PGI, 82% of distributed workers reported that telecommuting reduced their stress, and 80% reported that it improved their morale.
 
 That boost in morale can make a huge difference to your bottom-line and your peace of mind.
@@ -59,7 +55,7 @@ We understand first-hand the challenges of finding the right talent for the job.
 
 ## Take the Guesswork Out of Finding Top Talent
 
-The [Esteemed Talent Network](https://esteemed.io/company/) came about from our understanding that truly productive teams are built by word-of-mouth. Colleagues referring colleagues.
+The [Esteemed Talent Network](https://esteemed.io/company/){:target='_blank'} came about from our understanding that truly productive teams are built by word-of-mouth. Colleagues referring colleagues.
 
 With access to over 13,000 digital experts and a decade of networking, we see it over and over. And that’s why we’ve put our expertise into a solution that takes the guesswork out of staffing.
 

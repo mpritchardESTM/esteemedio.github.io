@@ -1,5 +1,5 @@
 ---
-date: 2020-08-11 14:19:33 +0000
+date: 2020-08-11T14:19:33.000+00:00
 author: kelton-reid
 categories:
 - remote work
@@ -9,13 +9,13 @@ image: ''
 featured: false
 
 ---
-As many businesses face hard choices about [rethinking the way they work](https://esteemed.io/blog/2020/07/08/5-benefits-of-a-distributed-workforce/), the world has shifted dramatically. Coronavirus will make its mark on the future of hiring too.
+As many businesses face hard choices about [rethinking the way they work](https://esteemed.io/blog/2020/07/08/5-benefits-of-a-distributed-workforce/){:target='_blank'}, the world has shifted dramatically. Coronavirus will make its mark on the future of hiring too.
 
 Over half of Americans have worked from home this year and many aren’t going back to the office any time soon. Most don’t want to.
 
-> “When the pandemic is over, one in six workers is projected to continue working from home or co-working at least two days a week, according to a recent survey by economists at Harvard Business School.”—[The Atlantic](https://www.theatlantic.com/ideas/archive/2020/08/just-small-shift-remote-work-could-change-everything/614980/)
+> “When the pandemic is over, one in six workers is projected to continue working from home or co-working at least two days a week, according to a recent survey by economists at Harvard Business School.”—[The Atlantic](https://www.theatlantic.com/ideas/archive/2020/08/just-small-shift-remote-work-could-change-everything/614980/){:target='_blank'}
 
-In addition to office space costs, new employee distancing regulations, masks, and cramped spaces concern many brands. 
+In addition to office space costs, new employee distancing regulations, masks, and cramped spaces concern many brands.
 
 The traditional office and set hours aren't ideal for most employees. Especially while commuting and public health are major societal concerns.
 
@@ -23,11 +23,11 @@ Agile workforces are the new normal for big tech companies like Google, Twitter,
 
 ## The Inevitable Rise of Remote Talent
 
-Leveraging distributed teams makes perfect sense right now. This surge in “telepresence” is helping businesses to [do way more with less](https://esteemed.io/blog/2020/08/04/can-hiring-remote-developers-save-my-agency-money/ "Learn how to save while hiring remotely.").
+Leveraging distributed teams makes perfect sense right now. This surge in “telepresence” is helping businesses to [do way more with less](https://esteemed.io/blog/2020/08/04/can-hiring-remote-developers-save-my-agency-money/ "Learn how to save while hiring remotely."){:target='_blank'}.
 
-> “The percentage of workers who say their employer is offering them flex time or remote work options has grown from 39% to 57% in the latest polling, conducted March 30-April 2, 2020.”—[Gallup](https://news.gallup.com/poll/306695/workers-discovering-affinity-remote-work.aspx)
+> “The percentage of workers who say their employer is offering them flex time or remote work options has grown from 39% to 57% in the latest polling, conducted March 30-April 2, 2020.”—[Gallup](https://news.gallup.com/poll/306695/workers-discovering-affinity-remote-work.aspx){:target='_blank'}
 
-But every business owner knows the true pain points of finding the right hire. The costs of recruitment efforts alone are staggering, averaging [$4000 per job in the U.S.](https://hbr.org/2019/05/recruiting)
+But every business owner knows the true pain points of finding the right hire. The costs of recruitment efforts alone are staggering, averaging [$4000 per job in the U.S.](https://hbr.org/2019/05/recruiting){:target='_blank'}
 
 Wasted time that could be spent on important projects. The slog of recruiting the best candidates for the job from untrusted talent pools and platforms. The endless assessments.
 
@@ -69,4 +69,4 @@ And we’ve integrated every step of the process into one simple Slack channel. 
 
 Esteemed teams are known to work smarter. We’re some of the brightest digital minds in the business, and we’re all about colleagues recommending colleagues.
 
-Let us do the hard part so you can get back to business as usual. [Drop us a line today](https://esteemed.io/pricing/) about all your staffing needs!
+Let us do the hard part so you can get back to business as usual. [Drop us a line today](https://esteemed.io/pricing/){:target='_blank'} about all your staffing needs!

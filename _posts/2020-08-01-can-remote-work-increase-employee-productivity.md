@@ -19,7 +19,7 @@ At Esteemed, we’re on a mission to help people around the world work smarter, 
 
 For nearly a decade, we’ve been tracking how remote work positively impacts our network. Our colleagues and clients see the difference too.
 
-> “65% of employees believe they’re more productive when they work outside of the office, and 47% wish their company provided this benefit.”—[Marija Kojic](https://clockify.me/blog/productivity/increase-employee-productivity/ "Marja Kojic's Biography"), Productivity Writer
+> “65% of employees believe they’re more productive when they work outside of the office, and 47% wish their company provided this benefit.”—[Marija Kojic](https://clockify.me/blog/productivity/increase-employee-productivity/ "Marja Kojic's Biography"){:target='_blank'}, Productivity Writer
 
 On the whole, remote teams get more done. And they do it all without a dreadful commute.
 
@@ -31,7 +31,7 @@ Most top-tier developers have avoided the traditional office for years. 44% of r
 
 ## **Employee Productivity Vs. Hours Worked**
 
-One misconception about distributed teams is that they work fewer hours than their on-site counterparts. This is simply not true. Remote workers say they work more than [40 hours per week](https://www.owllabs.com/state-of-remote-work/2019 "Remote Work Report"), 43% more than on-site workers.
+One misconception about distributed teams is that they work fewer hours than their on-site counterparts. This is simply not true. Remote workers say they work more than [40 hours per week](https://www.owllabs.com/state-of-remote-work/2019 "Remote Work Report"){:target='_blank'}, 43% more than on-site workers.
 
 The State of Remote Work Survey discovered the biggest reasons employees choose remote work:
 
@@ -56,10 +56,10 @@ Productivity metrics and benchmarks will be different for every business. Your p
 
 Optimizing that path forward is an important step on the journey, and that’s why we can’t ignore the evidence.
 
-> “... A typical employer can save an average of $11,000 per half-time telecommuter per year. The primary savings are the result of increased productivity, lower real estate costs, reduced absenteeism and turnover, and better disaster preparedness.” —[Global Workplace Analytics](https://globalworkplaceanalytics.com/telecommuting-statistics)
+> “... A typical employer can save an average of $11,000 per half-time telecommuter per year. The primary savings are the result of increased productivity, lower real estate costs, reduced absenteeism and turnover, and better disaster preparedness.” —[Global Workplace Analytics](https://globalworkplaceanalytics.com/telecommuting-statistics){:target='_blank'}
 
 But more than math, we’ve seen the difference in output first-hand, and the future is bright!
 
-If you’re in need of an extra pair of trusted hands, a technical expert, or a strategic advisor with one of your projects, [let us know]().
+If you’re in need of an extra pair of trusted hands, a technical expert, or a strategic advisor with one of your projects, [let us know](){:target='_blank'}.
 
 We're 13,000+ strong and growing, distributed, and experienced in all things digital.

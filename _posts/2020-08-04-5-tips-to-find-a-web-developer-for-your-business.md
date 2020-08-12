@@ -18,7 +18,7 @@ Your scope will help determine your web resource needs. For a small month-to-mon
 
 ## **Determine Your Services**
 
-Depending upon your scope, you may want more than a web developer to finish the job. Web developers provide many services, but they specialize in niches. Whether they offer a full-range of services hinges on a few things: Are they a freelancer? Are they a contractor? Part of an agency? Here are some roles and responsibilities of some common web-related positions.
+Depending upon your scope, you may want more than a web developer to finish the job. Web developers provide many services, but they specialize in niches. Whether they offer a full-range of services hinges on a few things: Are they a freelancer? Are they a contractor? Part of an agency? Here are some roles and responsibilities of some web-related positions.
 
 ### Web Developers
 

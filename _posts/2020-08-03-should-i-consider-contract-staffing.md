@@ -71,4 +71,4 @@ If transparency and communication are important to your hiring process, how will
 Staffing your organization with contractors and freelancers is cost-effective and well-suited for the modern workplace. Considering the trends in remote work and contract positions, you’re at a competitive disadvantage if you don’t capitalize on this hiring strategy. You can find the best talent at reasonable prices. Best of all, you don’t have to break a sweat if you team up with the right agency.
 
 Want to learn more? [Get in touch with us today](https://esteemed.io/sales/schedule-demo/ "Let's Chat!").  
-<a href="#" target="_blank">Get in Touch</a>
+<a href="#" target="_blank">Get in Touch</a> 

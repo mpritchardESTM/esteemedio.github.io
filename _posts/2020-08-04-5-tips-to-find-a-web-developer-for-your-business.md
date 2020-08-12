@@ -1,6 +1,6 @@
 ---
 date: 2020-08-04T18:54:17.000+00:00
-author: matthew-pritchard
+author: gloria-tucker
 categories:
 - web development
 - remote work

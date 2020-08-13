@@ -8,6 +8,7 @@ body {
   &.page__mobile-nav-hidden {
 
     @include breakpoint(medium down) {
+      min-height: calc(100vh + 1px);
       padding-top: 0;
     }
   }
@@ -331,14 +332,6 @@ body {
 }
 
 .sales-deck {
-
-  &__video {
-    max-width: 100%;
-
-    @include breakpoint(small only) {
-      height: 350px;
-    }
-  }
 
   &__wrapper {
 

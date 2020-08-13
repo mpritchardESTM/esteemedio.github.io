@@ -44,7 +44,7 @@ You can find developers on practice-specific websites. These sites allow filteri
 
 If you're looking for a one-off project like image editing or a quick blog, UpWork is a great platform for satisfying an immediate need. However, you will have to sift through hundreds of profiles in order to accomplish your goals, costing you time and money.
 
-### DrupalContractors
+### Drupal Contractors
 
 Big site? Use Drupal? [Drupal Contractors](https://app.drupalcontractors.com "Visit Drupal Contractors"){:target='_blank'} is for web developers that have years of Drupal experience. Browse through their portfolios and skills to find the right Drupal web developer.
 

@@ -36,9 +36,9 @@ Web teams have developers and designers to fulfill your business' website goals.
 
 You can find developers on practice-specific websites. These sites allow filtering and searching based on certain skills. Some will have portfolios for the developers you are searching for. This is a great place to look for any niche skills. Use a job posting site specifically for developers. Why? It ensures you'll find a developer with the necessary skills for your project.
 
-### WordPress Contractors
+### WP Contractors
 
-[WordPress Contractors](https://app.wpcontractors.com "Visit WordPress Contractors"){:target='_blank'} is perfect for businesses looking for WordPress developers with and without niches. They have job postings as well as different size plans that can help you find the web experts you are looking for.
+[WP Contractors](https://app.wpcontractors.com "Visit WordPress Contractors"){:target='_blank'} is perfect for businesses looking for WordPress developers with and without niches. They have job postings as well as different size plans that can help you find the web experts you are looking for.
 
 ### UpWork
 

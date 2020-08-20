@@ -1,3 +1,20 @@
+<div id="contact-form">
+  <div class="contact-form__wrapper padding-top-3 text-center">
+    <div class="grid-container">
+      <h3>Scale your workforce instantly to meet the needs of your business</h3>
+      <!--[if lte IE 8]>
+      <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+      <![endif]-->
+      <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+      <script>
+      hbspt.forms.create({
+      portalId: "7487839",
+      formId: "611b47d0-e36f-4a9d-ad66-050e90a37b2e"
+      });
+      </script>
+    </div>
+  </div>
+</div>
 <footer class="footer u-bg-gray">
   <div class="footertop">
     <div class="grid-container w-clearfix">
@@ -8,6 +25,7 @@
           </a>
         </div>
       </div>
+      {% include social-links.html class="hide-for-medium" %}
       <div class="grid-x footerbottom w-clearfix">
         <div class="footerbottom__first cell small-6 large-3">
           <div class="footerbottom__first--content">
@@ -18,13 +36,7 @@
               <li><a class="mail" href="mailto:press@esteemed.io">press@esteemed.io</a></li>
             </ul>
           </div>
-          <div class="footerbottom__social">
-            <a href="https://www.facebook.com/Esteemed-106526290944059/" class="footerbottom__social-icon" target="_blank"><img src="/img/facebook.svg"><span class="show-for-sr">Facebook</span></a>
-            <a href="https://www.instagram.com/esteemed_inc/" class="footerbottom__social-icon" target="_blank"><img src="/img/instagram.svg"><span class="show-for-sr">Instagram</span></a>
-            <a href="https://twitter.com/EsteemedTalent" class="footerbottom__social-icon" target="_blank"><img src="/img/twitter.svg"><span class="show-for-sr">Twitter</span></a>
-            <a href="https://www.linkedin.com/company/esteemed/" class="footerbottom__social-icon" target="_blank"><img src="/img/linkedin.svg"><span class="show-for-sr">Linkedin</span></a>
-            <a href="mailto:{{ site.email }}" class="footerbottom__social-icon" target="_blank"><img src="/img/email.svg"><span class="show-for-sr">Email</span></a>
-          </div>
+          {% include social-links.html class="show-for-medium" %}
         </div>
         <div class="footerbottom__second cell small-6 large-3">
           <div class="footerbottom__first--content">

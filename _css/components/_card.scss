@@ -4,13 +4,17 @@
   &--narrow {
     margin: 0 auto;
     max-width: 320px;
+
+    @include breakpoint(small only) {
+      margin-bottom: 2rem;
+    }
   }
 
   .simple-card__image {
     margin-bottom: $double-spacing;
 
     img {
-      height: 200px;
+      height: 150px;
     }
   }
 

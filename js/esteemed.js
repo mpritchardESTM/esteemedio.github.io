@@ -1615,7 +1615,7 @@ function (_Plugin) {
         'aria-expanded': true,
         'aria-selected': true
       });
-      $target.stop().slideDown(this.options.slideSpeed, function () {
+      $target.finish().slideDown(this.options.slideSpeed, function () {
         /**
          * Fires when the tab is done opening.
          * @event Accordion#down
@@ -1644,7 +1644,7 @@ function (_Plugin) {
         'aria-expanded': false,
         'aria-selected': false
       });
-      $target.stop().slideUp(this.options.slideSpeed, function () {
+      $target.finish().slideUp(this.options.slideSpeed, function () {
         /**
          * Fires when the tab is done collapsing up.
          * @event Accordion#up
@@ -2214,7 +2214,7 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
 
 
 
-var FOUNDATION_VERSION = '6.6.2'; // Global Foundation object
+var FOUNDATION_VERSION = '6.6.3'; // Global Foundation object
 // This is attached to the window, or used as a module for AMD/Browserify
 
 var Foundation = {
@@ -14020,6 +14020,17 @@ $(window)
       site_nav.removeClass('shrink');
     }
   });
+
+// Smooth scroll for anchor links.
+document.querySelectorAll('a[href^="#"]').forEach(function(anchor) {
+  anchor.addEventListener('click', function (e) {
+    e.preventDefault();
+
+    document.querySelector(this.getAttribute('href')).scrollIntoView({
+      behavior: 'smooth'
+    });
+  });
+});
 
 // Hide navbar on mobile on mobile_hidden_navbar layout and show it only on scroll down.
 if ($(".page__mobile-nav-hidden").length) {

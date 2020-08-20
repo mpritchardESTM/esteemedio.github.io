@@ -41,6 +41,16 @@ body {
       padding-bottom: $lg-section-spacing;
     }
   }
+
+  &__testimonial {
+    padding-bottom: 4rem;
+    padding-top: 11rem;
+
+    @include breakpoint(small only) {
+      padding-bottom: 3rem;
+      padding-top: 3rem;
+    }
+  }
 }
 
 .blog-post {
@@ -329,6 +339,35 @@ body {
 
 .hs-form-iframe {
   width: 100% !important;
+}
+
+#contact-form {
+  margin-top: -4.5rem;
+  padding-top: 4.5rem;
+
+  @include breakpoint(medium down) {
+    margin-top: -4.875rem;
+    padding-top: 4.875rem;
+  }
+}
+
+.contact-form__wrapper {
+  background: $blue--btn;
+  color: $white;
+  padding-bottom: 4rem;
+
+  h3 {
+    margin: 0 auto 2rem auto;
+
+    @include breakpoint(large) {
+      margin: 0 auto 5rem auto;
+      max-width: 60%;
+    }
+  }
+}
+
+.esteemed-talent-logo {
+  max-width: 250px;
 }
 
 .sales-deck {

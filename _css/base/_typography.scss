@@ -9,6 +9,11 @@ h4 {
   margin-bottom: $spacing;
 }
 
+.h6 {
+  font-family: $font-lato;
+  font-size: 1.125rem;
+}
+
 a {
   transition: all 0.3s ease-out;
 
@@ -25,6 +30,15 @@ a {
   font-family: $font-poppins;
   font-weight: $global-weight-normal;
 
+  &.black {
+    background-color: $black;
+    transition: .3s;
+
+    &:hover {
+      opacity: .8;
+    }
+  }
+
   &.orange {
     background-color: $orange--btn;
   }
@@ -33,6 +47,27 @@ a {
     background-color: transparent;
     border: 2px solid $dark-gray;
     color: $dark-gray;
+  }
+  &__small {
+    padding: 0.9rem 1.3rem;
+  }
+
+  &__no-bg {
+    align-items: center;
+    display: flex;
+    font-family: $font-poppins;
+    font-weight: $global-weight-medium;
+
+    &:after {
+      background-image: url("../img/arrow-sm-right.svg");
+      background-repeat: no-repeat;
+      background-size: 100%;
+      content: "";
+      display: inline-block;
+      height: 1rem;
+      margin-left: 0.5rem;
+      width: 1rem;
+    }
   }
 }
 

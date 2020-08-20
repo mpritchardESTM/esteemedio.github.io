@@ -25,7 +25,9 @@
     max-width: 12.25rem;
 
     @include breakpoint(large up) {
+      bottom: -2px;
       height: 46px;
+      position: relative;
       transition: .3s;
     }
 

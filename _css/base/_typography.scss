@@ -5,6 +5,21 @@ h4 {
   font-weight: $global-weight-thin;
 }
 
+h1,
+.h1 {
+
+  &.main-title {
+
+    @include breakpoint(medium only) {
+      font-size: 4rem;
+    }
+
+    @include breakpoint(large) {
+      font-size: 5rem;
+    }
+  }
+}
+
 h2,
 .h2 {
 

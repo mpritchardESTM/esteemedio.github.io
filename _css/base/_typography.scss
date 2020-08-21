@@ -5,6 +5,14 @@ h4 {
   font-weight: $global-weight-thin;
 }
 
+h2,
+.h2 {
+
+  @include breakpoint(medium) {
+    font-size: 3.438rem;
+  }
+}
+
 .h5 {
   margin-bottom: $spacing;
 }

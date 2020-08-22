@@ -21,7 +21,7 @@ The traditional office and set hours aren't ideal for most employees. Especially
 
 Agile workforces are the new normal for big tech companies like Google, Twitter, Microsoft, and Facebook. And here’s why...
 
-## The Inevitable Rise of Remote Talent
+### The Inevitable Rise of Remote Talent
 
 Leveraging distributed teams makes perfect sense right now. This surge in “telepresence” is helping businesses to [do way more with less](https://esteemed.io/blog/2020/08/04/can-hiring-remote-developers-save-my-agency-money/ "Learn how to save while hiring remotely."){:target='_blank'}.
 
@@ -33,7 +33,7 @@ Wasted time that could be spent on important projects. The slog of recruiting th
 
 CEOs still report that their biggest concern is hiring talent. Many also report that they think the current drought of talent and skill is the biggest threat to their business.
 
-## Is Your Approach to Hiring Outdated?
+### Is Your Approach to Hiring Outdated?
 
 Often the results don’t add up. Good hires seem to be a crapshoot, and your competitors are always trying to steal your best people.
 
@@ -45,7 +45,7 @@ Top talent gets snatched up fast with perks like time, location, and lifestyle f
 
 Are your recruiting methods causing you to miss out on a highly talented pool of digital employees?
 
-## Top Global Talent at Your Fingertips
+### Top Global Talent at Your Fingertips
 
 By removing the hurdles of traditional hiring, it’s now simple to access digital superstars.
 
@@ -55,7 +55,7 @@ Remote hiring has cracked open the field of freelancing, and finding top talent 
 
 By shifting to hiring remotely, businesses can embrace the future of work.
 
-## Remote Hiring Doesn’t Have to Be Hard
+### Remote Hiring Doesn’t Have to Be Hard
 
 From screenings to interviews, code assessments to culture fits, savvy businesses are making the most of this sea change in hiring.
 

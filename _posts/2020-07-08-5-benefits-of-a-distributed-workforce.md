@@ -15,7 +15,7 @@ There’s never been a greater opportunity for disruption, but this also means m
 
 At Esteemed, we believe that [the future of work](https://esteemed.io/blog/2020/07/25/5-reasons-why-you-should-join-a-talent-network/){:target='_blank'} lies with highly-talented, diverse, and well-trusted teams of distributed workers. Both employers and employees are seizing the opportunities offered by this emerging revolution.
 
-## **The Future Will Be (Evenly) Distributed**
+### **The Future Will Be (Evenly) Distributed**
 
 A [distributed workforce](https://medium.com/smart-office/how-a-distributed-workforce-makes-employees-work-smarter-a46febf3cb35){:target='_blank'} refers to personnel geographically distributed over large areas who make the best use of advanced technology to go beyond the limitations of the traditional working model.
 
@@ -25,7 +25,7 @@ Coming advances in 5G, remote work platforms, video conferencing, VPNs, and a cu
 
 We’re also ditching the _old ways of hiring_ — that can comprise months of wasted effort — for simple, consolidated staffing solutions.
 
-## **5 Benefits of Distributed Teams**
+### **5 Benefits of Distributed Teams**
 
 We understand the frustration of staffing and have made it our goal to remove the guesswork. For over a decade we’ve made it our business to help businesses easily harness the power of distributed workforces to find ...
 
@@ -35,37 +35,37 @@ We understand the frustration of staffing and have made it our goal to remove th
 * Improved culture, loyalty, and retention
 * And a better bottom-line for your business
 
-### **1. Increased Employee Productivity**
+#### **1. Increased Employee Productivity**
 
 Employers have been surprised that [productivity skyrockets when workers go remote](https://esteemed.io/blog/2020/08/01/can-remote-work-increase-employee-productivity/ "Read more on employee productivity"){:target='_blank'}, even part-time. The flexibility of telecommuting has brought an infusion of energy to the workplace.
 
 Many top-tier developers have avoided the traditional office for years for good reason. In fact, 44% of remote employees said they were less distracted when they worked from home.
 
-### **2. Happier Employees Are More Productive**
+#### **2. Happier Employees Are More Productive**
 
 Happy workers get more done. In a survey from the [State of Remote Work 2019](https://www.owllabs.com/state-of-remote-work/2019){:target='_blank'} “83% of survey respondents agreed that the ability to work remotely would make them happier.”
 
 Not to mention that \~1,100 US-based firms reported improved relations between managers and workers after implementing a remote-work program.
 
-### **3. Top Global Talent at Your Fingertips**
+#### **3. Top Global Talent at Your Fingertips**
 
 With Esteemed, you can quickly source [digital professionals](https://esteemed.io/blog/2020/08/03/should-i-consider-contract-staffing/ "Find digital professionals today!"){:target='_blank'} from a pre-vetted pool of global super-stars.
 
 Gone are the days of murky job sites, bad leads, unreliable recruiters, and wasted weeks.
 
-### **4. Improved Culture, Loyalty, and Retention**
+#### **4. Improved Culture, Loyalty, and Retention**
 
 Now more than ever organizations desire a diversity of voices, global leaders with unique viewpoints, and loyal employees who consider flexibility a benefit.
 
 According to a PGI think-piece, 95% of employers say that telework has a high impact on employee retention.
 
-### **5. The Bottom-Line for Your Business**
+#### **5. The Bottom-Line for Your Business**
 
 With the rising costs of office equipment and space, remote employees can [save the average business](https://esteemed.io/blog/2020/08/04/can-hiring-remote-developers-save-my-agency-money/ "Learn how to save by hiring. "){:target='_blank'} close to $11,000 annually for even a part-time hire.
 
 Organizations that have never considered distributed workforces are now facing one simple fact: Adapt, or be left in the dust.
 
-## **The Revolution Will Be Distributed**
+### **The Revolution Will Be Distributed**
 
 Looking to transform the workday?
 

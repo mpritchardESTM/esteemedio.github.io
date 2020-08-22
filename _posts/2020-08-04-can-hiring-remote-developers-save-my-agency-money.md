@@ -16,7 +16,7 @@ Your business or agency may be making a critical decision to hire remote employe
 
 But, can employing distributed, remote web developers actually save you money? The short answer? Yes. And it will save you more than just that.
 
-## **Save Yourself the Headache**
+### **Save Yourself the Headache**
 
 Time is money. Banging your head against a wall is not how you should be spending it.
 
@@ -30,7 +30,7 @@ For over a decade we’ve made it our mission to help businesses and agencies se
 
 And we’ve seen some pretty staggering results in the way business gets done.
 
-## **Top Remote Web Developers Consider Remote a Benefit**
+### **Top Remote Web Developers Consider Remote a Benefit**
 
 We’ve discussed the [effects remote work](https://esteemed.io/blog/2020/08/01/can-remote-work-increase-employee-productivity/){:target='_blank'}[ ](https://esteemed.io/blog/2020/08/01/can-remote-work-increase-employee-productivity/)has on employee productivity.
 
@@ -44,7 +44,7 @@ Global firms and agencies too have reported more positive relationships between 
 
 We see it every day on the happy faces of our clients and the [Esteemed Talent Network](https://esteemed.io/blog/2020/07/25/5-reasons-why-you-should-join-a-talent-network/){:target='_blank'}. That’s good business.
 
-## **The Bottom-Line for Your Business or Agency**
+### **The Bottom-Line for Your Business or Agency**
 
 What is the real bottom-line for your business? Output and efficiency are important factors in your success. That balance is crucial.
 
@@ -52,7 +52,7 @@ What is the real bottom-line for your business? Output and efficiency are import
 
 Optimizing that path forward is an important step on the journey. By investing more in your talent, you actually save more. We can’t ignore the evidence. Save money and sanity by staffing smarter.
 
-## **Let Us Do the Heavy Lifting**
+### **Let Us Do the Heavy Lifting**
 
 We’ve been there. We know the impact years of networking with 13,000+ of the best digital professionals makes.
 

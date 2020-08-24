@@ -1,5 +1,5 @@
 ---
-date: 2020-08-03 18:28:56 +0000
+date: 2020-08-03T18:28:56.000+00:00
 author: casey-horgan
 categories:
 - staffing solutions
@@ -8,6 +8,10 @@ categories:
 title: Should I Consider Contract Staffing?
 image: "/uploads/pexels-burst-374085.jpg"
 featured: false
+description: Learn about the benefits and nuances of using contract staffing in your
+  hiring process, and find the right contract staffing agency for your organization.
+thumbnail: ''
+color_overlay: ''
 
 ---
 Times have changed. Even before Covid-19 disrupted workplace behavior, the labor market was transforming. Now, this evolution is in overdrive.

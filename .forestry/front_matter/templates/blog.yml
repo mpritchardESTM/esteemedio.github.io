@@ -41,6 +41,26 @@ fields:
 - type: file
   name: image
   label: Header Image
+- name: color_overlay
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - "#ecc01c"
+    - "#b8cfeb"
+    - "#264083"
+    - "#ec7249"
+    - "#4d64af"
+    - "#4389c8"
+    - "#7ebc89"
+    - "#9F6ba0"
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Color Overlay
 - name: categories
   type: tag_list
   default: []

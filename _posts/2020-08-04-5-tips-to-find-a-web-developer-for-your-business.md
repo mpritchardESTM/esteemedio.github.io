@@ -11,7 +11,7 @@ featured: false
 description: 'Looking to hire a web developer? There are many different nuances to
   keep in mind as you look to hire a developer or a team of developers for your next
   project. Read on to learn more. '
-thumbnail: "/uploads/christopher-gower-m_hrflhgabo-unsplash.jpg"
+thumbnail: "/uploads/pexels-christina-morillo-1181676.jpg"
 color_overlay: "#ecc01c"
 
 ---

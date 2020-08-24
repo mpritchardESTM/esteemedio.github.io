@@ -7,6 +7,8 @@ categories:
 title: 'Can Remote Work Increase Employee Productivity? '
 image: "/uploads/pexels-cottonbro-4064821.jpg"
 featured: true
+description: Find out how remote work increases more than just employee productivity.
+  The results are in, and the future is bright!
 
 ---
 Our new normal has many businesses and contractors rethinking the future of work. Throughout the current economic uncertainty and global pandemic, remote work is on everyone’s mind. But should you embrace it?

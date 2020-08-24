@@ -5,8 +5,12 @@ categories:
 - remote work
 - business
 title: How Your Business Can Benefit from Remote Hiring
-image: ''
+image: "/uploads/austin-distel-guij0yszpig-unsplash.jpg"
 featured: false
+description: Leveraging distributed talent with remote hiring makes perfect sense
+  right now. The surge in “telepresence” can help your business do more with less.
+thumbnail: ''
+color_overlay: ''
 
 ---
 As many businesses face hard choices about [rethinking the way they work](https://esteemed.io/blog/2020/07/08/5-benefits-of-a-distributed-workforce/){:target='_blank'}, the world has shifted dramatically. Coronavirus will make its mark on the future of hiring too.

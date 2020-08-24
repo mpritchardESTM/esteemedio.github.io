@@ -8,6 +8,8 @@ categories:
 title: Can Hiring Remote Developers Save My Agency Money?
 image: "/uploads/micheile-henderson-zvprbbmt8qa-unsplash.jpg"
 featured: true
+description: Hiring remote developers can be a huge headache! We’ve been networking
+  top digital talent for over a decade and here’s the easiest way to save money.
 
 ---
 Your business or agency may be making a critical decision to hire remote employees to help you grow. But many talented web developers and engineers have a backlog of clients. Just getting in contact with them can be a full-time job.

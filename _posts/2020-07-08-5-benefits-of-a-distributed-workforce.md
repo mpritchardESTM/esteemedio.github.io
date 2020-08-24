@@ -9,8 +9,8 @@ title: 5 Benefits of a Distributed Workforce
 image: "/uploads/woman-lying-and-typing-on-laptop-6249.jpg"
 description: There are many benefits to both being a part of and employing a distributed
   workforce. Here are the top five, and why remote is the future of work.
-thumbnail: ''
-color_overlay: ''
+thumbnail: "/uploads/chris-montgomery-smgtvepind4-unsplash.jpg"
+color_overlay: "#7ebc89"
 
 ---
 Whether we want to admit it or not, everything has changed. The future of work, in light of the “new normal,” presents some very unique challenges and solutions.

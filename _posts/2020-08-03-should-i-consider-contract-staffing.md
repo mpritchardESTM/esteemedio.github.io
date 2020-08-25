@@ -11,7 +11,7 @@ featured: false
 description: Learn about the benefits and nuances of using contract staffing in your
   hiring process, and find the right contract staffing agency for your organization.
 thumbnail: "/uploads/procreator-ux-design-studio-vzjjpuk53sk-unsplash.jpg"
-color_overlay: "#b8cfeb"
+color_overlay: "#EC7249"
 
 ---
 Times have changed. Even before Covid-19 disrupted workplace behavior, the labor market was transforming. Now, this evolution is in overdrive.

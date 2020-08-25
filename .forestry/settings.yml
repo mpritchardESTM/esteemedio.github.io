@@ -7,7 +7,6 @@ sections:
 - type: document
   path: learn-more.html
   label: Learn More
-  match: "**/*"
 - type: jekyll-posts
   label: Blog
   create: documents

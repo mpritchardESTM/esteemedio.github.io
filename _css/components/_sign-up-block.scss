@@ -1,5 +1,6 @@
 #mc_embed_signup {
   background: $lightest-gray;
+  clear: left;
   overflow: hidden;
 
   @include breakpoint(medium down) {
@@ -7,11 +8,16 @@
   }
 
   h2 {
+    font-size: 2.1875rem;
     margin-bottom: 2rem !important;
-    
+
     @include breakpoint(small only) {
       font-size: 1.25rem !important;
     }
+  }
+
+  form {
+    padding: 0;
   }
 
   .sign-up-subtitle {

@@ -2,8 +2,8 @@
 date: 2020-08-03T18:28:56.000+00:00
 author: casey-horgan
 categories:
-- 'talent network '
-- 'remote work '
+- 'talent network'
+- 'remote work'
 - contract staffing
 title: Should I Consider Contract Staffing?
 image: "/uploads/pexels-burst-374085.jpg"

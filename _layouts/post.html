@@ -9,7 +9,7 @@ layout: default
   <a href="/blog/">Blog</a>
   {% if category %}
   <span class="breadcrumb--chevron">></span>
-  <a href="/blog/category/{{ category | trim | downcase }}/">{{ category }}</a>
+  <a href="/blog/category/{{ category | trim | downcase | uri_escape }}/">{{ category }}</a>
   {% endif %}
 </div>
 
@@ -43,7 +43,7 @@ layout: default
       <div class="post-categories">
         <span class="post-categories--title">Category: </span>
         {% for category in page.categories %}
-        <a href="/blog/category/{{ category }}/">{{ category }}</a>
+        <a href="/blog/category/{{ category | uri_escape }}/">{{ category }}</a>
         {% unless forloop.last %}<span class="space-between">,</span>{% endunless %}
         {% endfor %}
       </div>

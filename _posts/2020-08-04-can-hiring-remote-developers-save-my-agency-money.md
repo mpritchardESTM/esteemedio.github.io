@@ -62,7 +62,7 @@ We’ve been there. We know the impact years of networking with 13,000+ of the b
 
 That’s why we developed a frictionless solution to harness those resources. Now you don’t have to sweat the petty stuff. Leave us to do the recruiting and vetting.
 
-You’ll find instant access to hundreds of pre-screened digital professionals in those tricky-to-staff niches like [WordPress](app.wpcontractors.com "Visit WordPress Contractors"){:target='_blank'}, [Drupal](app.drupalcontractors.com "Visit Drupal Contractors"){:target='_blank'}, React, E-commerce, and more coming soon.
+You’ll find instant access to hundreds of pre-screened digital professionals in those tricky-to-staff niches like [WordPress](https://app.wpcontractors.com "Visit WordPress Contractors"){:target='_blank'}, [Drupal](https://app.drupalcontractors.com "Visit Drupal Contractors"){:target='_blank'}, React, E-commerce, and more coming soon.
 
 That means you can relax, and get straight to work making a difference out there.
 

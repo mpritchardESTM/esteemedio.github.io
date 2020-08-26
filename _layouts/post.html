@@ -23,7 +23,7 @@ layout: default
       <div class="blog-post__content">
         {% if page.image %}
         <div class="blog-post__content--image">
-          <img src="{{ page.image }}">
+          <img src="{{ page.image }}" alt="Header image">
         </div>
         {% endif %}
 
@@ -52,7 +52,7 @@ layout: default
         <div class="blog-post__author-block--container grid-x">
           <div class="cell medium-4 large-3">
             <div class="blog-post__author-block--image">
-              <a href="/blog/author/{{ page.author }}/"><img src="{% if author.image %}{{ author.image }}{% else %}/img/profile-pic.png{% endif %}"></a>
+              <a href="/blog/author/{{ page.author }}/"><img src="{% if author.image %}{{ author.image }}{% else %}/img/profile-pic.png{% endif %}" alt="{{ author.name }}"></a>
             </div>
           </div>
           <div class="cell medium-8 large-9">

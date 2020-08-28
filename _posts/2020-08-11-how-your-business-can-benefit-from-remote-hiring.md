@@ -10,7 +10,7 @@ featured: false
 description: Leveraging distributed talent with remote hiring makes perfect sense
   right now. The surge in “telepresence” can help your business do more with less.
 thumbnail: "/uploads/pexels-marcus-aurelius-4064696.jpg"
-color_overlay: "#B8CFEB"
+color_overlay: "#4389C8"
 
 ---
 As many businesses face hard choices about [rethinking the way they work](https://esteemed.io/blog/2020/07/08/5-benefits-of-a-distributed-workforce/){:target='_blank'}, the world has shifted dramatically. Coronavirus will make its mark on the future of hiring too.

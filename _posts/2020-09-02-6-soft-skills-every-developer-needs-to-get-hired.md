@@ -12,11 +12,11 @@ color_overlay: "#ECC01C"
 featured: false
 
 ---
-As an IT expert, it’s more important than ever to understand the [secret ingredients](https://esteemed.io/blog/2020/08/05/happy/) for finding a fit with an employer. One key to that success is the need for “outside the box” traits.
+As an IT expert, it’s more important than ever to understand the [secret ingredients](https://esteemed.io/blog/2020/08/05/happy/){:target='_blank'} for finding a fit with an employer. One key to that success is the need for “outside the box” traits.
 
 Developers aren't faceless robots in basement cubicles. Employers want their developers to bring their personality, people skills, and emotional intelligence into their work.
 
-> “[Research conducted with Fortune 500 CEOs](https://www.amanet.org/articles/the-hard-truth-about-soft-skills/) by the Stanford Research Institute International and the Carnegie Melon Foundation, found that 75% of long-term job success depends on people skills, while only 25% on technical knowledge.” —AMA
+> “[Research conducted with Fortune 500 CEOs](https://www.amanet.org/articles/the-hard-truth-about-soft-skills/){:target='_blank'} by the Stanford Research Institute International and the Carnegie Melon Foundation, found that 75% of long-term job success depends on people skills, while only 25% on technical knowledge.” —AMA
 
 Soft skills are now the greatest complement to your hard skills for retention. It doesn’t matter how fast you can code anymore. You have to be human, too.
 
@@ -24,11 +24,11 @@ Soft skills are now the greatest complement to your hard skills for retention. I
 
 Soft skills have long been undervalued in tech. Analytical skills and quantitative expertise won’t be the only deciding factors for candidates anymore.
 
-> “In an increasingly data-driven economy, the [demand for ‘soft’ social skills](https://www.pnas.org/content/pnas/115/50/12630.full.pdf), like teamwork and communication, increase with greater demand for ‘hard’ technical skills and tools.” —PNAS
+> “In an increasingly data-driven economy, the [demand for ‘soft’ social skills](https://www.pnas.org/content/pnas/115/50/12630.full.pdf){:target='_blank'}, like teamwork and communication, increase with greater demand for ‘hard’ technical skills and tools.” —PNAS
 
 But soft skills are hard to measure. They’re qualities that include things like common sense, how well you mesh with co-workers, and your adaptability to change.
 
-And [evidence shows](http://www.jite.org/documents/Vol11/JITEv11p155-168Zhang1119.pdf) that the recommendations of colleagues now play a bigger role in the success of any project. Your soft skills are invaluable to advancing your career.
+And [evidence shows](http://www.jite.org/documents/Vol11/JITEv11p155-168Zhang1119.pdf){:target='_blank'} that the recommendations of colleagues now play a bigger role in the success of any project. Your soft skills are invaluable to advancing your career.
 
 ### Soft skills can predict success
 
@@ -78,7 +78,7 @@ The world needs creative solutions now more than ever.
 
 As we all tend to be plagued by more stress these days, staying positive is a big plus. Developers can get frustrated with clients and users when things don’t go smoothly.
 
-Remaining patient and optimistic helps everyone (and your mental health). Optimism has also been shown to boost self-confidence and be [a marker for success](https://www.fastcompany.com/1291599/self-confidence-optimism-and-success).
+Remaining patient and optimistic helps everyone (and your mental health). Optimism has also been shown to boost self-confidence and be [a marker for success](https://www.fastcompany.com/1291599/self-confidence-optimism-and-success){:target='_blank'}.
 
 Never forget the power of unplugging for finding your happy place. Taking a walk around the neighborhood is a great fix too (without your phone).
 
@@ -96,6 +96,6 @@ It's okay to not have every soft skill mastered in these challenging times. Pers
 
 We know that the success of our clients relies on colleagues recommending colleagues. And we have a large network of developers at your disposal to lean on.
 
-Let’s start a conversation. Hey, we can all practice our soft skills. Check out [the community we're building today](https://esteemed.io/company/).
+Let’s start a conversation. Hey, we can all practice our soft skills. Check out [the community we're building today](https://esteemed.io/company/){:target='_blank'}.
 
 Esteemed is growing fast, and we’d love for you to join us!

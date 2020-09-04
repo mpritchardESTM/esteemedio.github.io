@@ -6,6 +6,14 @@ layout: default
   <div class="grid-x align-top">
     <h1 class="u-text-bold main-title text-center">{{ page.autopage.display_name }} Posts</h1>
   </div>
+
+  <div class="blog-categories">
+    <a href="/blog/">All posts</a>
+    {% for category_element in site.categories %}
+    <a {% if category_element[0] == page.autopage.display_name %}class="active" {% endif %}href="/blog/category/{{ category_element | first | downcase }}/">{{ category_element | first | downcase }}</a>
+    {% endfor %}
+  </div>
+
   <div class="grid-x align-top grid-padding-x blog-all-posts">
     {% for post in paginator.posts %}
     {% assign author = site.data.authors[post.author] %}

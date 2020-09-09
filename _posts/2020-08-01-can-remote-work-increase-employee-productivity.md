@@ -6,7 +6,7 @@ categories:
 - productivity
 title: 'Can Remote Work Increase Employee Productivity? '
 image: "/uploads/pexels-cottonbro-4064821.jpg"
-featured: true
+featured: false
 description: Find out how remote work increases more than just employee productivity.
   The results are in, and the future is bright!
 thumbnail: "/uploads/manny-pantoja-9ukcfpnotzs-unsplash.jpg"

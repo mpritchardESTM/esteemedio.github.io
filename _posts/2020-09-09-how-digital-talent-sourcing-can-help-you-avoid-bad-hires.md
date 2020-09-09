@@ -28,7 +28,7 @@ Digital talent sourcing is the process of discovering and connecting with prospe
 
 #### Strength in numbers, power in diversity
 
-Why is talent sourcing so useful? For one, it makes your recruiter’s job _much_ easier when a position opens up. You’re not looking for a needle in a haystack — you’re looking for a needle in a bowl of needles. More importantly, though, you’re building diversity. 
+Why is talent sourcing so useful? For one, it makes your recruiter’s job _much_ easier when a position opens up. You’re not looking for a needle in a haystack — you’re looking for a needle in a bowl of needles. More importantly, though, you’re building diversity.
 
 Each new potential candidate that joins your network brings a lot to the table. And you’re not just connecting with one or two individuals, either. Talent sourcing agencies assemble hundreds, if not _thousands_ of top professionals. This diverse pool of potential represents a cohort that will drive innovation and add new skills to future workplaces.
 
@@ -56,11 +56,11 @@ Your candidate personas help here. Look to your talent profiling to understand w
 
 Slack, for example, is a great tool for organizations and individuals that share common professional interests. There are channels for everyone: developers, designers, engineers, strategists, and creative tribes to name a few.
 
-Looking for developers? Try [StackOverflow](https://stackoverflow.com/), an open community “for developers, by developers.”
+Looking for developers? Try [StackOverflow](https://stackoverflow.com/){:target='_blank'}, an open community “for developers, by developers.”
 
 Join LinkedIn groups and leverage LinkedIn Sales Navigator. This prospecting tool, for anyone not familiar, allows for advanced search filtering. You can look for talent by geographic location, seniority level, role, tenure, industry, and, of course, keywords.
 
-Build your talent network with the help of your next job posting. The average [corporate job posting](https://zety.com/blog/hr-statistics) has 250 applicants. The 249 that you _don’t_ choose for this position likely still possess the skills and interest you’re looking for (just not for now). Add them to your sourced talent network and don’t forget to touch base with them at least twice a year.
+Build your talent network with the help of your next job posting. The average [corporate job posting](https://zety.com/blog/hr-statistics){:target='_blank'} has 250 applicants. The 249 that you _don’t_ choose for this position likely still possess the skills and interest you’re looking for (just not for now). Add them to your sourced talent network and don’t forget to touch base with them at least twice a year.
 
 #### How do I establish a relationship?
 
@@ -100,9 +100,9 @@ We’ve spent a decade building relationships with thousands of digital professi
 
 Our main differentiators are our dedication to vetting talent and delivering quality right when you need it.
 
-Before any potential candidate is added to our talent network, we have our experienced tech leads screen them. We use [Coderbyte](https://coderbyte.com/) to test candidates’ skills. We offer live interview code pairing, custom test questions, and even take-home projects if our client requests it.
+Before any potential candidate is added to our talent network, we have our experienced tech leads screen them. We use [Coderbyte](https://coderbyte.com/){:target='_blank'} to test candidates’ skills. We offer live interview code pairing, custom test questions, and even take-home projects if our client requests it.
 
-When you need to hire a contractor, there’s virtually no wait. Esteemed delivers quality options within minutes in cases of common requests. If you need a skilled JavaScript, [WordPress](https://app.wpcontractors.com/), [Drupal](https://app.drupalcontractors.com/), or Sitecore professional, we’ll match you almost instantly.
+When you need to hire a contractor, there’s virtually no wait. Esteemed delivers quality options within minutes in cases of common requests. If you need a skilled JavaScript, [WordPress](https://app.wpcontractors.com/){:target='_blank'}, [Drupal](https://app.drupalcontractors.com/){:target='_blank'}, or Sitecore professional, we’ll match you almost instantly.
 
 If you subscribe, you can connect our talent network to your company’s Slack account. This allows you to message requests on Slack and get results as quickly as if you were messaging your coworker.
 

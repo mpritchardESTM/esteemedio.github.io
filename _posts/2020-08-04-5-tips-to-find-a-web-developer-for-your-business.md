@@ -2,9 +2,8 @@
 date: 2020-08-04T18:54:17.000+00:00
 author: gloria-tucker
 categories:
-- web development
-- remote work
-- talent network
+- Developer Life
+- Hiring Strategy
 title: 5 Tips to Find a Web Developer for Your Business
 image: "/uploads/kelly-sikkema-yk0hpwwdj1i-unsplash-1.jpg"
 featured: false

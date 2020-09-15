@@ -1,7 +1,9 @@
 ---
-date: 2020-09-09 16:56:55 +0000
+date: 2020-09-09T16:56:55.000+00:00
 author: casey-horgan
-categories: []
+categories:
+- Talent Sourcing
+- Distributed Workforce
 title: How Digital Talent Sourcing Can Help You Avoid Bad Hires
 description: Talent sourcing concentrates highly-qualified people into a single talent
   network. That way, when it comes time to fill an open position, you know exactly

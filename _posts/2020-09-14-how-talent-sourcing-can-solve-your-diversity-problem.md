@@ -8,7 +8,7 @@ description: Hiring candidates that bring more diversity to your organization sh
   a diverse candidate pool.
 image: "/uploads/christina-wocintechchat-com-vpcgtekereq-unsplash.jpg"
 thumbnail: "/uploads/pexels-photo-2280913.jpg"
-color_overlay: "#FFFFFF"
+color_overlay: "#E1DADA"
 featured: false
 
 ---

@@ -2,8 +2,8 @@
 date: 2020-07-25T14:25:03.000+00:00
 author: matthew-pritchard
 categories:
-- talent network
-- remote work
+- " Distributed Workforce"
+- Talent Sourcing
 title: 5 Reasons Why You Should Join a Talent Network
 image: "/uploads/talentnetwork-1.png"
 featured: false
@@ -18,13 +18,19 @@ At Esteemed, we have spent a decade building our Talent Network. Having started 
 
 ### **Less Time Searching, More Time Working**
 
-The job search process can be long and drawn-out with many interviews, conversations, and redundant screening. Even if you do find a great opportunity, you might repeat the same search process a few months later once your project wraps up. At Esteemed we vouch for you with our clients. To do that we screen and qualify your experience, offer feedback that we think will help, and connect you with new opportunities that will be a fit as they come through our pipeline.
+The job search process can be long and drawn-out with many interviews, conversations, and redundant screening. Even if you do find a great opportunity, you might repeat the same search process a few months later once your project wraps up. 
 
-Because we’re on Slack, our jobs are posted directly in their respective channels. Looking for new opportunities in Magento, or another related field? Fill out your profile, get in touch, and join the channel for your discipline (#magento, #drupal). Less time searching for jobs means more time focusing on learning new skills or having fun. That’s what we are all about, making work more flexible, abundant and fun.
+At Esteemed we vouch for you with our clients. To do that we screen and qualify your experience, offer feedback that we think will help, and connect you with new opportunities that will be a fit as they come through our pipeline.
+
+Because we’re on Slack, our jobs are posted directly in their respective channels. Looking for new opportunities in Magento, or another related field? Fill out your profile, get in touch, and join the channel for your discipline. Less time searching for jobs means more time focusing on learning new skills or having fun. That’s what we are all about, making work more flexible, abundant and fun.
 
 ### **Stand Out from the Crowd**
 
-In our years in the digital space we find companies work with who they trust. When you join our talent network, you’re pre-qualifying yourself for open roles listed with Esteemed. Just by signing up and going through our vetting process you are verifying your skills to one of our leads. Our clients have come to trust these individuals as if they were their own staff. We try to keep the process as minimal as possible, yet a thorough review of everyone in the network is needed to make strong recommendations. From there you have access to mentorship, support, and collaboration with 500 peers.
+In our years in the digital space we find companies work with who they trust. When you join our talent network, you’re pre-qualifying yourself for open roles listed with Esteemed. 
+
+Just by signing up and going through our vetting process you are verifying your skills to one of our leads. Our clients have come to trust these individuals as if they were their own staff. 
+
+We try to keep the process as minimal as possible, yet a thorough review of everyone in the network is needed to make strong recommendations. From there you have access to mentorship, support, and collaboration with 500 peers.
 
 ### **Grow Your Own Network**
 

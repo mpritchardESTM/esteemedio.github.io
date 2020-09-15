@@ -2,9 +2,7 @@
 date: 2020-07-08T10:56:15.000+00:00
 author: matthew-pritchard
 featured: true
-categories:
-- remote work
-- working from home
+categories: []
 title: 5 Benefits of a Distributed Workforce
 image: "/uploads/woman-lying-and-typing-on-laptop-6249.jpg"
 description: There are many benefits to both being a part of and employing a distributed

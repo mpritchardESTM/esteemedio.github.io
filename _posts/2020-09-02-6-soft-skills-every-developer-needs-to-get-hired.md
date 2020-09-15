@@ -1,8 +1,9 @@
 ---
-date: 2020-09-02 16:10:24 +0000
+date: 2020-09-02T16:10:24.000+00:00
 author: kelton-reid
 categories:
-- developers
+- Developer Life
+- Contracting Tips
 title: 6 Soft Skills Every Developer Needs to Get Hired
 description: 6 soft skills developers can improve today to help you stand out in the
   crowd. Personal development is a lifelong process, and we're here to help.

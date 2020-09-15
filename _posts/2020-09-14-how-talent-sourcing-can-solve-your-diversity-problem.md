@@ -3,6 +3,7 @@ date: 2020-09-14 20:57:48 +0000
 author: casey-horgan
 categories:
 - Talent Sourcing
+- Hiring Strategy
 title: How Talent Sourcing Can Solve Your Diversity Problem
 description: Hiring candidates that bring more diversity to your organization should
   be a top priority for your company. Talent sourcing can be a powerful tool to build

@@ -2,8 +2,7 @@
 date: 2020-08-11T14:19:33.000+00:00
 author: kelton-reid
 categories:
-- remote work
-- business
+- Contracting Tips
 title: How Your Business Can Benefit from Remote Hiring
 image: "/uploads/austin-distel-guij0yszpig-unsplash.jpg"
 featured: false
@@ -13,8 +12,6 @@ thumbnail: "/uploads/pexels-marcus-aurelius-4064696.jpg"
 color_overlay: "#4389C8"
 
 ---
-As many businesses face hard choices about [rethinking the way they work](https://esteemed.io/blog/2020/07/08/5-benefits-of-a-distributed-workforce/){:target='_blank'}, the world has shifted dramatically. Coronavirus will make its mark on the future of hiring too.
-
 Over half of Americans have worked from home this year and many aren’t going back to the office any time soon. Most don’t want to.
 
 > “When the pandemic is over, one in six workers is projected to continue working from home or co-working at least two days a week, according to a recent survey by economists at Harvard Business School.”—[The Atlantic](https://www.theatlantic.com/ideas/archive/2020/08/just-small-shift-remote-work-could-change-everything/614980/){:target='_blank'}

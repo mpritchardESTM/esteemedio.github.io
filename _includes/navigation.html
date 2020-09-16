@@ -17,7 +17,7 @@
         <ul class="dropdown vertical large-horizontal menu" data-dropdown-menu>
           {% for nav in site.data.menus.navigation %}
             <li>
-              <a class="{% if nav.button != 0 %}button {% endif %}{% if nav.url == page.url %} is-active{% endif %}" href="{{ nav.url }}">{{ nav.title }}</a>
+              <a class="{% if nav.button != 0 %}button {% endif %}{% if nav.url == page.dir %} is-active{% endif %}" href="{{ nav.url }}">{{ nav.title }}</a>
             </li>
           {% endfor %}
         </ul>

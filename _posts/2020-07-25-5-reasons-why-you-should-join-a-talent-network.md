@@ -2,7 +2,7 @@
 date: 2020-07-25T14:25:03.000+00:00
 author: matthew-pritchard
 categories:
-- " Distributed Workforce"
+- Distributed Workforce
 - Talent Sourcing
 title: 5 Reasons Why You Should Join a Talent Network
 image: "/uploads/talentnetwork-1.png"

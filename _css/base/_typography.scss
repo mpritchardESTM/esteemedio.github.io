@@ -50,6 +50,13 @@ a {
   }
 }
 
+.company-heading {
+
+  @include breakpoint(medium) {
+    font-size: 2rem;
+  }
+}
+
 .button {
   font-family: $font-poppins;
   font-weight: $global-weight-normal;

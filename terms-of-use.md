@@ -1,5 +1,6 @@
 ---
 title: "Terms of Use"
+description: By using Esteemed or signing up for an account, you agree to these Terms, which will result in a legal agreement between you and Esteemed.
 permalink: "/terms-use/"
 layout: single
 ---

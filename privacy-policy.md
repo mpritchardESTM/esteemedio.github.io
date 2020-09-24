@@ -1,5 +1,6 @@
 ---
-title: "Privacy Policy"
+title: Privacy Policy
+description: Esteemed treats data privacy seriously. Learn more about who we are, how we collect, share and use Personal Information in our Privacy Policy.
 permalink: "/privacy-policy/"
 layout: single
 ---

@@ -29,14 +29,6 @@ h2,
   }
 }
 
-h3,
-.h3 {
-
-  @include breakpoint(medium) {
-    font-size: 2rem;
-  }
-}
-
 .h5 {
   margin-bottom: $spacing;
 }
@@ -55,6 +47,13 @@ a {
     &:hover {
       color: $blue--bg;
     }
+  }
+}
+
+.company-heading {
+
+  @include breakpoint(medium) {
+    font-size: 2rem;
   }
 }
 

@@ -1,5 +1,5 @@
 ---
-date: 2020-09-21 16:41:49 +0000
+date: 2020-09-21T16:41:49.000+00:00
 author: kelton-reid
 categories:
 - Talent Sourcing

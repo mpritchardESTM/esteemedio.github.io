@@ -9,7 +9,7 @@ description: By creating a composite sketch of your ideal candidate with a perso
   you’ll be on the road to getting to know your (future) talent better.
 image: "/uploads/pexels-mentatdgt-1311518.jpg"
 thumbnail: "/uploads/pexels-christina-morillo-1181712.jpg"
-color_overlay: "#FFFFFF"
+color_overlay: "#EECC11"
 featured: false
 
 ---

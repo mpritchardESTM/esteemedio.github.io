@@ -1,3 +1,8 @@
+{% assign dir_with_slashes = '/' | append: dir | append: '/' %}
+{% unless dir %}
+{% assign dir_with_slashes = page.url | split: '/' %}
+{% assign dir_with_slashes = '/' | append: dir_with_slashes[1] | append: '/' %}
+{% endunless %}
 <div data-collapse="large" data-animation="default" data-duration="400" class="hero-menu w-nav sticky is-stuck is-at-top">
   <div class="grid-container">
     <div class="grid-x align-justify align-middle">
@@ -16,8 +21,13 @@
       <div class="top-bar cell" id="main-navigation" data-toggler data-animate="fade-in fade-out">
         <ul class="dropdown vertical large-horizontal menu" data-dropdown-menu>
           {% for nav in site.data.menus.navigation %}
+          {% if nav.url == page.dir or nav.url == dir_with_slashes %}
+          {% assign active = true %}
+          {% else %}
+          {% assign active = false %}
+          {% endif %}
             <li>
-              <a class="{% if nav.button != 0 %}button {% endif %}{% if nav.url == page.dir %} is-active{% endif %}" href="{{ nav.url }}">{{ nav.title }}</a>
+              <a class="{% if nav.button != 0 %}button {% endif %}{% if active %} is-active{% endif %}" href="{{ nav.url }}">{{ nav.title }}</a>
             </li>
           {% endfor %}
         </ul>

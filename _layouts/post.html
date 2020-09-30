@@ -14,6 +14,15 @@ layout: default
 </div>
 
 <div class="grid-container blog-post">
+
+  <div class="blog-categories">
+    <a href="/blog/">All posts</a>
+    {% for category_element in site.categories %}
+    {% assign this = category_element | first %}
+    <a {% if this == category %}class="active" {% endif %}href="/blog/category/{{ category_element | first }}/">{{ category_element | first }}</a>
+    {% endfor %}
+  </div>
+
   <div class="grid-x align-center-middle">
     <div class="cell large-8">
       <h1>{{ page.title }}</h1>
@@ -43,7 +52,7 @@ layout: default
       <div class="post-categories">
         <span class="post-categories--title">Category: </span>
         {% for category in page.categories %}
-        <a href="/blog/category/{{ category | uri_escape }}/">{{ category }}</a>
+        <a href="/blog/category/{{ category | downcase }}/">{{ category }}</a>
         {% unless forloop.last %}<span class="space-between">,</span>{% endunless %}
         {% endfor %}
       </div>

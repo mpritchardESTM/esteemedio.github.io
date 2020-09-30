@@ -255,3 +255,19 @@
   }
 }
 
+.blog-categories {
+  padding: 0rem 0rem 3rem;
+  text-align: center;
+
+  a {
+    color: $black;
+    font: $global-weight-bold 1rem $font-lato;
+    padding: 0.625rem;
+    text-transform: capitalize;
+
+    &:hover,
+    &.active {
+      color: $blue--btn;
+    }
+  }
+}

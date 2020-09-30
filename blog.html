@@ -12,6 +12,12 @@ pagination:
 <div class="grid-container page--blog">
   <h1 class="u-text-bold main-title">The Star</h1>
   <div class="heading-subtitle">Esteemed makes it easier for you to get flexible jobs, meet like-minded colleagues, and build your business with confidence. But we know your work doesn’t stop there. Our blog is here to help! With insights into all aspects of running a remote business, Esteemed helps you succeed.</div>
+  <div class="blog-categories">
+    <a href="/blog/">All posts</a>
+    {% for category in site.categories %}
+    <a href="/blog/category/{{ category | first | downcase }}/">{{ category | first }}</a>
+    {% endfor %}
+  </div>
   <div class="grid-x align-top grid-padding-x blog-featured-posts">
     {% for featured_post in featured_posts limit:3 %}
       {% assign author = site.data.authors[featured_post.author] %}

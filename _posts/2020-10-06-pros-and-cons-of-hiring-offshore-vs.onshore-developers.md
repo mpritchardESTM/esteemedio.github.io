@@ -8,7 +8,7 @@ title: 'Pros and Cons of Hiring Offshore Vs. Onshore Developers '
 description: We’ve weighed some of the pros and cons of hiring offshore vs. onshore
   developers. Here’s what the difference can mean for your business.
 image: "/uploads/charles-deluvio-lks7vei-eag-unsplash.jpg"
-thumbnail: "/uploads/thumb_offshoreonshore-01.png"
+thumbnail: "/uploads/thumb_offshoreonshore-01-1.png"
 color_overlay: "#ECC01C"
 featured: false
 

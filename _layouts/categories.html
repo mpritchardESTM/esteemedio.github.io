@@ -20,10 +20,10 @@ layout: default
     <a href="{{ post.url }}" class="blog-card cell small-6 medium-4">
       <div class="blog-card__wrapper">
         {% if post.image %}
-          <div class="blog-card__wrapper--image" style="{% if post.color_overlay %}background-color:{{ post.color_overlay }}; background-blend-mode: multiply; {% endif %} background-image: url('{{ post.image }}'); background-size: cover;">
+          <div class="blog-card__wrapper--image" style="{% if post.color_overlay %}background-image:linear-gradient(0deg, {{ post.color_overlay }} 25%, rgba(0, 0, 0, 0)), url('{{ post.thumbnail }}');{% else %}background-image: url('{{ featured_post.thumbnail }}');{% endif %} background-size: cover;">
           </div>
         {% else %}
-          <div class="blog-card__wrapper--image" style="{% if featured_post.color_overlay %}background-color:{{ post.color_overlay }}; background-blend-mode: multiply; {% endif %} background-image: url('/img/blog-performance.jpg'); background-size: cover;">
+          <div class="blog-card__wrapper--image" style="{% if post.color_overlay %}background-image:linear-gradient(0deg, {{ post.color_overlay }} 25%, rgba(0, 0, 0, 0)), url('/img/blog-performance.jpg');{% else %}background-image: url('/img/blog-performance.jpg');{% endif %} background-size: cover;">
           </div>
         {% endif %}
         <div class="blog-card__bottom">

@@ -3,6 +3,7 @@ date: 2020-08-01T14:47:36.000+00:00
 author: kelton-reid
 categories:
 - Distributed Workforce
+- Hiring Strategy
 title: 'Can Remote Work Increase Employee Productivity? '
 image: "/uploads/pexels-cottonbro-4064821.jpg"
 featured: false

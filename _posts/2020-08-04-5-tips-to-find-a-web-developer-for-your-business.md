@@ -11,7 +11,7 @@ description: 'Looking to hire a web developer? There are many different nuances 
   keep in mind as you look to hire a developer or a team of developers for your next
   project. Read on to learn more. '
 thumbnail: "/uploads/pexels-christina-morillo-1181676.jpg"
-color_overlay: "#ecc01c"
+color_overlay: "#EC7249"
 
 ---
 Finding a web developer for your company or agency is difficult. As he or she guides the direction of your project, it is important to find a perfect fit. A strong web developer determines the success of your product. However, searching for that perfect developer is exhausting. It costs your business time and money. We understand how challenging  digital staffing can be. To get the best results for you or your team, follow our guide to hiring a web developer.

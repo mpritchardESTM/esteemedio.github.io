@@ -9,7 +9,7 @@ image: "/uploads/micheile-henderson-zvprbbmt8qa-unsplash.jpg"
 featured: true
 description: Hiring remote developers can be a huge headache! We’ve been networking
   top digital talent for over a decade and here’s the easiest way to save money.
-color_overlay: "#B8CFEB"
+color_overlay: "#8E1ED4"
 thumbnail: "/uploads/cowomen-zkhksse8tuu-unsplash.jpg"
 
 ---

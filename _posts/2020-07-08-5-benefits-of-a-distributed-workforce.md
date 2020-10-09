@@ -10,7 +10,7 @@ image: "/uploads/woman-lying-and-typing-on-laptop-6249.jpg"
 description: There are many benefits to both being a part of and employing a distributed
   workforce. Here are the top five, and why remote is the future of work.
 thumbnail: "/uploads/chris-montgomery-smgtvepind4-unsplash.jpg"
-color_overlay: "#00D4B7"
+color_overlay: "#009480"
 
 ---
 Whether we want to admit it or not, everything has changed. The future of work, in light of the “new normal,” presents some very unique challenges and solutions.

@@ -6,7 +6,7 @@ categories:
 title: An 80-Point Employee Onboarding Checklist for Long-term Success
 description: Where does the onboarding process start for new hires? Long before their
   first day if you want to keep them beyond those critical first six months!
-image: ''
+image: "/uploads/william-iven-gcsnospexfs-unsplash.jpg"
 thumbnail: "/uploads/bethany-legg-75nbwhfdsny-unsplash.jpg"
 color_overlay: "#231F20"
 featured: false

@@ -2,7 +2,7 @@
 date: 2020-09-30 15:03:37 +0000
 author: kelton-reid
 categories:
-- talent sourcing
+- Talent Sourcing
 - Hiring Strategy
 title: Why Demand for Tech Talent Is So High
 description: Demand for coders has skyrocketed in hot new tech fields like AI. But

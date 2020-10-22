@@ -2,7 +2,7 @@
 date: 2020-10-21 13:56:31 +0000
 author: kelton-reid
 categories:
-- hiring strategy
+- Hiring Strategy
 title: An 80-Point Employee Onboarding Checklist for Long-term Success
 description: Where does the onboarding process start for new hires? Long before their
   first day if you want to keep them beyond those critical first six months!

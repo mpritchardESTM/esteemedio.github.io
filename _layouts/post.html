@@ -19,7 +19,7 @@ layout: default
     <a href="/blog/">All posts</a>
     {% for category_element in site.categories %}
     {% assign this = category_element | first %}
-    <a {% if this == category %}class="active" {% endif %}href="/blog/category/{{ category_element | first }}/">{{ category_element | first }}</a>
+    <a {% if this == category %}class="active" {% endif %}href="/blog/category/{{ category_element | first | downcase }}/">{{ category_element | first }}</a>
     {% endfor %}
   </div>
 

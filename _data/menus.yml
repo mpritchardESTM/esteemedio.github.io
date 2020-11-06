@@ -8,14 +8,10 @@ navigation:
   title: Blog
   url: "/blog/"
   weight: 2
-- button: 0
-  title: Pricing
-  url: "/pricing/"
-  weight: 3
 - button: 1
-  title: Schedule Demo
-  url: "/sales/schedule-demo/"
-  weight: 4
+  title: Get a Quote
+  url: "/get-a-quote/"
+  weight: 3
 footer:
 - title: Communities
   menu:
@@ -55,4 +51,3 @@ footer:
   - title: Perspective
     url: "/perspective"
     weight: 2
-

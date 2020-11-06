@@ -9,8 +9,8 @@ navigation:
   url: "/blog/"
   weight: 2
 - button: 1
-  title: Schedule Demo
-  url: "/sales/schedule-demo/"
+  title: Get a Quote
+  url: "/get-a-quote/"
   weight: 3
 footer:
 - title: Communities

@@ -1,12 +1,10 @@
 ---
-date: 2020-09-30 15:03:37 +0000
+date: 2020-09-30T15:03:37.000+00:00
 author: kelton-reid
-categories:
-- Talent Sourcing
-- Hiring Strategy
+categories: []
 title: Why Demand for Tech Talent Is So High
-description: Demand for coders has skyrocketed in hot new tech fields like AI. But
-  tried-and-true job markets like mobile app development haven’t cooled off.
+description: Demand for developers has skyrocketed in hot new tech fields like AI.
+  But tried-and-true job markets like mobile app development haven’t cooled off.
 image: "/uploads/pexels-marcus-aurelius-4064235.jpg"
 thumbnail: "/uploads/magnet-me-2_p0ygpwffs-unsplash.jpg"
 color_overlay: "#264083"
@@ -23,7 +21,7 @@ Brands are racing to keep up with consumers and many are facing the hard truth a
 
 Finding top talent in hard-to-staff and highly technical disciplines has become a marathon. Employers are spending more time than ever courting, recruiting, and trying to keep the best of the best.
 
-It’s not your imagination. Demand for coders has skyrocketed in top tech fields like AI, cloud computing, and blockchain. But the tried-and-true job markets like mobile app development and cybersecurity haven’t cooled off.
+It’s not your imagination. Demand for developers has skyrocketed in top tech fields like AI, cloud computing, and blockchain. But the tried-and-true job markets like mobile app development and cybersecurity haven’t cooled off.
 
 > In an annual CIO Survey by KPMG, over [3,000 tech leaders shared their frustration](https://www.monster.com/career-advice/article/tech-talent-gap-survey-0816){:target='_blank'} and “an astonishing 65% said that hiring challenges are hurting the industry.”
 

@@ -33,3 +33,7 @@ input[data-automation-id="novo-search-input"] {
     padding: 0 !important;
     max-width: 75rem;
 }
+
+.frame > .list {
+    height: calc(85vh - 55px) !important;
+}

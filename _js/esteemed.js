@@ -46,3 +46,9 @@ if ($(".page__mobile-nav-hidden").length) {
     lastScrollTop = ScrollTop;
   });
 }
+// Mobile menu for job page.
+$(window).ready(function() {
+  $('.job-content-wrap').on( "click", function() {
+    $('#main-navigation').toggle();
+  });
+});

@@ -1,5 +1,8 @@
 .title-bar {
   justify-content: flex-end;
+  @include breakpoint(small only and large up) {
+    display: block !important;
+  }
 }
 
 .w-nav {

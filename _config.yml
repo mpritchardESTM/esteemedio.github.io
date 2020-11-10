@@ -22,6 +22,7 @@ plugins:
   - jekyll-feed
   - jekyll-menus
   - jekyll-paginate-v2
+  - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
 author_dir: "blog/author"

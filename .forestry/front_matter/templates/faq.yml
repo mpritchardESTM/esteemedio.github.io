@@ -4,23 +4,23 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: description
-  label: description
+  label: Description
 - type: text
   name: permalink
-  label: permalink
+  label: Permalink
 - type: text
   name: layout
-  label: layout
+  label: Layout
 - type: field_group_list
   name: faqs
-  label: faqs
+  label: FAQs
   fields:
   - type: text
     name: question
-    label: question
+    label: Question
   - type: text
     name: answer
-    label: answer
+    label: Answer

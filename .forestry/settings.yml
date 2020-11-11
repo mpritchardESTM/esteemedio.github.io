@@ -22,6 +22,10 @@ sections:
   path: company.html
   label: Company
 - type: document
+  path: member-compensation-plan.html
+  label: Compensation Plan
+  match: "**/*"
+- type: document
   path: terms-of-use.md
   label: Terms of Use
 - type: document

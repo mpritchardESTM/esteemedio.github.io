@@ -30,7 +30,6 @@ sections:
 - type: document
   path: code-of-conduct.md
   label: Code of Conduct
-  match: "**/*"
 - type: directory
   path: _data
   label: Data

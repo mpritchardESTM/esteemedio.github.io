@@ -1,6 +1,6 @@
 ---
 label: FAQ
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: title
@@ -24,3 +24,5 @@ fields:
   - type: text
     name: answer
     label: Answer
+pages:
+- faq.html

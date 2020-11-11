@@ -27,6 +27,10 @@ sections:
 - type: document
   path: privacy-policy.md
   label: Privacy Policy
+- type: document
+  path: code-of-conduct.md
+  label: Code of Conduct
+  match: "**/*"
 - type: directory
   path: _data
   label: Data

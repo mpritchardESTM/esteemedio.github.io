@@ -1,0 +1,26 @@
+---
+label: FAQ
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: layout
+  label: layout
+- type: field_group_list
+  name: faqs
+  label: faqs
+  fields:
+  - type: text
+    name: question
+    label: question
+  - type: text
+    name: answer
+    label: answer

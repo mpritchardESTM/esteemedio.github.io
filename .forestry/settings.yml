@@ -16,6 +16,10 @@ sections:
   path: index.html
   label: Homepage
 - type: document
+  path: faqs.html
+  label: FAQs
+  match: "**/*"
+- type: document
   path: company.html
   label: Company
 - type: document

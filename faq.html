@@ -1,0 +1,23 @@
+---
+title: FAQs
+description: 
+permalink: "/faqs/"
+layout: single
+faqs:
+  - question: Are you cool?
+    answer: Sometimes.
+---
+
+<div class="container">
+  <div class="row">
+    <h1>FAQs</h1>
+  </div>
+  <div class="row">
+    <dl>
+      {% for faq in page.faqs %}
+      <dt>{{ faq.question }}</dt>
+      <dl>{{ faq.answer }}</dl>
+      {% endfor %}
+    </dl>
+  </div>
+</div>

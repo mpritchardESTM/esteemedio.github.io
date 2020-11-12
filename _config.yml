@@ -54,6 +54,7 @@ defaults:
     values:
       layout: "default"
       image: "/img/main-esteemed.png"
+      contact_form: true
   -
     scope:
       type: "posts"

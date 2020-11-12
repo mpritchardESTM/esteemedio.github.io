@@ -1,6 +1,7 @@
 ---
 title: "Code of Conduct"
 description: 
+contact_form: false
 permalink: "/code-of-conduct/"
 layout: single
 ---

@@ -4,12 +4,9 @@ html {
 .credits {
     display: none;
 }
-.job-content-wrap {
-    display: flex;
-    justify-content: center;
-}
 .frame {
     max-width: 75rem;
+    margin: 0 auto;
 }
 .grid-container {
     max-width: 75rem;
@@ -29,9 +26,10 @@ input[data-automation-id="novo-search-input"] {
 }
 
 .job-container {
-    margin: 0 !important;
-    padding: 0 !important;
+    margin: 0 auto !important;
+    padding: 2rem 2rem 10rem 2rem !important;
     max-width: 75rem;
+
 }
 
 .frame > .list {

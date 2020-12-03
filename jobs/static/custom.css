@@ -38,7 +38,13 @@ input[data-automation-id="novo-search-input"] {
 
 @media only screen and (max-width: 768px) {
     app-apply-modal[_nghost-c3] section[_ngcontent-c3] {
-        max-height: calc(100vh - 210px);
-        height: calc(100vh - 210px);
+        max-height: calc(100vh - 205px);
+        height: calc(100vh - 205px);
+    }
+    footer {
+        position: fixed;
+        width: 100%;
+        background: white;
+
     }
 }

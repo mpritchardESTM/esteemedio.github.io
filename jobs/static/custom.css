@@ -35,3 +35,10 @@ input[data-automation-id="novo-search-input"] {
 .frame > .list {
     height: calc(85vh - 55px) !important;
 }
+
+@media only screen and (max-width: 768px) {
+    app-apply-modal[_nghost-c3] section[_ngcontent-c3] {
+        max-height: calc(100vh - 210px);
+        height: calc(100vh - 210px);
+    }
+}

@@ -45,6 +45,6 @@ input[data-automation-id="novo-search-input"] {
         position: fixed;
         width: 100%;
         background: white;
-
+        bottom: 0;
     }
 }

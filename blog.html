@@ -9,9 +9,18 @@ pagination:
 
 {% assign featured_posts = site.posts | where:'featured', true | sort: 'date' | reverse %}
 
+<div class="hero-blog-container">
+  <div class="heroBanner-left">
+    <h1 class="u-text-bold main-title">The Star</h1>
+    <div class="heading-subtitle">Resources you need to land flexible jobs,<br/>
+      meet like-minded colleagues, and build<br/>
+      your business with confidence.</div>
+  </div>
+  <div class="heroBanner-right">
+    <img class="heroBanner-image" src="/img/blog_hero.jpg" alt="Esteemed makes it easier for you to get flexible jobs.">
+  </div>
+</div>
 <div class="grid-container page--blog">
-  <h1 class="u-text-bold main-title">The Star</h1>
-  <div class="heading-subtitle">Esteemed makes it easier for you to get flexible jobs, meet like-minded colleagues, and build your business with confidence. But we know your work doesn’t stop there. Our blog is here to help! With insights into all aspects of running a remote business, Esteemed helps you succeed.</div>
   <div class="blog-categories">
     <a href="/blog/">All posts</a>
     {% for category in site.categories %}

@@ -3,7 +3,11 @@ alex-novak:
   name: Alex Novak
   profile_image: "/img/alex-novak.jpg"
   image_meta: "/img/alex-novak.jpg"
-  bio:
+  bio: Alex Novak is a WordPress\Drupal developer and blogger for Esteemed. He has
+    been a part of Drupal Contractors, WP Contractors, and Esteemed for over 4 years.
+    As a developer, he has participated in extensive projects of varying complexity
+    and scale. Most recently, he has been using React and Angular as well. Connect
+    with him on Esteemed!
 casey-horgan:
   name: Casey Horgan
   profile_image: "/img/casey-horgan.jpg"
@@ -35,10 +39,10 @@ matthew-pritchard:
   bio: 'Matthew Ellis Pritchard is a digital content marketer and Esteemed Talent
     Network member, creating useful content for agency-owners, businesses and freelancers/contractors
     alike. Let''s connect at m.pritchard@esteemed.io. '
-gloria-tucker: 
+gloria-tucker:
   name: Gloria Tucker
   profile_image: "/img/gloria-tucker.jpg"
   image_meta: "/img/gloria-tucker.jpg"
-  bio: 'Gloria is an ambitious senior backend web developer who specializes in Drupal and is passionate
-    about open-source software and government web projects. In her spare time, she enjoys her family, 
-    having fun with friends, and reading literature. '
+  bio: 'Gloria is an ambitious senior backend web developer who specializes in Drupal
+    and is passionate about open-source software and government web projects. In her
+    spare time, she enjoys her family, having fun with friends, and reading literature. '

@@ -1,4 +1,9 @@
 ---
+alex-novak:
+  name: Alex Novak
+  profile_image: "/img/alex-novak.jpg"
+  image_meta: "/img/alex-novak.jpg"
+  bio:
 casey-horgan:
   name: Casey Horgan
   profile_image: "/img/casey-horgan.jpg"

@@ -757,3 +757,110 @@ body {
     }
   }
 }
+#section-partner {
+  h1 {
+    font-family: $font-georgia;
+    font-weight: normal;
+    font-size: 5rem;
+    @include breakpoint(small only) {
+      font-size: 3rem;
+    }
+  }
+
+  h2 {
+    font-family: $font-georgia;
+    font-weight: normal;
+    font-size: 4rem;
+    @include breakpoint(small only) {
+      font-size: 2rem;
+    }
+  }
+
+  h3 {
+    font-size: 1.3rem;
+    width: 50%;
+    margin: 0 auto;
+    color: white;
+    font-weight: normal;
+    padding-top: 2rem;
+    @include breakpoint(small and large down) {
+      width: 75%;
+    }
+  }
+
+  .partner-slider {
+    height: 30rem;
+    text-align: center;
+    @include breakpoint(small and large down) {
+      height: auto;
+    }
+
+    img {
+      height: 10rem;
+      margin: 0 auto;
+    }
+
+    .slider {
+      background: $slider-background-green;
+      width: 100%;
+      margin: 0 auto;
+      height: auto;
+      @include breakpoint(small and large down) {
+        width: 85%;
+        padding-bottom: 1rem;
+      }
+    }
+
+    .orbit-wrapper {
+      position: relative;
+      width: 50%;
+      margin: 0 auto;
+      @include breakpoint(small and large down) {
+        width: 85%;
+        padding-bottom: 1rem;
+      }
+    }
+
+    .slide-title {
+      font-size: 2rem;
+      color: $white;
+      font-family: $font-poppins;
+      padding-top: 1rem;
+    }
+
+    .slide-descr {
+      font-size: 1.2rem;
+      color: $white;
+      font-family: $font-poppins;
+      font-weight: 400;
+      margin-top: 1rem;
+    }
+
+    .orbit-arrow {
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 50px;
+      height: 50px;
+      top: 50%;
+    }
+
+    .orbit-arrow:focus, .orbit-container:focus {
+      outline: none;
+    }
+
+    .orbit-previous {
+      left: -10%;
+      background-image: url(/img/arrow-prev.png);
+    }
+
+    .orbit-next {
+      right: -10%;
+      background-image: url(/img/arrow-next.png);
+    }
+  }
+
+  .u-bg-green {
+    background: $slider-background-green
+  }
+}

@@ -459,9 +459,9 @@ body {
 }
 
 .page--quote {
-  h1, h2 {
+  h1 {
     font-family: $font-georgia;
-    font-size: 80px;
+    font-size: 5rem;
     font-style: normal;
     font-weight: 700;
     line-height: 85px;
@@ -472,6 +472,19 @@ body {
       line-height: 75px;
     }
   }
+  h2 {
+  font-family: $font-georgia;
+  font-size: 3rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 85px;
+  letter-spacing: -0.055em;
+  text-align: left;
+  @include breakpoint(small only) {
+    font-size: 3rem;
+    line-height: 75px;
+  }
+}
   .background-grey {
     background: rgba(221, 228, 232, 0.35);
   }

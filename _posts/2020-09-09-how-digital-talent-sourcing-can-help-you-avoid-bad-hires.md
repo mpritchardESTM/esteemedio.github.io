@@ -11,7 +11,7 @@ description: Talent sourcing concentrates highly-qualified people into a single 
 image: "/uploads/kelly-sikkema-1_rzl8bgbm-unsplash.jpg"
 thumbnail: "/uploads/pexels-bongkarn-thanyakij-3740682.jpg"
 color_overlay: "#9FCEED"
-featured: true
+featured: false
 
 ---
 Talent sourcing is a valuable tool for successful, forward-thinking companies. As its name suggests, talent sourcing is how you connect with talented colleagues that you might not otherwise cross paths with.

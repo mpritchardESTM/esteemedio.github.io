@@ -8,7 +8,7 @@ description: 'Slack is a great tool for your employees, but are you using it for
 image: "/uploads/scott-webb-bmmcfzqsjbu-unsplash.jpg"
 thumbnail: "/uploads/annie-spratt-ittft8fg1sy-unsplash.jpg"
 color_overlay: "#1779BA"
-featured: false
+featured: true
 
 ---
 Ah, Slack. A recruiter’s (often overlooked) best friend. This corporate communication tool has become the go-to messaging app for businesses and developers alike. Slack is used by the [majority](https://slack.com/intl/en-gb/blog/news/slack-has-10-million-daily-active-users){:target='_blank'} of Fortune 100 companies, and the app boasts users like Amazon, PayPal, IBM, and Oracle. Users spend, on average, an [hour and a half](https://www.sec.gov/Archives/edgar/data/1764925/000162828019004786/slacks-1.htm){:target='_blank'} each day on Slack.

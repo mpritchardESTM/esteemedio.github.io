@@ -45,4 +45,4 @@ Our Sites are not intended for children under 13 years of age.
 
 ## How to Contact Us
 
-You may contact us for questions or concerns about our privacy practices at <a href="mailto:{{ site.email }}">{{ site.email }}</a>. You may also call us at 1-360-701-7353 M-F 8-5 PST.
+You may contact us for questions or concerns about our privacy practices at <a href="mailto:{{ site.email }}">{{ site.email }}</a>. You may also call us at 1 (360) 712-3866 M-F 8-5 PST.

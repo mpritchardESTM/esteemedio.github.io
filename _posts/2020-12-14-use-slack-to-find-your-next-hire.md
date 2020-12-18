@@ -1,8 +1,8 @@
 ---
-date: 2020-12-14 17:18:49 +0000
+date: 2020-12-14T17:18:49.000+00:00
 author: casey-horgan
 categories:
-- talent sourcing
+- Talent Sourcing
 title: Use Slack to Find Your Next Hire
 description: 'Slack is a great tool for your employees, but are you using it for recruiting? '
 image: "/uploads/scott-webb-bmmcfzqsjbu-unsplash.jpg"

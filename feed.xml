@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://esteemed.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://esteemed.io/" rel="alternate" type="text/html" /><updated>2020-12-21T22:00:47+00:00</updated><id>https://esteemed.io/feed.xml</id><title type="html">Esteemed.io</title><subtitle>Scale your business with speed and confidence with trusted colleagues from the Esteemed Talent Network. Made up of over 13,000 digital professionals. The first and only integrated staffing and collaboration solution delivered through your existing communications platforms.</subtitle><entry><title type="html">The Developer’s Guide to Managing Your Business: Part One</title><link href="https://esteemed.io/blog/2020/12/21/the-developer-s-guide-to-managing-your-business-part-one/" rel="alternate" type="text/html" title="The Developer’s Guide to Managing Your Business: Part One" /><published>2020-12-21T21:10:02+00:00</published><updated>2020-12-21T21:10:02+00:00</updated><id>https://esteemed.io/blog/2020/12/21/the-developer-s-guide-to-managing-your-business-part-one</id><content type="html" xml:base="https://esteemed.io/blog/2020/12/21/the-developer-s-guide-to-managing-your-business-part-one/">&lt;p&gt;Are you thinking about venturing out on your own to start a software development or contracting business? Then it occurs to you, “How the heck do I go from idea to service or product?”&lt;/p&gt;
+
+&lt;p&gt;It’s a challenging journey, and not for the faint of heart. It’s also not nearly as hard as you think. Instantly you’ll start dreaming about that big exit. But seriously, stop that now!&lt;/p&gt;
+
+&lt;p&gt;You don’t have to be the next Bill Gates or Sergey Brin. But it’s not as easy as just hanging up a digital shingle and going to the ATM.&lt;/p&gt;
+
+&lt;p&gt;The truth is, with a small investment and the right motivation, you can easily be making &lt;a href=&quot;https://esteemed.io/blog/2020/09/30/why-demand-for-tech-talent-is-so-high/&quot;&gt;twice your day job salary&lt;/a&gt;. And you’ll make your own hours if you’re savvy!&lt;/p&gt;
+
+&lt;h3 id=&quot;the-journey-of-1000-miles-starts-with-one-step&quot;&gt;The journey of 1000 miles starts with one step&lt;/h3&gt;
+
+&lt;p&gt;Whether you want to do freelance work as a ronin IT pro, or finally commit to your software solution, just start! The best advice any entrepreneur ever received was to simply get going.&lt;/p&gt;
+
+&lt;p&gt;Everyone has an idea for a book, movie, or app that they want to create or write. But the reality is, not everyone has the growth mindset (or energy) to start down that path.&lt;/p&gt;
+
+&lt;p&gt;No one ever said being your own boss would be easy, and it won’t be. It’s a marathon, not a sprint.&lt;/p&gt;
+
+&lt;p&gt;Here’s a brief guide to help you get started on your journey.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-start-freelancing&quot;&gt;Why start freelancing?&lt;/h3&gt;
+
+&lt;p&gt;With over a decade of expertise helping businesses and brands &lt;a href=&quot;https://esteemed.io/blog/2020/07/25/5-reasons-why-you-should-join-a-talent-network/&quot;&gt;connect with talented contract developers&lt;/a&gt; we’ve seen the benefits firsthand:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You can make more money and have work-life balance&lt;/li&gt;
+  &lt;li&gt;Work on a variety of projects to build your resume and street cred&lt;/li&gt;
+  &lt;li&gt;Control your own schedule&lt;/li&gt;
+  &lt;li&gt;Quit your day job&lt;/li&gt;
+  &lt;li&gt;Build a brand, or small agency&lt;/li&gt;
+  &lt;li&gt;And create an exit strategy as a “producer”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;know-your-intended-niche-and-market&quot;&gt;Know your intended niche and market&lt;/h3&gt;
+
+&lt;p&gt;Out of the gate, you’ll need to find out if anyone really wants your offerings. And by digging down into &lt;a href=&quot;https://www.entrepreneur.com/encyclopedia/unique-selling-proposition-usp&quot;&gt;your upselling proposition as a developer&lt;/a&gt; you’ll be able to differentiate your skillset.&lt;/p&gt;
+
+&lt;p&gt;“Did you know that GitLab was built for the specific needs of one of the cofounders and he had no intention of turning it into a business?” — &lt;a href=&quot;https://medium.com/practical-programming-weekly/how-to-start-a-business-as-a-software-developer-9370af88fe24&quot;&gt;How to start a business as a Software developer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If it’s your services you intend to hawk then you’ll want to make sure they’re in demand. And if it’s a product solution for the open market, you’re going to have to research your competition.&lt;/p&gt;
+
+&lt;p&gt;And I don’t mean do a few Google searches. You’ll need to get in the trenches and get boots on the ground intel.&lt;/p&gt;
+
+&lt;p&gt;Research your intended target market well ahead of any wireframing or launch. You’ll need to dig deep into the specifics of why exactly your service or solution is something people will pay for.&lt;/p&gt;
+
+&lt;p&gt;Developers are natural problem-solvers, so this is ground zero for any serious business venture.&lt;/p&gt;
+
+&lt;h3 id=&quot;learn-how-to-sell-yourself&quot;&gt;Learn how to sell yourself&lt;/h3&gt;
+
+&lt;p&gt;Some of the best advice we can give freelancers is learning how to market yourself. You’ll need to learn a few basics to get your services in front of clients.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Outbound activity on LinkedIn, phone calls to those that might consume your services&lt;/li&gt;
+  &lt;li&gt;Define deeper niches (non-profits, agencies, government)&lt;/li&gt;
+  &lt;li&gt;Target your most excited, qualified, profitable leads and customers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Understanding the Pareto Principle – that 80% of your revenue will come from 20% of your customers – is a natural law and a proven business tactic. We swear by it.&lt;/p&gt;
+
+&lt;h3 id=&quot;target-audiences-will-help-you-zero-in&quot;&gt;Target audiences will help you zero in&lt;/h3&gt;
+
+&lt;p&gt;Once you’ve done your research and learned the ins-and-outs of your niche market you can get building. If you’re venturing out as a freelancer you’ll need a few basics before you go where the jobs are.&lt;/p&gt;
+
+&lt;p&gt;Establishing your minimum viable business (MVB), or product (MVP) will let you move ahead with less friction and investment of time and money. The leaner the better at the outset.&lt;/p&gt;
+
+&lt;p&gt;For developers who plan to sell their coding expertise as a service, you’ll need to network with like-minded professionals. Join networks and go to coding events and camps to rub elbows.&lt;/p&gt;
+
+&lt;p&gt;“Know, like, and trust” is how you’ll build your reputation as an authority in your niche. From there you’ll be able to leverage your relationships into a viable service or product people really need.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Demand outpaces supply, don’t undersell yourself;&lt;/li&gt;
+  &lt;li&gt;Listen to what the market is doing via recruiters;&lt;/li&gt;
+  &lt;li&gt;Set a rate range, low to high;&lt;/li&gt;
+  &lt;li&gt;Define the type of work you most enjoy, and are best at;&lt;/li&gt;
+  &lt;li&gt;Pick and choose contracts based on timing;&lt;/li&gt;
+  &lt;li&gt;It’s best to layer at least 2 contracts for “insurance” purposes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;keep-the-passion-alive&quot;&gt;Keep the passion alive!&lt;/h2&gt;
+
+&lt;p&gt;You have to make sure that this is something you’re passionate about for the long haul. Burnout is a real thing in our industry, and you’ll be putting in some serious hours to launch.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;But never be afraid to ask for help&lt;/a&gt;. Especially from a trusted community of like-minded professionals.&lt;/p&gt;
+
+&lt;p&gt;As you begin to formulate the thesis for your business, don’t forget the basics:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Research, research, research&lt;/li&gt;
+  &lt;li&gt;Narrow your MVB or MVP based on feedback&lt;/li&gt;
+  &lt;li&gt;Find your service or product-market fit through iteration&lt;/li&gt;
+  &lt;li&gt;Wash, rinse, repeat&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Forward progress always means learning from your mistakes and becoming slowly better over time. With a minimal investment and a head of steam you can be making money from clients in no time.&lt;/p&gt;
+
+&lt;p&gt;Just having your LLC designation and working for a few clients can be a dream business or a solid side-gig. But we’ll dig into more specifics that you’ll need to really get rolling in Part Two.&lt;/p&gt;
+
+&lt;h3 id=&quot;never-doubt-that-a-small-group-of-committed-coders&quot;&gt;Never doubt that a small group of committed coders…&lt;/h3&gt;
+
+&lt;p&gt;Can change the world. As a community that promotes ongoing education, support, and prosperity, we only go as far as you do.&lt;/p&gt;
+
+&lt;p&gt;That’s why we’ve created a community of like-minded problem-solvers with a commitment to excellence. We’re always here to lend a hand.&lt;/p&gt;
+
+&lt;p&gt;With the right help, you can take on projects, make a profit, and not have to stay at your day job, or make more money than you think!&lt;/p&gt;
+
+&lt;p&gt;Stay tuned for more specific resources and tools in &lt;strong&gt;The Developer’s Guide to Managing Your Business: Part Two&lt;/strong&gt;. We’ll talk about specifics of launching your business and how to keep the work coming in.&lt;/p&gt;</content><author><name>Kelton Reid</name></author><summary type="html">Are you thinking about venturing out on your own to start a software development or contracting business? Then it occurs to you, “How the heck do I go from idea to service or product?”</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://esteemed.io/uploads/paige-cody-ittqjs3upoy-unsplash.jpg" /><media:content medium="image" url="https://esteemed.io/uploads/paige-cody-ittqjs3upoy-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">How to Work Specialized Recruiting into Your Hiring Strategy</title><link href="https://esteemed.io/blog/2020/12/07/how-to-work-specialized-recruiting-into-your-hiring-strategy/" rel="alternate" type="text/html" title="How to Work Specialized Recruiting into Your Hiring Strategy" /><published>2020-12-07T17:15:06+00:00</published><updated>2020-12-07T17:15:06+00:00</updated><id>https://esteemed.io/blog/2020/12/07/how-to-work-specialized-recruiting-into-your-hiring-strategy</id><content type="html" xml:base="https://esteemed.io/blog/2020/12/07/how-to-work-specialized-recruiting-into-your-hiring-strategy/">&lt;p&gt;When it comes to auditing &lt;a href=&quot;https://esteemed.io/blog/2020/11/02/small-business-big-problems-tips-for-sourcing-talent-as-a-small-business/&quot; target=&quot;_blank&quot;&gt;your talent sourcing&lt;/a&gt; and acquisition strategies we know there are always questions on how to save time and money. But there’s no obvious shortcut to success.&lt;/p&gt;
+
+&lt;p&gt;If you’re lucky enough to have an in-house HR team you know how much each member juggles on a monthly basis. But if you’re a small startup or agency it might just come down to who wears the “hiring hat” that week.&lt;/p&gt;
+
+&lt;p&gt;When you’re looking for support who can you turn to? Many recruiting firms claim to have access to deep pools of specialized talent.&lt;/p&gt;
+
+&lt;p&gt;The reality is they’re looking at the same generic pool of candidates you are. And when it comes to landing top IT pros, the pickings are slim.&lt;/p&gt;
+
+&lt;h3 id=&quot;specialized-vs-general-recruitment&quot;&gt;Specialized vs. general recruitment&lt;/h3&gt;
+
+&lt;p&gt;We see the growing shortage of talented tech hires every day. It’s no mirage, and there are predicted to be &lt;a href=&quot;https://jobbatical.com/resources/hiring-statistics&quot; target=&quot;_blank&quot;&gt;an additional 5 million IT jobs added&lt;/a&gt; to that growing sea by 2027.&lt;/p&gt;
+
+&lt;p&gt;You wouldn’t go to a general practitioner to treat a highly specialized problem, would you? You would go to a specialist with expertise in that issue.&lt;/p&gt;
+
+&lt;p&gt;So by tapping into specialized recruiting to help you fill highly-technical roles you’re relying on specialists referring specialists. And this can give you a huge advantage.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-global-talent-shortage-is-real&quot;&gt;The global talent shortage is real&lt;/h3&gt;
+
+&lt;p&gt;You’re not alone. &lt;a href=&quot;https://go.manpowergroup.com/talent-shortage-2018#thereport&quot; target=&quot;_blank&quot;&gt;72% of employers report&lt;/a&gt; having a hard time finding skilled candidates, especially for hard-to-fill positions. It’s also a growing epidemic that can impact your bottom line.&lt;/p&gt;
+
+&lt;p&gt;By enlisting the expertise of a niche specialist for your recruiting needs you can save invaluable resources. You’ll not only tap into a deeper pool of talent, but you can also boost time-to-hire and quality of hire.&lt;/p&gt;
+
+&lt;p&gt;Specialized recruiters become a natural extension of your HR team. Trusted envoys who can help broadcast your company culture and mission.&lt;/p&gt;
+
+&lt;h3 id=&quot;time-to-hire-power-up&quot;&gt;Time-to-hire power up&lt;/h3&gt;
+
+&lt;p&gt;Boosting time-to-hire not only saves you money, in the long run, it also boosts innovation. By taking the pressure off your recruiting team you’re freeing up time and brainpower.&lt;/p&gt;
+
+&lt;p&gt;Having someone vet your candidates for you takes the guesswork out of having to do multiple assessments and behavioral interviews yourself. This lets you focus on what really matters.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://esteemed.io/blog/2020/09/02/6-soft-skills-every-developer-needs-to-get-hired/&quot; target=&quot;_blank&quot;&gt;Soft skills&lt;/a&gt; are often overlooked by general recruiting firms because they’re more interested in warm bodies. Generalized recruiters don’t typically look beyond the resume.&lt;/p&gt;
+
+&lt;p&gt;But recruiters who can talk specifically to your most valued acquisitions’ needs do. And getting talented new hires in the door faster lets your team focus on their core competencies.&lt;/p&gt;
+
+&lt;h3 id=&quot;culture-building-and-quality-of-hire&quot;&gt;Culture-building and quality of hire&lt;/h3&gt;
+
+&lt;p&gt;A recent study by legacy employment site &lt;a href=&quot;https://resources.careerbuilder.com/guides&quot; target=&quot;_blank&quot;&gt;CareerBuilder&lt;/a&gt; found that 66% of US employers reported having been affected by a bad hire, with 27% saying a single bad hire cost them more than $50,000.&lt;/p&gt;
+
+&lt;p&gt;With a specialized recruiter, you’ll be building a team of contributing superstars right out of the gate. And specialists who speak the exact language of your business needs can help support your core values and diversity.&lt;/p&gt;
+
+&lt;p&gt;Lean on the tried-and-true experience of a specialty firm that talks the talk. Don’t play Russian roulette with your most trusted asset, your people.&lt;/p&gt;
+
+&lt;h3 id=&quot;onboarding-and-the-race-for-talent&quot;&gt;Onboarding and the race for talent&lt;/h3&gt;
+
+&lt;p&gt;We understand the pressure businesses face competing for top talent. Don’t try to go “pound-for-pound” with the big guys when you don’t have to.&lt;/p&gt;
+
+&lt;p&gt;Remember that recruitment and retention actually &lt;a href=&quot;https://esteemed.io/blog/2020/09/09/how-digital-talent-sourcing-can-help-you-avoid-bad-hires/&quot; target=&quot;_blank&quot;&gt;start by sourcing talent smarter&lt;/a&gt;. Not by trying to compete on salary, compensation, or benefits packages.&lt;/p&gt;
+
+&lt;p&gt;Save yourself the headache and enlist help from the start. The key to the next digital revolution will be access to deeper networks of talented and diverse voices.&lt;/p&gt;
+
+&lt;p&gt;We talk to developers every day who can speak to your needs. We are specialized colleagues recommending the best of the best.&lt;/p&gt;
+
+&lt;p&gt;We’d love to chat about all of your hiring needs! &lt;a href=&quot;&quot;&gt;Drop us a line anytime&lt;/a&gt;.&lt;/p&gt;</content><author><name>Kelton Reid</name></author><category term="hiring strategy" /><summary type="html">When it comes to auditing your talent sourcing and acquisition strategies we know there are always questions on how to save time and money. But there’s no obvious shortcut to success.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://esteemed.io/uploads/photo-1598257006460-4cd5d043cf49.jpeg" /><media:content medium="image" url="https://esteemed.io/uploads/photo-1598257006460-4cd5d043cf49.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Small Business, Big Problems: Tips for Sourcing Talent as a Small Business</title><link href="https://esteemed.io/blog/2020/11/02/small-business-big-problems-tips-for-sourcing-talent-as-a-small-business/" rel="alternate" type="text/html" title="Small Business, Big Problems: Tips for Sourcing Talent as a Small Business" /><published>2020-11-02T22:46:40+00:00</published><updated>2020-11-02T22:46:40+00:00</updated><id>https://esteemed.io/blog/2020/11/02/small-business-big-problems-tips-for-sourcing-talent-as-a-small-business</id><content type="html" xml:base="https://esteemed.io/blog/2020/11/02/small-business-big-problems-tips-for-sourcing-talent-as-a-small-business/">&lt;p&gt;How can your small business compete for top talent? Maybe you’re a lean startup operating on a shoestring. That doesn’t mean you can’t attract impactful players to your team.&lt;/p&gt;
+
+&lt;p&gt;If the fight for talent was a boxing match, smaller businesses and larger companies aren’t in the same weight class. There’s no competition.&lt;/p&gt;
+
+&lt;p&gt;So getting innovative about how you stand out in the minds of prospects is the key. As the digital frontier becomes more competitive by the minute, any advantage helps.&lt;/p&gt;
+
+&lt;h3 id=&quot;smaller-teams-are-scrappier&quot;&gt;Smaller teams are scrappier&lt;/h3&gt;
+
+&lt;p&gt;Your weaknesses as a small business owner don’t have to be a disadvantage. The future of your business depends on &lt;a href=&quot;https://esteemed.io/blog/2020/09/09/how-digital-talent-sourcing-can-help-you-avoid-bad-hires/&quot; target=&quot;_blank&quot;&gt;attracting the best candidates&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;But recruitment and retention actually start by sourcing talent differently. Not by going toe-to-toe on salary, compensation, or benefits packages.&lt;/p&gt;
+
+&lt;p&gt;Career fairs can give an unfair advantage to the big guys. You’ll need to go where talent is having conversations with each other, not where big brands are sucking the air from the room.&lt;/p&gt;
+
+&lt;h3 id=&quot;70-of-the-global-workforce-is-passive-talent&quot;&gt;70% of the global workforce is passive talent&lt;/h3&gt;
+
+&lt;p&gt;Top talent is &lt;a href=&quot;https://financesonline.com/hiring-statistics/&quot; title=&quot;Passive talent&quot; target=&quot;_blank&quot;&gt;passively job-hunting&lt;/a&gt; all over the world and web. Though not actively looking for a gig, they’re always keeping an eye out for better things.&lt;/p&gt;
+
+&lt;p&gt;Speaking to them is not hard, and listening to their hopes and fears is even easier. They’re hanging out in online groups, chats, forums, and Slack channels sharing their frustrations and tips on how to get ahead.&lt;/p&gt;
+
+&lt;p&gt;Not only that but they’re having conversations in your community on channels you use every day. And both passive and active job hunters share a common trait.&lt;/p&gt;
+
+&lt;p&gt;They have FOMO (fear of missing out) when it comes to their peers and the competition. If their friends work for an inspiring startup that shares an incredible culture … they’re bound to want in.&lt;/p&gt;
+
+&lt;h3 id=&quot;create-a-culture-of-inclusion-and-innovation&quot;&gt;Create a culture of inclusion and innovation&lt;/h3&gt;
+
+&lt;p&gt;You can start a conversation with prospective talent by simply reaching out to see what they’re up to and nurturing a relationship. No strings attached means you can easily gather intel.&lt;/p&gt;
+
+&lt;p&gt;You’ll win friends and influence people by going off-script and avoiding buzzwords and bullet-points. Eventually sharing why your business culture and mission stand out is how so many startups succeed early on.&lt;/p&gt;
+
+&lt;p&gt;Setting out to build a culture that resonates with prospective employees should be a rung in your talent acquisition strategy. And it’s one of the most important reasons top talent will choose to work with you.&lt;/p&gt;
+
+&lt;h3 id=&quot;93-of-employees-mention-company-culture-in-their-online-job-reviews&quot;&gt;93% of employees &lt;a href=&quot;https://www.glassdoor.com/employers/resources/hr-and-recruiting-stats/&quot; target=&quot;_blank&quot;&gt;mention company culture&lt;/a&gt; in their online job reviews&lt;/h3&gt;
+
+&lt;p&gt;But how do you sell culture the old fashioned way? By establishing substance over style.&lt;/p&gt;
+
+&lt;p&gt;By differentiating your small business or agency from the soul-crushing ethos of big corporations. Only then can you can appeal to the hearts and minds of your new hires.&lt;/p&gt;
+
+&lt;p&gt;And by creating a unique culture, brand, and mission that feels like a “velvet rope” experience, you’ll have them lining up to get on the list.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-power-of-social-media-the-human-touch-and-referrals&quot;&gt;The power of social media, the human touch, and referrals&lt;/h3&gt;
+
+&lt;p&gt;In this era of digital disruption, reputation management is critical. Branding your small business to emphasize culture on all channels boosts your time-to-hire and quality-of-hire.&lt;/p&gt;
+
+&lt;p&gt;And emphasizing the unique human touch of a small business to prospects is important. By showing that working for you will be a rewarding experience for growth and opportunity that isn’t mired in bureaucracy.&lt;/p&gt;
+
+&lt;p&gt;Setting up a referral program can give your hiring a shot in the arm too. Referrals most often come from your current employees. Colleagues recommending colleagues.&lt;/p&gt;
+
+&lt;p&gt;We’re big believers in the power of community and building teams based on word-of-mouth talent networks. You can attract some incredible people that way, we see it every day.&lt;/p&gt;
+
+&lt;h3 id=&quot;non-traditional-compensation-packages-are-the-new-normal&quot;&gt;Non-traditional compensation packages are the new normal&lt;/h3&gt;
+
+&lt;p&gt;The future of work is flexible. By selling your culture, and needed job flexibility, small businesses can win top talent.&lt;/p&gt;
+
+&lt;p&gt;As your business grows you can incentivize the experience by rewarding employees for referrals that make it past &lt;a href=&quot;https://esteemed.io/blog/2020/10/21/an-80-point-employee-onboarding-checklist-for-long-term-success/&quot; target=&quot;_blank&quot;&gt;the critical six-month rubicon&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And by offering new hires equity, a chance to be a part of a unique brand, and more growth opportunities, you can stand out from the big guys.&lt;/p&gt;
+
+&lt;h3 id=&quot;every-job-opening-is-an-opportunity--feedback-ftw&quot;&gt;Every job opening is an opportunity – Feedback FTW&lt;/h3&gt;
+
+&lt;p&gt;With every job opening comes great responsibility. Even with the standout job applicants, you don’t hire, you can nurture long-term relationships that can lead to future hires.&lt;/p&gt;
+
+&lt;p&gt;“Talents are 4x more likely to consider a company for a future opportunity when a company offers feedback.” — &lt;a href=&quot;https://www.shrm.org/ResourcesAndTools/business-solutions/Documents/Talent-Acquisition-Report-All-Industries-All-FTEs.pdf&quot; target=&quot;_blank&quot;&gt;SHRM Customized Benchmarking Report&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;By nurturing future talent at every juncture you’re giving your small business or agency a great shot at delivering that one-of-a-kind work/life experience.&lt;/p&gt;
+
+&lt;p&gt;We love helping to empower small businesses with the talent sourcing to staff smarter. We’ve been sourcing a talent network of over 13,000 top tech professionals for over a decade.&lt;/p&gt;
+
+&lt;p&gt;There’s nothing more rewarding than helping inspiring brands build incredible teams. The future depends on it.&lt;/p&gt;
+
+&lt;p&gt;If you’re looking for help with your &lt;a href=&quot;https://esteemed.io/blog/2020/09/09/how-digital-talent-sourcing-can-help-you-avoid-bad-hires/&quot; title=&quot;Talent&quot;&gt;talent sourcing strategy &lt;/a&gt;drop us a line! Esteemed is dedicated to vetting and delivering quality tech talent when and where you need it.&lt;/p&gt;</content><author><name>Kelton Reid</name></author><summary type="html">How can your small business compete for top talent? Maybe you’re a lean startup operating on a shoestring. That doesn’t mean you can’t attract impactful players to your team.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://esteemed.io/uploads/alizee-baudez-sruzc3i_h8q-unsplash.jpg" /><media:content medium="image" url="https://esteemed.io/uploads/alizee-baudez-sruzc3i_h8q-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">An 80-Point Employee Onboarding Checklist for Long-term Success</title><link href="https://esteemed.io/blog/2020/10/21/an-80-point-employee-onboarding-checklist-for-long-term-success/" rel="alternate" type="text/html" title="An 80-Point Employee Onboarding Checklist for Long-term Success" /><published>2020-10-21T13:56:31+00:00</published><updated>2020-10-21T13:56:31+00:00</updated><id>https://esteemed.io/blog/2020/10/21/an-80-point-employee-onboarding-checklist-for-long-term-success</id><content type="html" xml:base="https://esteemed.io/blog/2020/10/21/an-80-point-employee-onboarding-checklist-for-long-term-success/">&lt;p&gt;Whether you work with in-house, remote contractors, or fully-distributed teams, the way you onboard new employees is crucial to your long-term success.&lt;/p&gt;
+
+&lt;p&gt;By creating &lt;a href=&quot;https://esteemed.io/blog/2020/09/09/how-digital-talent-sourcing-can-help-you-avoid-bad-hires/&quot; target=&quot;_blank&quot;&gt;a repeatable process for sourcing&lt;/a&gt;, orienting, and assimilating new employees you’re giving your business the best chance for retention.&lt;/p&gt;
+
+&lt;p&gt;And it starts well before the day they begin their new gig. The onboarding process can start as soon as the ink dries on any agreement — and before — for your best outcome.&lt;/p&gt;
+
+&lt;p&gt;Many successful companies have begun to onboard potential employees before they even fill out an application. They reserve a portion of their website for orienting potential hires and to broadcast company culture.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Companies that excel at onboarding and employee retention experienced &lt;a href=&quot;https://image-src.bcg.com/Images/BCG_From_Capability_to_Profitability_Jul_2012_tcm9-103684.pdf&quot; target=&quot;_blank&quot;&gt;2.5 times the revenue growth and 1.9 times the profit margin&lt;/a&gt; of companies who struggle with these two critical skills.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;how-to-build-retention-from-the-inside-out&quot;&gt;How to build retention from the inside-out&lt;/h3&gt;
+
+&lt;p&gt;We know the pain points so many businesses face &lt;a href=&quot;https://esteemed.io/blog/2020/09/30/why-demand-for-tech-talent-is-so-high/&quot; target=&quot;_blank&quot;&gt;engaging and retaining top IT talent&lt;/a&gt;. And for many tech pros, starting a new job has never been more stressful.&lt;/p&gt;
+
+&lt;p&gt;So we’ve put together a helpful list of some onboarding basics to help you get new hires where they need to be. And it’s built by setting them up for success in their first year.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;first six months&lt;/strong&gt; are a proving ground for any employee. 30% of new hires will quit within six months of starting, and 16-17% within the first three (&lt;a href=&quot;https://www.bamboohr.com/&quot; target=&quot;_blank&quot;&gt;BambooHR&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Why do so many new employees leave so soon after starting? It’s not rocket science, in fact, they’re more likely to &lt;a href=&quot;https://www.shrm.org/resourcesandtools/hr-topics/talent-acquisition/pages/onboarding-key-retaining-engaging-talent.aspx&quot; target=&quot;_blank&quot;&gt;tell you in online reviews&lt;/a&gt; than ever:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;23% will leave due to unclear guidelines around their new job&lt;/li&gt;
+  &lt;li&gt;21% because they feel they’ve received ineffective training&lt;/li&gt;
+  &lt;li&gt;17% due to a feeling of isolation or lack of social bonding&lt;/li&gt;
+  &lt;li&gt;12% because they feel their work goes unrecognized&lt;/li&gt;
+  &lt;li&gt;And 9% will leave because of a lack of feedback from superiors and co-workers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;the-difference-between-quick-vs-long-term-onboarding&quot;&gt;The difference between “quick” vs. long-term onboarding&lt;/h3&gt;
+
+&lt;p&gt;Building an effective and creative team of problem-solvers is expensive. So ensuring that your employees make it to that critical one year mark should be imperative.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Onboarding process planning&lt;/strong&gt; questions all companies can start with:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;When will your onboarding begin for new employees?&lt;/li&gt;
+  &lt;li&gt;How long will it extend?&lt;/li&gt;
+  &lt;li&gt;What is the overall goal for new employees at the conclusion of the:&lt;/li&gt;
+  &lt;li&gt;First day …&lt;/li&gt;
+  &lt;li&gt;First week …&lt;/li&gt;
+  &lt;li&gt;First month …&lt;/li&gt;
+  &lt;li&gt;First three months …&lt;/li&gt;
+  &lt;li&gt;First six months …&lt;/li&gt;
+  &lt;li&gt;By the end of their first year?&lt;/li&gt;
+  &lt;li&gt;What will new employees need to know about your company culture, mission, and office set up – or remote processes – prior to starting?&lt;/li&gt;
+  &lt;li&gt;How does your HR team assist in the onboarding process? Managers? Co-workers?&lt;/li&gt;
+  &lt;li&gt;Will your organization create a dedicated onboarding team?&lt;/li&gt;
+  &lt;li&gt;Can you create social media content that promotes company culture?&lt;/li&gt;
+  &lt;li&gt;What about producing a video orienting new hires to the company culture showcasing success stories and more?&lt;/li&gt;
+  &lt;li&gt;Will you create an onboarding collaboration system — or kanban board — for tracking where employees are in the process?&lt;/li&gt;
+  &lt;li&gt;What milestones and long-term goals will need to be set for new hires?&lt;/li&gt;
+  &lt;li&gt;And how will you and your team measure the success of your onboarding KPIs moving ahead?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;pre-onboarding-for-the-win&quot;&gt;Pre-onboarding for the win&lt;/h3&gt;
+
+&lt;p&gt;One survey by &lt;a href=&quot;https://www.aberdeen.com/research/&quot; target=&quot;_blank&quot;&gt;Aberdeen Group&lt;/a&gt; showed that 83% of the most successful organizations begin onboarding before a new hire’s first day.&lt;/p&gt;
+
+&lt;p&gt;As soon as your new team member has accepted an offer the onboarding process can begin. Even before that critical first day — always a slog — you can get them into your funnel and on the path to a long career.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pre-onboarding&lt;/strong&gt; suggestions to smoothly transition new hires:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Create a dedicated area on your website or Slack to welcome new employees and begin the process.&lt;/li&gt;
+  &lt;li&gt;Automate some of the tedious processes for new hires to help them speed up their assimilation and measure their progress.&lt;/li&gt;
+  &lt;li&gt;Have new employees e-sign docs gradually instead of having them piled on all at once.&lt;/li&gt;
+  &lt;li&gt;A friendly note and welcome kit from a new manager or the CEO can go a long way to acquainting them.&lt;/li&gt;
+  &lt;li&gt;New hire announcements and welcomes from co-workers also establish the kind of social onboarding that new employees need to feel invested.&lt;/li&gt;
+  &lt;li&gt;Ask them to interact with company social media accounts to promote connection.&lt;/li&gt;
+  &lt;li&gt;FAQs about the first day and a glossary of company terminology helps otherwise competent pros feel confident going into meetings full of unfamiliar internal jargon.&lt;/li&gt;
+  &lt;li&gt;An electronic handbook outlining a summary of job expectations and any boundaries around their new position can set them up for success right away.&lt;/li&gt;
+  &lt;li&gt;Point to suggested reading and success resources for additional fulfillment.&lt;/li&gt;
+  &lt;li&gt;Make sure they have all the tools they’ll need for a smooth and successful first day including:&lt;/li&gt;
+  &lt;li&gt;Having their new office or tech equipment — or remote setup — ready to roll, including software and operating systems.&lt;/li&gt;
+  &lt;li&gt;Passwords, logins, and any security access required to do all the things needed to interact with the team.&lt;/li&gt;
+  &lt;li&gt;A real or virtual coffee hour to get to know the team prior to diving into the nitty-gritty of the first day.&lt;/li&gt;
+  &lt;li&gt;Be sure to &lt;a href=&quot;https://esteemed.io/blog/2020/09/21/creating-a-candidate-persona/&quot; target=&quot;_blank&quot;&gt;refer back to interviews to learn more&lt;/a&gt; about your new employee’s soft skills, whether they are introverted or extroverted, and how to best incorporate those talents.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;expectations-at-the-outset-build-engagement&quot;&gt;Expectations at the outset build engagement&lt;/h3&gt;
+
+&lt;p&gt;Accountability and small wins breed success. And giving your new team members all of the tools they need is a key to retention and attaining objectives.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First-day checklist&lt;/strong&gt; ideas:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Get team members set up with their new office or tech equipment.&lt;/li&gt;
+  &lt;li&gt;Establish emails, aliases, and access to online platforms needed to communicate effectively.&lt;/li&gt;
+  &lt;li&gt;Be sure to reiterate roles and responsibilities for not only new hires but the whole team.&lt;/li&gt;
+  &lt;li&gt;A company directory, map, and org. chart can acquaint them faster.&lt;/li&gt;
+  &lt;li&gt;Have them start the onboarding roadmap prepared for their first-week that outlines the goals and knowledge they’ll need to acquire.&lt;/li&gt;
+  &lt;li&gt;Invite employees to join the onboarding collaboration system — or kanban board — to see where they are in the process.&lt;/li&gt;
+  &lt;li&gt;Establish a training timeline and details they’ll need for any training sessions.&lt;/li&gt;
+  &lt;li&gt;Set expectations for what knowledge or testing to expect after training is completed.&lt;/li&gt;
+  &lt;li&gt;Set them up with a mentor or two who can help them along the onboarding journey.&lt;/li&gt;
+  &lt;li&gt;The importance of &lt;strong&gt;social onboarding&lt;/strong&gt; and maintaining an ongoing relationship goes a long way to retention. Seeing a smile on a friendly face is always a bonus.&lt;/li&gt;
+  &lt;li&gt;Invite them to get to know their co-workers by asking them personal questions about their interests and pursuits outside of work.&lt;/li&gt;
+  &lt;li&gt;Plan a social interaction like a team lunch — or virtual meet up — for new hires on their first day to get to know them better.&lt;/li&gt;
+  &lt;li&gt;Have them get started on their initial assignments right away.&lt;/li&gt;
+  &lt;li&gt;Set them up for some early wins in the first few weeks so they feel confident in the first month.&lt;/li&gt;
+  &lt;li&gt;Promote inclusivity to help all newer employees feel socially connected to staff both old and new.&lt;/li&gt;
+  &lt;li&gt;Check-in with them to be sure they’re feeling confident and have all the tools required to do their job.&lt;/li&gt;
+  &lt;li&gt;Encourage over-communication and not to be shy about asking questions.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;confidence-builds-long-term-loyalty&quot;&gt;Confidence builds long-term loyalty&lt;/h3&gt;
+
+&lt;p&gt;Companies most successful at onboarding saw 62% of their new hires meet their first performance milestone, and &lt;a href=&quot;http://deliberatepractice.com.au/wp-content/uploads/2013/04/Onboarding-2013.pdf&quot; target=&quot;_blank&quot;&gt;91% were still part of the team after their first year&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First-week onboarding&lt;/strong&gt; ideas:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Be sure to re-emphasize new team member’s responsibilities and accountability for tasks in the weeks ahead.&lt;/li&gt;
+  &lt;li&gt;Clear goals + realistic expectations = Short term wins.&lt;/li&gt;
+  &lt;li&gt;Arrange daily one-on-one check-ins with either mentors or managers to establish consistent support.&lt;/li&gt;
+  &lt;li&gt;Get feedback — anonymously when possible — as to what they feel is or isn’t working in their first week.&lt;/li&gt;
+  &lt;li&gt;Continue to include new hires in company events, social gatherings, and ways to promote your business culture and diversity.&lt;/li&gt;
+  &lt;li&gt;Establish ongoing training updates, cross-training timelines, and details for any upcoming sessions.&lt;/li&gt;
+  &lt;li&gt;Set expectations for what knowledge or testing to expect after additional training is completed.&lt;/li&gt;
+  &lt;li&gt;Give ongoing reviews and establish high-level goals and deliverables for 3-6-9 month intervals. Wash, rinse, repeat.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;inclusion-empowerment-and-social-acceptance&quot;&gt;Inclusion, empowerment, and social acceptance&lt;/h3&gt;
+
+&lt;p&gt;Success is built iteratively and each new team member will have their own concerns, feedback, needs, and hopes for their future with your organization. Taking the time to onboard over the first year will save you money in the long run.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First-month onboarding&lt;/strong&gt; ideas:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Establish a one-month check-in and informal review to ensure team members are finding the resources they need to succeed and hit benchmarks.&lt;/li&gt;
+  &lt;li&gt;Get more feedback — anonymously when possible — as to what they feel is or isn’t working.&lt;/li&gt;
+  &lt;li&gt;Check-in with their mentors to establish the effectiveness of training and guidance.&lt;/li&gt;
+  &lt;li&gt;Continue to encourage engagement in company events, social gatherings, and promotion of your business culture and diversity.&lt;/li&gt;
+  &lt;li&gt;Establish ongoing training updates, cross-training timelines, and details for any upcoming sessions.&lt;/li&gt;
+  &lt;li&gt;Set expectations for what knowledge or testing to expect after additional training is completed.&lt;/li&gt;
+  &lt;li&gt;Give ongoing reviews and establish high-level goals and deliverables for 3-6-9 month intervals.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;build-culture-community-and-ongoing-communication&quot;&gt;Build culture, community, and ongoing communication&lt;/h3&gt;
+
+&lt;p&gt;After the first three months, your new team members should be well familiarized and entrenched in both your company culture and their new responsibilities.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Three-month&lt;/strong&gt; &lt;strong&gt;onboarding&lt;/strong&gt; ideas:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Establish a three-month check-in and informal review to ensure team members are finding the resources they need to succeed and hitting benchmarks.&lt;/li&gt;
+  &lt;li&gt;Get more feedback — anonymously when possible — as to what they feel is or isn’t working.&lt;/li&gt;
+  &lt;li&gt;Check-in with their mentors to establish the effectiveness of guidance and &lt;strong&gt;finalize training&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Continue to encourage engagement in company events, social gatherings, and promotion of your business culture and diversity.&lt;/li&gt;
+  &lt;li&gt;Give ongoing reviews and establish high-level goals and deliverables for 6-9 month intervals.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Six-month&lt;/strong&gt; &lt;strong&gt;onboarding&lt;/strong&gt; ideas:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Establish a six-month check-in and &lt;strong&gt;performance review&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Get more feedback — anonymously when possible — as to what they feel is or isn’t working.&lt;/li&gt;
+  &lt;li&gt;Check-in with their mentors to establish the effectiveness of guidance and set goals for the &lt;strong&gt;next two quarters&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Confirm that employee has received &lt;strong&gt;all required training&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Continue to encourage engagement in company events, social gatherings, and promotion of your business culture and diversity.&lt;/li&gt;
+  &lt;li&gt;Establish high-level goals and deliverables for the first year.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;First-year&lt;/strong&gt; &lt;strong&gt;review&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Perform a &lt;strong&gt;yearly performance review&lt;/strong&gt; with your star employee.&lt;/li&gt;
+  &lt;li&gt;Be sure to broadcast their first successful year at the company.&lt;/li&gt;
+  &lt;li&gt;Discuss the hopes for the upcoming year’s projects, milestones, and KPIs.&lt;/li&gt;
+  &lt;li&gt;Address any feedback, questions, and needs your employees may have for the future.&lt;/li&gt;
+  &lt;li&gt;Review compensation and raise policies.&lt;/li&gt;
+  &lt;li&gt;Celebrate!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Creating a standardized onboarding process gives you a statistical advantage for both retention and higher productivity.&lt;/p&gt;
+
+&lt;p&gt;With over ten years of helping clients find the right IT professionals for the job, we’ve seen the results speak for themselves. Onboarding the right way is an investment in your future.&lt;/p&gt;
+
+&lt;p&gt;If you need help finding the right team of qualified and talented tech professionals, drop us a line! We love helping businesses reach their goals.&lt;/p&gt;</content><author><name>Kelton Reid</name></author><category term="Hiring Strategy" /><summary type="html">Whether you work with in-house, remote contractors, or fully-distributed teams, the way you onboard new employees is crucial to your long-term success.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://esteemed.io/uploads/william-iven-gcsnospexfs-unsplash.jpg" /><media:content medium="image" url="https://esteemed.io/uploads/william-iven-gcsnospexfs-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pros and Cons of Hiring Offshore Vs. Onshore Developers</title><link href="https://esteemed.io/blog/2020/10/06/pros-and-cons-of-hiring-offshore-vs.onshore-developers/" rel="alternate" type="text/html" title="Pros and Cons of Hiring Offshore Vs. Onshore Developers" /><published>2020-10-06T13:16:27+00:00</published><updated>2020-10-06T13:16:27+00:00</updated><id>https://esteemed.io/blog/2020/10/06/pros-and-cons-of-hiring-offshore-vs.onshore-developers</id><content type="html" xml:base="https://esteemed.io/blog/2020/10/06/pros-and-cons-of-hiring-offshore-vs.onshore-developers/">&lt;p&gt;When it comes to trusting your software projects to outside developers, is it best to look for onshore or offshore contractors?&lt;/p&gt;
+
+&lt;p&gt;Every business or brand will have vastly different needs when it comes to their software. Smaller startups have begun to use more offshore developers to stay competitive, while larger companies still rely on in-house or onshore teams.&lt;/p&gt;
+
+&lt;p&gt;The differences can make a big impact on your bottom line, so which one is better? Your mileage may vary, but it doesn’t have to with the right resources.&lt;/p&gt;
+
+&lt;h3 id=&quot;support-local-vs-foreign-vendors&quot;&gt;Support local vs. foreign vendors?&lt;/h3&gt;
+
+&lt;p&gt;The growth of high-quality offshore developers in regions of the world like Europe, Asia, and South America means top global talent at your fingertips. And companies around the world are taking notice.&lt;/p&gt;
+
+&lt;p&gt;Using in-house or onshore IT experts is like supporting local businesses. They incorporate and do their business in the same country of origin as you.&lt;/p&gt;
+
+&lt;p&gt;But the rise of better online collaboration tools and cloud computing means &lt;a href=&quot;https://esteemed.io/blog/2020/07/08/5-benefits-of-a-distributed-workforce/&quot;&gt;managing distributed teams&lt;/a&gt; is easier than ever. And there’s no longer an ethical stigma for working with globally outsourced companies.&lt;/p&gt;
+
+&lt;p&gt;Business data leader, &lt;a href=&quot;https://www.statista.com/statistics/189788/global-outsourcing-market-size/&quot;&gt;Statista&lt;/a&gt;, reported the global offshoring and outsourcing market in 2017 was ~$90 billion.&lt;/p&gt;
+
+&lt;p&gt;Offshore companies can now compete for the same jobs with incredible success from all over the globe. The “new normal” is our interconnected web of IT pros working seamlessly, regardless of language or timezone.&lt;/p&gt;
+
+&lt;h3 id=&quot;access-is-everything&quot;&gt;Access is everything&lt;/h3&gt;
+
+&lt;p&gt;Any business in need of those &lt;a href=&quot;https://esteemed.io/blog/2020/09/09/how-digital-talent-sourcing-can-help-you-avoid-bad-hires/&quot;&gt;competitive digital niches&lt;/a&gt; can now access a diversity of quality problem-solvers. Using onshore developers can reduce the anxiety that comes with working with a distributed offshore team.&lt;/p&gt;
+
+&lt;p&gt;But remember, “&lt;a href=&quot;https://financesonline.com/hiring-statistics/&quot;&gt;96% of software and IT companies&lt;/a&gt; allow remote work in some capacity.” Backdoor offshoring by local development teams in not uncommon.&lt;/p&gt;
+
+&lt;p&gt;And advancements in global internet security make offshoring far more appealing than it once was. Just be sure to research and define your software development needs thoroughly before choosing a path forward.&lt;/p&gt;
+
+&lt;p&gt;Some things to consider about each before evaluating your best option:&lt;/p&gt;
+
+&lt;h3 id=&quot;onshore-development&quot;&gt;Onshore development&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Cost&lt;/strong&gt; - Average higher cost, smaller more competitive talent pools.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Communication&lt;/strong&gt; - Often in the same time zone can mean quick, same-day comms with little delay. Face-to-face meetings are easier to schedule.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Collaboration&lt;/strong&gt; - With recent advancements and tools like Slack, Trello, JIRA, and Yammer, this is a coin toss between onshore vs. offshore.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quality&lt;/strong&gt; - Often a higher quality of both talent and code. Fewer discrepancies in iterations to successful product launch.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Security -&lt;/strong&gt; Onshore companies will be governed by your country’s regulations making copyright or IP laws transparent from the start.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;offshore-development&quot;&gt;Offshore development&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Cost&lt;/strong&gt; - Lower cost, greater access to multiple disciplines, but can often come with its own price, including greater oversight required (i.e. higher project management costs).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Communication&lt;/strong&gt; - Slower communications, language barriers can mean some unavoidable delays. Face-to-face meetings can be difficult to schedule.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Collaboration&lt;/strong&gt; - Again, a coin toss between onshore vs. offshore.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quality&lt;/strong&gt; - There is a potential for drift if teams aren’t properly overseen by a Project Manager. Talent can be equal to onshore but vetting can be unpredictable to non-existent.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Security -&lt;/strong&gt; Though IT security solutions are evolving daily there is still some risk involved. Offshore companies may not abide by your country’s copyright or IP laws.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You could also consider a hybrid approach. Project management has become a high priority for distributed teams. Consider the best use case for each.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Onshore&lt;/em&gt; is often best for larger, labor-intensive development projects that require multiple disciplines and/or custom software design.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Offshore&lt;/em&gt; can be utilized for maintenance of ongoing projects, simpler one-off jobs, or upgrades to well-established infrastructure.&lt;/p&gt;
+
+&lt;p&gt;Many businesses aren’t hesitating to utilize offshore developers in expanding fields like AI, machine learning, and cybersecurity. Talent and technology are exploding around the world.&lt;/p&gt;
+
+&lt;h3 id=&quot;there-is-no-wrong-answer&quot;&gt;There is no wrong answer&lt;/h3&gt;
+
+&lt;p&gt;Remember that no matter which path you choose the two options can be equally valuable. With the right mix of transparency, collaboration, and consistent processes, you can boost quality and speed to market.&lt;/p&gt;
+
+&lt;p&gt;Take it from us! There is still objective quality when it comes to your software project, and we value only the highest quality talent at Esteemed.&lt;/p&gt;
+
+&lt;p&gt;We know that &lt;a href=&quot;https://esteemed.io/blog/2020/09/30/why-demand-for-tech-talent-is-so-high/&quot;&gt;finding top talent in those highly technical disciplines&lt;/a&gt; can be a drag. Employers are already spending way more time than ever courting, recruiting, and simply keeping their best.&lt;/p&gt;
+
+&lt;h3 id=&quot;work-with-the-best-of-the-best&quot;&gt;Work with the best of the best!&lt;/h3&gt;
+
+&lt;p&gt;We’ve touched on some of the challenges employers face when sourcing top tech candidates. And with the shortage of top-tier IT candidates, it makes sense to turn to staffing made simple.&lt;/p&gt;
+
+&lt;p&gt;We’ve employed both great Eastern European developers as well as US and Canadian IT experts. A hybrid methodology works, it just depends on which key elements you need in your business plan, and how well vetted they are.&lt;/p&gt;
+
+&lt;p&gt;With over a decade of experience, we love helping businesses save time and money so they can focus on their core competencies.&lt;/p&gt;
+
+&lt;p&gt;Drop us a line anytime and we’ll be &lt;a href=&quot;https://esteemed.io/blog/2020/09/09/how-digital-talent-sourcing-can-help-you-avoid-bad-hires/&quot;&gt;happy to help you find the best team for your business&lt;/a&gt;!&lt;/p&gt;</content><author><name>Kelton Reid</name></author><category term="Hiring Strategy" /><category term="Talent Sourcing" /><summary type="html">When it comes to trusting your software projects to outside developers, is it best to look for onshore or offshore contractors?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://esteemed.io/uploads/charles-deluvio-lks7vei-eag-unsplash.jpg" /><media:content medium="image" url="https://esteemed.io/uploads/charles-deluvio-lks7vei-eag-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Why Demand for Tech Talent Is So High</title><link href="https://esteemed.io/blog/2020/09/30/why-demand-for-tech-talent-is-so-high/" rel="alternate" type="text/html" title="Why Demand for Tech Talent Is So High" /><published>2020-09-30T15:03:37+00:00</published><updated>2020-09-30T15:03:37+00:00</updated><id>https://esteemed.io/blog/2020/09/30/why-demand-for-tech-talent-is-so-high</id><content type="html" xml:base="https://esteemed.io/blog/2020/09/30/why-demand-for-tech-talent-is-so-high/">&lt;p&gt;You’re probably facing the same challenge as so many other businesses right now. As you try to predict the “new next,” and watch the explosion of Industry 4.0, how can you stay ahead of a curve that steepens daily?&lt;/p&gt;
+
+&lt;p&gt;We’ve all been forced to adapt to an unfamiliar digital landscape at the drop of a hat. And technology has grown all-consuming across the business world.&lt;/p&gt;
+
+&lt;p&gt;Brands are racing to keep up with consumers and many are facing the hard truth about &lt;a href=&quot;https://esteemed.io/blog/2020/08/04/5-tips-to-find-a-web-developer-for-your-business/&quot; target=&quot;_blank&quot;&gt;finding top tech talent&lt;/a&gt;. There’s a shortage of experts, and getting them to the table is harder than ever.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-challenges-of-sourcing-skilled-tech-talent&quot;&gt;The challenges of sourcing skilled tech talent&lt;/h3&gt;
+
+&lt;p&gt;Finding top talent in hard-to-staff and highly technical disciplines has become a marathon. Employers are spending more time than ever courting, recruiting, and trying to keep the best of the best.&lt;/p&gt;
+
+&lt;p&gt;It’s not your imagination. Demand for developers has skyrocketed in top tech fields like AI, cloud computing, and blockchain. But the tried-and-true job markets like mobile app development and cybersecurity haven’t cooled off.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In an annual CIO Survey by KPMG, over &lt;a href=&quot;https://www.monster.com/career-advice/article/tech-talent-gap-survey-0816&quot; target=&quot;_blank&quot;&gt;3,000 tech leaders shared their frustration&lt;/a&gt; and “an astonishing 65% said that hiring challenges are hurting the industry.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;you-are-not-alone&quot;&gt;You are not alone&lt;/h3&gt;
+
+&lt;p&gt;We’ve touched on some of the &lt;a href=&quot;https://esteemed.io/blog/2020/09/09/how-digital-talent-sourcing-can-help-you-avoid-bad-hires/&quot; target=&quot;_blank&quot;&gt;challenges employers face&lt;/a&gt; when sourcing top tech candidates. The time commitment alone can be a huge drain (twice as long on average for tech niches).&lt;/p&gt;
+
+&lt;p&gt;But the shortage of top-tier IT candidates is no laughing matter. Many engineers report being solicited on LinkedIn an average of 30 times a day — even while currently employed!&lt;/p&gt;
+
+&lt;p&gt;Demand has never been greater in emerging fields like AI and machine learning. For instance, machine learning engineer job openings &lt;a href=&quot;https://www.indeed.com/lead/best-jobs-2019&quot; target=&quot;_blank&quot;&gt;increased by 344% from 2015 to 2018&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The popularity of cloud computing for startups and the incorporation of AR/VR by big companies are also soaring. The numbers are staggering: demand for an AR/VR engineering role grew &lt;a href=&quot;https://medium.com/javarevisited/most-in-demand-tech-skills-for-2021-and-why-you-should-learn-them-c72efa4b62e2&quot; target=&quot;_blank&quot;&gt;1,400% in 2019&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;generic-job-postings-dont-work-anymore&quot;&gt;Generic job postings don’t work anymore&lt;/h3&gt;
+
+&lt;p&gt;How can your business leverage access to top talent without losing time, money, and your sanity? Your generic job posting on Indeed or LinkedIn might get applicants, but you can’t guarantee that you’ll find applicants with the amount of experience you’re hoping for.&lt;/p&gt;
+
+&lt;p&gt;As the future of work now seamlessly blends our digital and physical worlds, there’s no time to waste. Staying competitive means finding access to talent pools.&lt;/p&gt;
+
+&lt;p&gt;Modern tech startups are leveraging cloud-based platforms and apps to provide cutting edge digital experiences to customers. And they’re doing it faster and cheaper than ever before.&lt;/p&gt;
+
+&lt;h3 id=&quot;every-company-is-a-technology-company&quot;&gt;“Every company is a technology company”&lt;/h3&gt;
+
+&lt;p&gt;Without the right talent for the job, implementation becomes impossible. No matter how great your idea is, you need the right team of proven problem-solvers.&lt;/p&gt;
+
+&lt;p&gt;Employees and customers expect your tech to keep up with their lives. They require a digital experience that is both seamless and inspiring.&lt;/p&gt;
+
+&lt;p&gt;This new labor market demands innovative solutions to bygone problems. So why not take some of the guesswork out of one of your most important acquisitions … your tech talent.&lt;/p&gt;
+
+&lt;h3 id=&quot;speak-the-language-of-your-candidates&quot;&gt;Speak the language of your candidates&lt;/h3&gt;
+
+&lt;p&gt;IT professionals take pride in their credentials and abilities, and they also value their peer reviews. Soft skills also play a larger role in the power of building &lt;a href=&quot;https://esteemed.io/blog/2020/07/08/5-benefits-of-a-distributed-workforce/&quot; target=&quot;_blank&quot;&gt;effective distributed teams&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Speaking to those highly skilled tech candidates, however, requires knowledge of the demands of the job. And often those job descriptions are poorly interpreted by recruiters with little tech know-how.&lt;/p&gt;
+
+&lt;p&gt;HR executives and corporate recruiters can be caught flat-footed trying to filter the average candidates from the great ones. It’s more important than ever to know who you’re gunning for.&lt;/p&gt;
+
+&lt;p&gt;IT experts are now more willing than ever to evolve with the new digital frontier. They keep up with the latest advancements and coding languages to future-proof their careers.&lt;/p&gt;
+
+&lt;p&gt;They want you to speak their language — and speak to their employment needs, too.&lt;/p&gt;
+
+&lt;h3 id=&quot;better-talent--better-solutions&quot;&gt;Better talent = better solutions&lt;/h3&gt;
+
+&lt;p&gt;By tapping into a deep reservoir of vetted, experienced talent, you’re giving yourself some breathing room. The world of tech is changing so fast. Don’t let recruiting and vetting weigh you down anymore.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“&lt;a href=&quot;https://www.payscale.com/compensation-today/2020/02/top-technology-skills&quot; target=&quot;_blank&quot;&gt;[Eighty-three] percent of executives say&lt;/a&gt; that talent acquisition is important or very important. Concerns about talent — &lt;em&gt;especially top technology talent&lt;/em&gt; — have led many organizations to invest in […] building deeper talent pools.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Take it from us, we’ve spent over a decade networking and speaking with over 13,000 digital professionals. Our Esteemed Talent community is built on trust — we are top tech talent recommending colleagues.&lt;/p&gt;
+
+&lt;p&gt;We’ve taken the guesswork out of staffing those positions for you. All in one easy-to-use channel.&lt;/p&gt;
+
+&lt;p&gt;Let us do the recruiting, sourcing, and assessments. Every veteran team lead at Esteemed screens our deep talent pool with rigorous code reviews and personality exams.&lt;/p&gt;
+
+&lt;p&gt;But we’re more than just a job board for nerds. We’re a community of experts recommending experts.&lt;/p&gt;
+
+&lt;p&gt;To learn more about how we can help you, &lt;a href=&quot;https://esteemed.io/company/&quot; target=&quot;_blank&quot;&gt;just drop us a line&lt;/a&gt;. We’d love to chat!&lt;/p&gt;</content><author><name>Kelton Reid</name></author><summary type="html">You’re probably facing the same challenge as so many other businesses right now. As you try to predict the “new next,” and watch the explosion of Industry 4.0, how can you stay ahead of a curve that steepens daily?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://esteemed.io/uploads/pexels-marcus-aurelius-4064235.jpg" /><media:content medium="image" url="https://esteemed.io/uploads/pexels-marcus-aurelius-4064235.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Creating a Candidate Persona</title><link href="https://esteemed.io/blog/2020/09/21/creating-a-candidate-persona/" rel="alternate" type="text/html" title="Creating a Candidate Persona" /><published>2020-09-21T16:41:49+00:00</published><updated>2020-09-21T16:41:49+00:00</updated><id>https://esteemed.io/blog/2020/09/21/creating-a-candidate-persona</id><content type="html" xml:base="https://esteemed.io/blog/2020/09/21/creating-a-candidate-persona/">&lt;p&gt;Finding the best candidate for your business or brand has become &lt;a href=&quot;https://esteemed.io/blog/2020/09/09/how-digital-talent-sourcing-can-help-you-avoid-bad-hires/&quot; target=&quot;_blank&quot;&gt;increasingly challenging&lt;/a&gt; for HR and recruiting teams. And &lt;em&gt;Quality of Hire&lt;/em&gt; is more critical to the success of your business — and your bottom-line — than ever.&lt;/p&gt;
+
+&lt;p&gt;But with the shortage of IT pros with experience and a passion for your project, the time to hire has ballooned astronomically. The industry-wide average is now &lt;a href=&quot;https://www.hirevue.com/blog/hiring/eight-recruitment-metrics-that-matter&quot; target=&quot;_blank&quot;&gt;a stunning 42 days&lt;/a&gt;, and even longer for hard to staff niches. That’s almost a month and a half of your time and energy!&lt;/p&gt;
+
+&lt;p&gt;There are proven methods to help you zero-in on the best talent out there, but the digital landscape has fractured the ways candidates look for work. Some are actively looking on platforms you might not know even exist, while many are passively awaiting a job change.&lt;/p&gt;
+
+&lt;p&gt;And the way candidates think and talk about your brand and hiring process has shifted with the times too. Top talent can be picky, deservedly, and they know exactly what they’re looking for. They also read the reviews of your business and hiring processes on job boards.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Employers also spend an enormous amount on hiring — &lt;strong&gt;an average of $4,129 per job&lt;/strong&gt; in the United States, according to Society for Human Resource Management estimates…” — &lt;a href=&quot;https://hbr.org/2019/05/recruiting&quot; target=&quot;_blank&quot;&gt;Harvard Business Review&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Between cost, and finding a culture fit that will equal retention, a lot of companies just aren’t able to fill positions.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-to-streamline-your-talent-sourcing&quot;&gt;How to streamline your talent sourcing&lt;/h3&gt;
+
+&lt;p&gt;So what are some ways you can streamline your talent sourcing? One simple solution is by creating a “candidate persona” to help you target the ideal professional for your job.&lt;/p&gt;
+
+&lt;p&gt;As we’ve discussed, there are formulas for &lt;a href=&quot;https://esteemed.io/blog/2020/09/14/how-talent-sourcing-can-solve-your-diversity-problem/&quot; target=&quot;_blank&quot;&gt;filling the unique needs&lt;/a&gt; of your organization. Growing a network of talent that is agile, diverse, and shares your companies values is a great start.&lt;/p&gt;
+
+&lt;p&gt;Making sure that your organization is clear about its needs and the most efficient ways to fill them is key. But unfortunately, AI algorithms can’t always read beyond the resume.&lt;/p&gt;
+
+&lt;p&gt;We’ve talked about using a data-driven approach to homing in on talent and using more passive methods of relationship building. Community-building and long-term nurturing have grown popular among savvy tech companies.&lt;/p&gt;
+
+&lt;p&gt;When it’s time to drill down and get serious about who the best fit might be, you’ll want to do some boots-on-the-ground research. Not only about who’s applying to your current roles, but how your organization envisions filling future ones.&lt;/p&gt;
+
+&lt;h3 id=&quot;go-beyond-the-resume-to-zero-in-on-future-talent&quot;&gt;Go beyond the resume to zero-in on future talent&lt;/h3&gt;
+
+&lt;p&gt;Creating a candidate persona will help you zoom in on your ideal candidate before you need them. And those highly sought after digital professionals need to know exactly why they’re a perfect fit for you.&lt;/p&gt;
+
+&lt;p&gt;Collecting data from your own team is a perfect way to analyze exactly who that may be. By getting into the head of a semi-fictional version of your ideal candidate, you can streamline the process.&lt;/p&gt;
+
+&lt;p&gt;Not only can this crystalize your job descriptions it can set a course for the future of your recruitment strategies. Remember “&lt;a href=&quot;https://www.amanet.org/articles/the-hard-truth-about-soft-skills/&quot; target=&quot;_blank&quot;&gt;75% of long-term job success&lt;/a&gt; depends on people skills, while only 25% on technical knowledge.”&lt;/p&gt;
+
+&lt;h3 id=&quot;micro--vs-macro-targeting&quot;&gt;Micro- vs. macro-targeting&lt;/h3&gt;
+
+&lt;p&gt;To start, you can survey current employees and stakeholders about what makes your organization a great culture fit for them. Look further than their job titles or accolades and dig into their interests, motivations, and inspirations.&lt;/p&gt;
+
+&lt;p&gt;What are their goals for the future and why are they a great fit? Where do they spend time hanging out online and who do they follow? Ask them about their fears and hopes.&lt;/p&gt;
+
+&lt;p&gt;Then translate that into company-wide trends that can help you understand what exactly you’re looking for in your next hire. You’ll need to decide how wide or narrow to focus the lens on who you’re looking for.&lt;/p&gt;
+
+&lt;p&gt;For this, you can simply add or subtract the number of questions you ask your team. Then translate those into the criteria you use to create your candidate personas.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-great-companies-iterate-the-hiring-process&quot;&gt;How great companies iterate the hiring process&lt;/h3&gt;
+
+&lt;p&gt;Create a working model of what a great fit for your company looks like and then iterate from there. You’ll obviously need a different persona for each future position, and you can be as general or specific as needed depending on the role or category.&lt;/p&gt;
+
+&lt;p&gt;Start with the basics:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Professional background&lt;/li&gt;
+  &lt;li&gt;Experience and qualifications&lt;/li&gt;
+  &lt;li&gt;Skills&lt;/li&gt;
+  &lt;li&gt;Interests&lt;/li&gt;
+  &lt;li&gt;Career goals&lt;/li&gt;
+  &lt;li&gt;Online hangouts and influencers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Then give your semi-fictional applicant a name and a heartbeat with some company-specific spice. Dig into some of the desired soft skills that make current employees of your organization desirable. Choose from whatever pops out:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Quirks that make them a good fit&lt;/li&gt;
+  &lt;li&gt;Communication and collaboration style or preference&lt;/li&gt;
+  &lt;li&gt;Creative muses&lt;/li&gt;
+  &lt;li&gt;Flexibility and demeanor when things go wrong&lt;/li&gt;
+  &lt;li&gt;Potential objections to working for you&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;By creating a composite sketch of your ideal candidate you’ll be on the road to getting to know your (future) talent better. And by using a flexible template you can help your recruiting team understand your needs and streamline your hiring process.&lt;/p&gt;
+
+&lt;h3 id=&quot;benefits-of-creating-a-candidate-persona&quot;&gt;Benefits of creating a candidate persona&lt;/h3&gt;
+
+&lt;p&gt;Once you’ve got your candidate personas you can use them to not only clarify your job descriptions but to sharpen your company messaging as well.&lt;/p&gt;
+
+&lt;p&gt;The benefits to your recruitment strategy are trickle-down. By attracting the right people you’ll boost retention, reduce the cost to hire and improve company culture and diversity.&lt;/p&gt;
+
+&lt;p&gt;And during these times when technology seems to be all-pervasive, this can only help to humanize your business or brand.&lt;/p&gt;
+
+&lt;h3 id=&quot;pre-qualifying-candidates-saves-you-time-and-money&quot;&gt;Pre-qualifying candidates saves you time and money&lt;/h3&gt;
+
+&lt;p&gt;Esteemed has been in the game long enough to know. With over ten years of experience, we understand the importance of finding only the best candidates for agencies and clients.&lt;/p&gt;
+
+&lt;p&gt;That’s why we use a multi-dimensional approach to vetting and qualifying every member of our Talent Network. Our team-leads use both skills assessments and advanced personality tests to help remove steps in the hiring process.&lt;/p&gt;
+
+&lt;p&gt;By reducing the time to hire for our clients and our providers/candidates, we’re saving everyone a little sanity. And who couldn’t use more of that right now?&lt;/p&gt;
+
+&lt;p&gt;We love helping businesses find the right fit when it comes to digital staffing and we’d love to help you too. &lt;a href=&quot;https://esteemed.io/company/&quot; target=&quot;_blank&quot;&gt;Drop us a line&lt;/a&gt; anytime to find out more.&lt;/p&gt;</content><author><name>Kelton Reid</name></author><category term="Talent Sourcing" /><category term="Hiring Strategy" /><summary type="html">Finding the best candidate for your business or brand has become increasingly challenging for HR and recruiting teams. And Quality of Hire is more critical to the success of your business — and your bottom-line — than ever.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://esteemed.io/uploads/pexels-mentatdgt-1311518.jpg" /><media:content medium="image" url="https://esteemed.io/uploads/pexels-mentatdgt-1311518.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">How Talent Sourcing Can Solve Your Diversity Problem</title><link href="https://esteemed.io/blog/2020/09/14/how-talent-sourcing-can-solve-your-diversity-problem/" rel="alternate" type="text/html" title="How Talent Sourcing Can Solve Your Diversity Problem" /><published>2020-09-14T20:57:48+00:00</published><updated>2020-09-14T20:57:48+00:00</updated><id>https://esteemed.io/blog/2020/09/14/how-talent-sourcing-can-solve-your-diversity-problem</id><content type="html" xml:base="https://esteemed.io/blog/2020/09/14/how-talent-sourcing-can-solve-your-diversity-problem/">&lt;p&gt;Hiring for diversity should be a top priority for your company. A survey on diversity hiring found that &lt;a href=&quot;https://www.glassdoor.com/employers/blog/diversity/&quot; title=&quot;Job seeker statistics on Glassdoor.&quot; target=&quot;_blank&quot;&gt;67 percent of active and passive job seekers&lt;/a&gt; feel that a diverse workforce is an important factor when evaluating companies and job offers.&lt;/p&gt;
+
+&lt;p&gt;“Diversity” in the workplace includes age, gender, race, socioeconomic status, sexual orientation, and a host of other qualities.&lt;/p&gt;
+
+&lt;p&gt;Take this anecdote from the former COO of eBay. While visiting a company for a board meeting, Maynard Webb noticed that &lt;a href=&quot;https://www.forbes.com/sites/maynardwebb/2017/10/29/how-to-alter-your-hiring-practices-to-increase-diversity/#59f00ccd2029&quot; title=&quot;Read more about the new hires.&quot; target=&quot;_blank&quot;&gt;every new hire&lt;/a&gt; was young, white, and male. When he asked why, Webb was given an apologetic answer. “We know this is a problem, but there just isn’t enough pipeline to find other good people now.”&lt;/p&gt;
+
+&lt;p&gt;Here’s the thing, though. The issue isn’t “pipeline.” As Webb points out, half our population is female, half are racially diverse, and young people clearly aren’t the only job seekers.&lt;/p&gt;
+
+&lt;p&gt;The good news is that diversity hiring strategies can help you see real results.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-do-we-need-hiring-diversity&quot;&gt;Why do we need hiring diversity?&lt;/h3&gt;
+
+&lt;p&gt;Your candidate pipeline, statistically speaking, conscious or unconscious, isn’t diverse. If you’re relying on hiring through referrals, you’re likely stifling a diverse candidate pool. Why? Our circles tend to include people who are similar demographically to ourselves. It’s natural for humans to connect with individuals with shared experiences.&lt;/p&gt;
+
+&lt;p&gt;Yet we &lt;em&gt;need&lt;/em&gt; diversity. For one, &lt;strong&gt;it’s the right thing to do&lt;/strong&gt;. And depending upon your industry or geopolitical location, compliance might be mandatory.&lt;/p&gt;
+
+&lt;p&gt;It’s also the smart thing to do. It benefits you, it benefits your customers, and it drives your success. Uniformity doesn’t breed innovation. A diverse workforce is directly related to increases in collaboration and team-based work in the office.&lt;/p&gt;
+
+&lt;h3 id=&quot;hiring-for-diversity-benefits-you&quot;&gt;Hiring for diversity benefits you&lt;/h3&gt;
+
+&lt;p&gt;A &lt;a href=&quot;https://www.mckinsey.com/business-functions/organization/our-insights/delivering-through-diversity&quot; title=&quot;Read through the McKinsey Report.&quot; target=&quot;_blank&quot;&gt;2018 McKinsey report&lt;/a&gt; found that companies in the top-quartile for workforce diversity are 33 percent more likely to financially outperform their less diverse counterparts. This can be attributed to several factors.&lt;/p&gt;
+
+&lt;p&gt;A diverse workforce brings new (and varied) perspectives to your organization. This in turn leads to greater creativity, faster problem-solving, and higher employee engagement. You’ll see lower turnover, better decision-making, a stronger reputation, and higher profits.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Good leadership requires you to surround yourself with people of diverse perspectives who can disagree with you without fear of retaliation.”— Doris Kearns Goodwin&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Constructive feedback and accountability are important. As a leader, how can you push yourself if you’re surrounded by people who agree with your every word? A diverse team will have more effective discussions. That’s the beauty of multiple perspectives.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-to-introduce-more-diversity-into-your-organization&quot;&gt;How to introduce more diversity into your organization&lt;/h3&gt;
+
+&lt;p&gt;Let’s jump back to Wells’ boardroom conversation. The issue isn’t so much &lt;em&gt;convincing&lt;/em&gt; companies that diversity needs to be a priority. It’s figuring out how to &lt;em&gt;make it happen&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Your diversity hiring strategies should include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Improving accessibility and breaking down barriers that impede application&lt;/li&gt;
+  &lt;li&gt;Increasing awareness (&lt;a href=&quot;https://hbr.org/2019/12/why-isnt-your-organization-isnt-hiring-diverse-talent&quot; title=&quot;Learn more about hiring diverse talent.&quot; target=&quot;_blank&quot;&gt;What can you do&lt;/a&gt; to educate diverse candidates about available positions? How can you authentically reach this community &lt;em&gt;where they are&lt;/em&gt;?)&lt;/li&gt;
+  &lt;li&gt;Creating systems of accountability (Maybe you set interview goals for candidates from underrepresented backgrounds)&lt;/li&gt;
+  &lt;li&gt;Widening your talent network&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;how-talent-sourcing-leads-to-more-diverse-hiring-practices&quot;&gt;How talent sourcing leads to more diverse hiring practices&lt;/h3&gt;
+
+&lt;p&gt;Widening your talent network is incredibly important. Why? Talent networks &lt;em&gt;do&lt;/em&gt; offer a broader pool of talent that is typically outside of your decision-makers’ circle. Talent sourcing helps you find people that don’t run in the same circles as you. You find people who live life differently than you. These differences might include preferences of platforms, apps, and news outlets, for example.&lt;/p&gt;
+
+&lt;p&gt;Check out our &lt;a href=&quot;https://esteemed.io/blog/2020/09/09/how-digital-talent-sourcing-can-help-you-avoid-bad-hires/&quot; title=&quot;Read our Talent Sourcing guide!&quot; target=&quot;_blank&quot;&gt;guide to talent sourcing&lt;/a&gt; for a deeper dive into how best to find and network with potential candidates outside of your network.&lt;/p&gt;
+
+&lt;p&gt;Talent sourcing can make it easier for you to create a more diverse workforce, BUT. Here’s the big asterisk: beware the decision-maker’s bias. Conscious or unconscious, it’s there.&lt;/p&gt;
+
+&lt;p&gt;Talent sourcing can give you a more diverse talent pipeline. (No more “we’d love to hire diverse candidates but we just don’t see the applicants!”). You’ll have fresh perspectives, variety in age and gender and background and location and race (and the list goes on). Again, though, it’s up to your other hiring policies to see it through. Talent sourcing can improve the diversity of your candidate pool. But you need to also foster an inclusive hiring strategy &lt;em&gt;for&lt;/em&gt; your diverse workforce.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-it-all-means&quot;&gt;What it all means&lt;/h3&gt;
+
+&lt;p&gt;A talent network can’t necessarily help you create a more diverse hiring team. Unfortunately, that bias is up to the decision-maker. It can, however, show you what diversity offers your organization.&lt;/p&gt;
+
+&lt;p&gt;Talent sourcing is beneficial to workforce diversity. If a company hires from within (or hires only from the network of people they already know), it misses out on opportunities to bring fresh points of view and new ideas.&lt;/p&gt;
+
+&lt;p&gt;At Esteemed, we’re passionate about improving the hiring process for both talent seekers and employers. One aspect that absolutely needs to be considered here is this conscious effort to seek out new perspectives. The first step, then, is finding a diverse network or pool using talent sourcing. To learn more about this important process, &lt;a href=&quot;https://esteemed.io/blog/2020/09/09/how-digital-talent-sourcing-can-help-you-avoid-bad-hires/&quot; title=&quot;Read more on Talent Sourcing.&quot; target=&quot;_blank&quot;&gt;check out our talent sourcing guide&lt;/a&gt;.&lt;/p&gt;</content><author><name>Casey Horgan</name></author><category term="Talent Sourcing" /><category term="Hiring Strategy" /><summary type="html">Hiring for diversity should be a top priority for your company. A survey on diversity hiring found that 67 percent of active and passive job seekers feel that a diverse workforce is an important factor when evaluating companies and job offers.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://esteemed.io/uploads/christina-wocintechchat-com-vpcgtekereq-unsplash.jpg" /><media:content medium="image" url="https://esteemed.io/uploads/christina-wocintechchat-com-vpcgtekereq-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">How Digital Talent Sourcing Can Help You Avoid Bad Hires</title><link href="https://esteemed.io/blog/2020/09/09/how-digital-talent-sourcing-can-help-you-avoid-bad-hires/" rel="alternate" type="text/html" title="How Digital Talent Sourcing Can Help You Avoid Bad Hires" /><published>2020-09-09T16:56:55+00:00</published><updated>2020-09-09T16:56:55+00:00</updated><id>https://esteemed.io/blog/2020/09/09/how-digital-talent-sourcing-can-help-you-avoid-bad-hires</id><content type="html" xml:base="https://esteemed.io/blog/2020/09/09/how-digital-talent-sourcing-can-help-you-avoid-bad-hires/">&lt;p&gt;Talent sourcing is a valuable tool for successful, forward-thinking companies. As its name suggests, talent sourcing is how you connect with talented colleagues that you might not otherwise cross paths with.&lt;/p&gt;
+
+&lt;p&gt;It’s a complex dance, especially in the digital age.&lt;/p&gt;
+
+&lt;p&gt;The recruitment market is now largely candidate-driven. Gone are the days when employees remain with a single employer throughout the entirety of their careers. Today’s best talent seeks the best opportunities for success - wherever that may take them. Factor in our growing remote workforce, and you’ve got a challenge. How do you source talent these days?&lt;/p&gt;
+
+&lt;p&gt;We’re here to walk you through the intricacies of sourcing prospective digital candidates. Read on to learn about strategies, challenges, tools, and best practices for talent sourcing. These tips can help you avoid bad hires.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-digital-talent-sourcing&quot;&gt;What is digital talent sourcing?&lt;/h3&gt;
+
+&lt;p&gt;Digital talent sourcing is the process of discovering and connecting with prospective candidates to develop a network of talented people for hire. The goal is, essentially, to curate and maintain a talent pool. This way, when a new position becomes available, they can be recruited from this source. Rather than starting from scratch every time you look to hire someone new, you develop a reserve. Moving forward, you can recruit for the position from here.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Talent sourcing is the process of identifying, researching, connecting, and networking with prospective candidates. The hope is to then recruit and convert these individuals when a job opening becomes available.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;strength-in-numbers-power-in-diversity&quot;&gt;Strength in numbers, power in diversity&lt;/h4&gt;
+
+&lt;p&gt;Why is talent sourcing so useful? For one, it makes your recruiter’s job &lt;em&gt;much&lt;/em&gt; easier when a position opens up. You’re not looking for a needle in a haystack — you’re looking for a needle in a bowl of needles. More importantly, though, you’re building diversity.&lt;/p&gt;
+
+&lt;p&gt;Each new potential candidate that joins your network brings a lot to the table. And you’re not just connecting with one or two individuals, either. Talent sourcing agencies assemble hundreds, if not &lt;em&gt;thousands&lt;/em&gt; of top professionals. This diverse pool of potential represents a cohort that will drive innovation and add new skills to future workplaces.&lt;/p&gt;
+
+&lt;p&gt;If you hire only who you know (and who they, in turn, know), your organization likely limits itself. But, on the other hand, if you rely on a network of sourced talent, you see a much broader demographic. And, as you look to future-proof your workforce, don’t underestimate the power of diverse talent! Workplace diversity appeals to customers and candidates, alike.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-are-the-best-talent-sourcing-strategies&quot;&gt;What are the best talent sourcing strategies?&lt;/h3&gt;
+
+&lt;p&gt;It comes down to a simple formula. Figure out who you want, find them, and establish a relationship. Let’s break it down:&lt;/p&gt;
+
+&lt;h4 id=&quot;who-should-i-look-for&quot;&gt;Who should I look for?&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Find people who fit the needs and trajectory of your organization.&lt;/strong&gt; You want to develop a network of talent who can grow with you. It’s important that as you identify the most qualified individuals, you connect with ones whose skills can fill gaps in your present (and future) workforce.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Analyze your current environment: what areas can be improved? Do you find yourself outsourcing certain tasks frequently? Is one skill set oversaturated in your company?&lt;/li&gt;
+  &lt;li&gt;Map out your future. What are your big plans? How will you get there, and who will you need in order to make that change happen?&lt;/li&gt;
+  &lt;li&gt;Source people for your talent network with these points in mind.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Create a candidate version of the buyer persona. A profile, if you will. Give this idealized persona work experience details, interests, and behavioral traits. You’ll want to have a sense of their goals and habits. Know approximately which skills you’d like them to have, how many years of experience in a field or position they hold, what their salary range is, and what priorities they have. Where do they spend time online? What are their interests? These details come in handy as you search for the real-life versions of your persona.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-do-i-find-the-right-people&quot;&gt;How do I find the right people?&lt;/h4&gt;
+
+&lt;p&gt;Now that you have a general idea of who you’re looking for, how do you find them? Talent is scattered. Many skilled digital professionals are on LinkedIn and other social media platforms, but they’re also out in the real world working for competitors, visiting conventions and meet-ups, and studying on college campuses.&lt;/p&gt;
+
+&lt;p&gt;Your candidate personas help here. Look to your talent profiling to understand where these candidates are concentrated. Enlist the support of talent sourcing tools, too.&lt;/p&gt;
+
+&lt;p&gt;Slack, for example, is a great tool for organizations and individuals that share common professional interests. There are channels for everyone: developers, designers, engineers, strategists, and creative tribes to name a few.&lt;/p&gt;
+
+&lt;p&gt;Looking for developers? Try &lt;a href=&quot;https://stackoverflow.com/&quot; target=&quot;_blank&quot;&gt;StackOverflow&lt;/a&gt;, an open community “for developers, by developers.”&lt;/p&gt;
+
+&lt;p&gt;Join LinkedIn groups and leverage LinkedIn Sales Navigator. This prospecting tool, for anyone not familiar, allows for advanced search filtering. You can look for talent by geographic location, seniority level, role, tenure, industry, and, of course, keywords.&lt;/p&gt;
+
+&lt;p&gt;Build your talent network with the help of your next job posting. The average &lt;a href=&quot;https://zety.com/blog/hr-statistics&quot; target=&quot;_blank&quot;&gt;corporate job posting&lt;/a&gt; has 250 applicants. The 249 that you &lt;em&gt;don’t&lt;/em&gt; choose for this position likely still possess the skills and interest you’re looking for (just not for now). Add them to your sourced talent network and don’t forget to touch base with them at least twice a year.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-do-i-establish-a-relationship&quot;&gt;How do I establish a relationship?&lt;/h4&gt;
+
+&lt;p&gt;The best talent is the hardest to reach. How do you connect with your leads, and how can you maintain a relationship? If you’re trying to network with top talent, chances are that many others are doing the same. And if they’re truly as great as you believe them to be, they’re busy.&lt;/p&gt;
+
+&lt;p&gt;Figure out which channel you’re using to start the conversation. This will depend on your industry and the candidate persona. Where are they most active? Responsive? Some talent sourcing agencies prefer email, others rely on LinkedIn or other forms of social media. Again, consider who it is that you’re talking to, and modify accordingly.&lt;/p&gt;
+
+&lt;p&gt;Now. How do you handle your first touchpoint? The number one piece of advice we can give here is to &lt;strong&gt;connect personally&lt;/strong&gt;. Nobody likes a generic form email. Personalize your message and don’t be afraid to sound &lt;em&gt;human&lt;/em&gt;. Stiff professionalism doesn’t build relationships.&lt;/p&gt;
+
+&lt;p&gt;Another thing to consider: be respectful of everyone’s time. Keep it short, and don’t demand too much from your prospect from the outset.&lt;/p&gt;
+
+&lt;p&gt;Talent sourcing best practices dictate that you connect three times. After this, keep your leads warm by reaching out once every six months. Wish them a happy holiday, or remind them that you’re on the lookout for suitable positions. Perhaps you could even share a success story or two.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-are-the-challenges-of-sourcing-tech-talent&quot;&gt;What are the challenges of sourcing tech talent?&lt;/h3&gt;
+
+&lt;p&gt;The above talent sourcing strategy works across industries and roles. If you’re sourcing tech talent specifically, there are a few challenges you should be prepared to encounter. Esteemed is a talent sourcing agency that manages a talent network of developers, architects, system administrators, UX designers, QA testers, and more. We know a thing or two about sourcing tech talent, and we’re happy to share what we’ve learned over the years. So, what challenges can you expect to face as you source people with tech skills?&lt;/p&gt;
+
+&lt;p&gt;For one, be prepared to put in more time. There’s a fundamental shortage of engineers and technical management, so demand for tech talent is high.&lt;/p&gt;
+
+&lt;p&gt;Additionally, you have to be well-versed in the field from which you source. This can get tricky with the more niche tech positions. Before you begin identifying top talent, you need to know the ins and outs of the skill requirements and tell-tale signs of an expert.&lt;/p&gt;
+
+&lt;h3 id=&quot;whats-the-difference-between-talent-sourcing-and-recruiting&quot;&gt;What’s the difference between talent sourcing and recruiting?&lt;/h3&gt;
+
+&lt;p&gt;You’ve likely picked up on it by now, but what exactly is the difference between talent sourcing and recruiting? They’re not one and the same, but they are two parts of the same process. The ultimate purpose, for both sourcing and recruiting, is to match talent with open positions.&lt;/p&gt;
+
+&lt;p&gt;Talent sourcing is the first step in this process: converting non-applicants into applicants. Recruiting converts applicants into hires. They’re both integral parts of any well-oiled talent acquisition strategy.&lt;/p&gt;
+
+&lt;p&gt;Additionally, while recruiters typically search for talent when a role requires it, talent sourcers seek qualified individuals on an ongoing basis. This way, when a role becomes available, there’s a talent pool already filled with high potential.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-does-esteemed-do-differently&quot;&gt;What does Esteemed do differently?&lt;/h3&gt;
+
+&lt;p&gt;Esteemed was born out of the realization that talent sourcing doesn’t have to be difficult. &lt;em&gt;Especially&lt;/em&gt; tech talent sourcing.&lt;/p&gt;
+
+&lt;p&gt;Our team already had a history of working with hundreds of engineers, tech managers, project managers, and product managers. We specialize in digital niche categories, roles, skills, and products. (Think Salesforce, Drupal, and Django).&lt;/p&gt;
+
+&lt;p&gt;We’ve spent a decade building relationships with thousands of digital professionals. From this, we created a talent network of esteemed colleagues who recommend one another as a trusted source. We have a robust talent pool of those we know firsthand, and we also incentivize referrals to connect with thousands more. Here, you get instant access to pre-screened professionals in hard-to-hire specialties.&lt;/p&gt;
+
+&lt;p&gt;Our main differentiators are our dedication to vetting talent and delivering quality right when you need it.&lt;/p&gt;
+
+&lt;p&gt;Before any potential candidate is added to our talent network, we have our experienced tech leads screen them. We use &lt;a href=&quot;https://coderbyte.com/&quot; target=&quot;_blank&quot;&gt;Coderbyte&lt;/a&gt; to test candidates’ skills. We offer live interview code pairing, custom test questions, and even take-home projects if our client requests it.&lt;/p&gt;
+
+&lt;p&gt;When you need to hire a contractor, there’s virtually no wait. Esteemed delivers quality options within minutes in cases of common requests. If you need a skilled JavaScript, &lt;a href=&quot;https://app.wpcontractors.com/&quot; target=&quot;_blank&quot;&gt;WordPress&lt;/a&gt;, &lt;a href=&quot;https://app.drupalcontractors.com/&quot; target=&quot;_blank&quot;&gt;Drupal&lt;/a&gt;, or Sitecore professional, we’ll match you almost instantly.&lt;/p&gt;
+
+&lt;p&gt;If you subscribe, you can connect our talent network to your company’s Slack account. This allows you to message requests on Slack and get results as quickly as if you were messaging your coworker.&lt;/p&gt;
+
+&lt;h3 id=&quot;final-thoughts&quot;&gt;Final thoughts&lt;/h3&gt;
+
+&lt;p&gt;Sourcing tech talent doesn’t have to be a chore. If you use the right talent sourcing strategies, you can avoid bad hires. We get it. The workplace and workforce are both becoming increasingly complex. We wholeheartedly believe that everyone deserves access to advice, support, and the right tools. If you choose to team up with a talent sourcing agency, check us out!&lt;/p&gt;</content><author><name>Casey Horgan</name></author><category term="Talent Sourcing" /><category term="Distributed Workforce" /><summary type="html">Talent sourcing is a valuable tool for successful, forward-thinking companies. As its name suggests, talent sourcing is how you connect with talented colleagues that you might not otherwise cross paths with.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://esteemed.io/uploads/kelly-sikkema-1_rzl8bgbm-unsplash.jpg" /><media:content medium="image" url="https://esteemed.io/uploads/kelly-sikkema-1_rzl8bgbm-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">6 Soft Skills Every Developer Needs to Get Hired</title><link href="https://esteemed.io/blog/2020/09/02/6-soft-skills-every-developer-needs-to-get-hired/" rel="alternate" type="text/html" title="6 Soft Skills Every Developer Needs to Get Hired" /><published>2020-09-02T16:10:24+00:00</published><updated>2020-09-02T16:10:24+00:00</updated><id>https://esteemed.io/blog/2020/09/02/6-soft-skills-every-developer-needs-to-get-hired</id><content type="html" xml:base="https://esteemed.io/blog/2020/09/02/6-soft-skills-every-developer-needs-to-get-hired/">&lt;p&gt;As an IT expert, it’s more important than ever to understand the &lt;a href=&quot;https://esteemed.io/blog/2020/08/05/happy/&quot; target=&quot;_blank&quot;&gt;secret ingredients&lt;/a&gt; for finding a fit with an employer. One key to that success is the need for “outside the box” traits.&lt;/p&gt;
+
+&lt;p&gt;Developers aren’t faceless robots in basement cubicles. Employers want their developers to bring their personality, people skills, and emotional intelligence into their work.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“&lt;a href=&quot;https://www.amanet.org/articles/the-hard-truth-about-soft-skills/&quot; target=&quot;_blank&quot;&gt;Research conducted with Fortune 500 CEOs&lt;/a&gt; by the Stanford Research Institute International and the Carnegie Melon Foundation, found that 75% of long-term job success depends on people skills, while only 25% on technical knowledge.” —AMA&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Soft skills are now the greatest complement to your hard skills for retention. It doesn’t matter how fast you can code anymore. You have to be human, too.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-can-businesses-make-decisions-based-on-intangibles&quot;&gt;How can businesses make decisions based on intangibles?&lt;/h3&gt;
+
+&lt;p&gt;Soft skills have long been undervalued in tech. Analytical skills and quantitative expertise won’t be the only deciding factors for candidates anymore.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“In an increasingly data-driven economy, the &lt;a href=&quot;https://www.pnas.org/content/pnas/115/50/12630.full.pdf&quot; target=&quot;_blank&quot;&gt;demand for ‘soft’ social skills&lt;/a&gt;, like teamwork and communication, increase with greater demand for ‘hard’ technical skills and tools.” —PNAS&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But soft skills are hard to measure. They’re qualities that include things like common sense, how well you mesh with co-workers, and your adaptability to change.&lt;/p&gt;
+
+&lt;p&gt;And &lt;a href=&quot;http://www.jite.org/documents/Vol11/JITEv11p155-168Zhang1119.pdf&quot; target=&quot;_blank&quot;&gt;evidence shows&lt;/a&gt; that the recommendations of colleagues now play a bigger role in the success of any project. Your soft skills are invaluable to advancing your career.&lt;/p&gt;
+
+&lt;h3 id=&quot;soft-skills-can-predict-success&quot;&gt;Soft skills can predict success&lt;/h3&gt;
+
+&lt;p&gt;The future of work demands that we all work smarter across &lt;a href=&quot;https://esteemed.io/blog/2020/07/08/5-benefits-of-a-distributed-workforce/&quot;&gt;distributed teams&lt;/a&gt;. As we connect co-workers around the globe, we’re seeing a new benchmark for team-building.&lt;/p&gt;
+
+&lt;p&gt;We’re highlighting six soft skills in this blog, but that doesn’t mean there aren’t others that will boost your chances of finding a developer gig. There are dozens of uniquely human qualities and EIQs (emotional intelligence quotients) that will get you hired regularly.&lt;/p&gt;
+
+&lt;p&gt;Here are some categories you can focus on right now that will make you stand out in the crowd:&lt;/p&gt;
+
+&lt;h3 id=&quot;6-soft-skills-developers-can-improve-today&quot;&gt;6 soft skills developers can improve today&lt;/h3&gt;
+
+&lt;h4 id=&quot;1-communication-and-people-skills&quot;&gt;1. Communication and people skills&lt;/h4&gt;
+
+&lt;p&gt;This one seems obvious, but now that Slack, Zoom, and Trello have become verbs, it’s the most critical. It’s not just about your emoji and GIF game anymore.&lt;/p&gt;
+
+&lt;p&gt;You’ll need to brush up on how you speak to colleagues and how you empathize. Not only with your peers, but also end-users and customers.&lt;/p&gt;
+
+&lt;p&gt;One trick to mastering comms is knowing the best platform to connect on. Sometimes a Slack message thread can be tedious, whereas a phone call can quickly answer your question.&lt;/p&gt;
+
+&lt;p&gt;Cross-functional teams that work well together will be unstoppable. Teams that hold each other accountable? Even stronger (see below).&lt;/p&gt;
+
+&lt;h4 id=&quot;2-teamwork-and-collaboration&quot;&gt;2. Teamwork and collaboration&lt;/h4&gt;
+
+&lt;p&gt;Another one that may seem redundant, but you can’t work in a vacuum. Your teammates will be evaluating not only your tech skills but how accessible and reliable you are.&lt;/p&gt;
+
+&lt;p&gt;Teams thrive in an environment that offers diversity of thought, constructive criticism, accountability, and that rewards hard work. Clear goals and a growth mindset offer sustainability.&lt;/p&gt;
+
+&lt;p&gt;Collaboration has never been more critical (see above). Teams need to adapt quickly to weather the many changes ahead. Senior leaders will demand it.&lt;/p&gt;
+
+&lt;h4 id=&quot;3-professionalism-and-work-ethic&quot;&gt;3. Professionalism and work ethic&lt;/h4&gt;
+
+&lt;p&gt;Not showing up to Zoom calls in the sweats you wore all weekend is a start. But the new normal means showing up with an added focus and initiative.&lt;/p&gt;
+
+&lt;p&gt;Now that we’re all WFH, efficient time-management will set you apart. It’s easy to get distracted with your kids learning remotely, laundry demanding attention, and Twitter’s 24-hour outrage cycle waiting for you.&lt;/p&gt;
+
+&lt;p&gt;Take the time to architect your days around how you can make the biggest impact — with the least friction. We understand it’s not easy (we do it every day).&lt;/p&gt;
+
+&lt;h4 id=&quot;4-strategic-thinking-and-creativity&quot;&gt;4. Strategic thinking and creativity&lt;/h4&gt;
+
+&lt;p&gt;With the speed at which technology is changing, we’re all being forced to think on our feet. Developers who can strategically solve problems (especially in a novel way) will be held in high esteem.&lt;/p&gt;
+
+&lt;p&gt;Creativity is subjective, but taking the time to try new things or learn new languages can pay off big. By staying up-to-date on developments, and even taking a class or two, you’ll be future-proofed.&lt;/p&gt;
+
+&lt;p&gt;The world needs creative solutions now more than ever.&lt;/p&gt;
+
+&lt;h4 id=&quot;5-optimism-and-patience&quot;&gt;5. Optimism and patience&lt;/h4&gt;
+
+&lt;p&gt;As we all tend to be plagued by more stress these days, staying positive is a big plus. Developers can get frustrated with clients and users when things don’t go smoothly.&lt;/p&gt;
+
+&lt;p&gt;Remaining patient and optimistic helps everyone (and your mental health). Optimism has also been shown to boost self-confidence and be &lt;a href=&quot;https://www.fastcompany.com/1291599/self-confidence-optimism-and-success&quot; target=&quot;_blank&quot;&gt;a marker for success&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Never forget the power of unplugging for finding your happy place. Taking a walk around the neighborhood is a great fix too (without your phone).&lt;/p&gt;
+
+&lt;h4 id=&quot;6-agility-and-flexibility&quot;&gt;6. Agility and flexibility&lt;/h4&gt;
+
+&lt;p&gt;We’ve seen the future and it’s agile and iterative. Esteemed has built relationships with thousands of top developers. The common trait in our talent network is adaptability.&lt;/p&gt;
+
+&lt;p&gt;As new practices and coding languages proliferate, businesses and brands are looking for the best-of-the-best to help them move forward.&lt;/p&gt;
+
+&lt;p&gt;Developers who show resilience and persistence are sure to be the big winners. Never underestimate the power of simply showing up either.&lt;/p&gt;
+
+&lt;h3 id=&quot;join-our-team-and-get-started&quot;&gt;Join our team and get started&lt;/h3&gt;
+
+&lt;p&gt;It’s okay to not have every soft skill mastered in these challenging times. Personal development is a lifelong process, and we’re here to help.&lt;/p&gt;
+
+&lt;p&gt;We know that the success of our clients relies on colleagues recommending colleagues. And we have a large network of developers at your disposal to lean on.&lt;/p&gt;
+
+&lt;p&gt;Let’s start a conversation. Hey, we can all practice our soft skills. Check out &lt;a href=&quot;https://esteemed.io/company/&quot; target=&quot;_blank&quot;&gt;the community we’re building today&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Esteemed is growing fast, and we’d love for you to join us!&lt;/p&gt;</content><author><name>Kelton Reid</name></author><category term="Developer Life" /><category term="Contracting Tips" /><summary type="html">As an IT expert, it’s more important than ever to understand the secret ingredients for finding a fit with an employer. One key to that success is the need for “outside the box” traits.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://esteemed.io/uploads/christina-wocintechchat-com-qzynqp_lm3o-unsplash.jpg" /><media:content medium="image" url="https://esteemed.io/uploads/christina-wocintechchat-com-qzynqp_lm3o-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

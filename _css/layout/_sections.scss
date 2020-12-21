@@ -764,7 +764,7 @@ body {
     padding: 10%;
   }
 }
-#section-partner {
+#section-partner, #section-member-compensation-plan {
   h1 {
     font-family: $font-georgia;
     font-weight: normal;
@@ -795,8 +795,8 @@ body {
     }
   }
 
-  .partner-slider {
-    height: 30rem;
+  .partner-slider, .mcp-slider {
+    height: auto;
     text-align: center;
     @include breakpoint(small and large down) {
       height: auto;
@@ -850,6 +850,7 @@ body {
       width: 50px;
       height: 50px;
       top: 50%;
+      z-index: 4 !important;
     }
 
     .orbit-arrow:focus, .orbit-container:focus {
@@ -869,5 +870,45 @@ body {
 
   .u-bg-green {
     background: $slider-background-green
+  }
+
+  .mcp-slider {
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+    flex-direction: column;
+    .slider {
+      background: $yellow-slider;
+    }
+    .orbit-wrapper {
+      position: relative;
+    }
+
+    .title {
+      font-size: 8rem;
+      color: black;
+    }
+    .slide-descr {
+      color: black;
+    }
+
+    h3 {
+      font-size: 2rem;
+      width: 100%;
+      color: black;
+    }
+
+    .u-bg-yellow {
+      background: $yellow-slider;
+    }
+    .orbit-previous {
+      left: -20%;
+      background-image: url(/img/arrow-prev-y.png);
+    }
+
+    .orbit-next {
+      right: -20%;
+      background-image: url(/img/arrow-next-y.png);
+    }
   }
 }

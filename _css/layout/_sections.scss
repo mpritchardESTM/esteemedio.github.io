@@ -614,7 +614,7 @@ body {
   }
 }
 
-.page--home {
+.page--home, .page--talent {
   .grid-container {
     max-width: 100%;
   }
@@ -758,6 +758,10 @@ body {
       margin-left: 0;
       padding: 0.5rem 1.25rem;
     }
+  }
+
+  #section-07-talent .section-content{
+    padding: 10%;
   }
 }
 #section-partner {

@@ -11,7 +11,7 @@ color_overlay: "#EEC10C"
 featured: true
 
 ---
-Are you thinking about venturing out on your own to start a software development or contracting business? Then it occurs to you, “How the heck do I go from idea to service or product?”
+Are you thinking about venturing out on your own to start a software development or contracting business? Then it occurs to you, “How the heck do I go from idea to service or product?” 
 
 It’s a challenging journey, and not for the faint of heart. It’s also not nearly as hard as you think. Instantly you’ll start dreaming about that big exit. But seriously, stop that now!
 
@@ -42,7 +42,7 @@ With over a decade of expertise helping businesses and brands [connect with tale
 
 ### Know your intended niche and market
 
-Out of the gate, you’ll need to find out if anyone really wants your offerings. And by digging down into [your upselling proposition as a developer](https://www.entrepreneur.com/encyclopedia/unique-selling-proposition-usp) you’ll be able to differentiate your skillset.
+Out of the gate, you’ll need to find out if anyone really wants your offerings. And by digging down into [your unique selling prop as a developer](https://www.entrepreneur.com/encyclopedia/unique-selling-proposition-usp) you’ll be able to differentiate your skillset.
 
 “Did you know that GitLab was built for the specific needs of one of the cofounders and he had no intention of turning it into a business?” — [How to start a business as a Software developer](https://medium.com/practical-programming-weekly/how-to-start-a-business-as-a-software-developer-9370af88fe24)
 

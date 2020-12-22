@@ -17,7 +17,7 @@ It’s a challenging journey, and not for the faint of heart. It’s also not ne
 
 You don’t have to be the next Bill Gates or Sergey Brin. But it’s not as easy as just hanging up a digital shingle and going to the ATM.
 
-The truth is, with a small investment and the right motivation, you can easily be making [twice your day job salary](https://esteemed.io/blog/2020/09/30/why-demand-for-tech-talent-is-so-high/). And you’ll make your own hours if you’re savvy!
+The truth is, with a small investment and the right motivation, you can easily be making [twice your day job salary](https://esteemed.io/blog/2020/09/30/why-demand-for-tech-talent-is-so-high/) {:target='_blank'}. And you’ll make your own hours if you’re savvy!
 
 ### The journey of 1000 miles starts with one step
 
@@ -31,7 +31,7 @@ Here’s a brief guide to help you get started on your journey.
 
 ### Why start freelancing?
 
-With over a decade of expertise helping businesses and brands [connect with talented contract developers](https://esteemed.io/blog/2020/07/25/5-reasons-why-you-should-join-a-talent-network/) we’ve seen the benefits firsthand:
+With over a decade of expertise helping businesses and brands [connect with talented contract developers](https://esteemed.io/blog/2020/07/25/5-reasons-why-you-should-join-a-talent-network/) {:target='_blank'} we’ve seen the benefits firsthand:
 
 * You can make more money and have work-life balance
 * Work on a variety of projects to build your resume and street cred
@@ -42,9 +42,9 @@ With over a decade of expertise helping businesses and brands [connect with tale
 
 ### Know your intended niche and market
 
-Out of the gate, you’ll need to find out if anyone really wants your offerings. And by digging down into [your unique selling prop as a developer](https://www.entrepreneur.com/encyclopedia/unique-selling-proposition-usp) you’ll be able to differentiate your skillset.
+Out of the gate, you’ll need to find out if anyone really wants your offerings. And by digging down into [your unique selling prop as a developer](https://www.entrepreneur.com/encyclopedia/unique-selling-proposition-usp) {:target='_blank'} you’ll be able to differentiate your skillset.
 
-“Did you know that GitLab was built for the specific needs of one of the cofounders and he had no intention of turning it into a business?” — [How to start a business as a Software developer](https://medium.com/practical-programming-weekly/how-to-start-a-business-as-a-software-developer-9370af88fe24)
+“Did you know that GitLab was built for the specific needs of one of the cofounders and he had no intention of turning it into a business?” — [How to start a business as a Software developer](https://medium.com/practical-programming-weekly/how-to-start-a-business-as-a-software-developer-9370af88fe24) {:target='_blank'}
 
 If it’s your services you intend to hawk then you’ll want to make sure they’re in demand. And if it’s a product solution for the open market, you’re going to have to research your competition.
 
@@ -85,7 +85,7 @@ For developers who plan to sell their coding expertise as a service, you’ll ne
 
 You have to make sure that this is something you’re passionate about for the long haul. Burnout is a real thing in our industry, and you’ll be putting in some serious hours to launch.
 
-[But never be afraid to ask for help](). Especially from a trusted community of like-minded professionals.
+[But never be afraid to ask for help]() {:target='_blank'}. Especially from a trusted community of like-minded professionals.
 
 As you begin to formulate the thesis for your business, don’t forget the basics:
 

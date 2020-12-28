@@ -1,5 +1,5 @@
 ---
-date: 2020-12-21 21:10:02 +0000
+date: 2020-12-21T21:10:02.000+00:00
 author: kelton-reid
 categories: []
 title: 'The Developer''s Guide to Managing Your Business: Part One'
@@ -11,13 +11,13 @@ color_overlay: "#EEC10C"
 featured: true
 
 ---
-Are you thinking about venturing out on your own to start a software development or contracting business? Then it occurs to you, “How the heck do I go from idea to service or product?” 
+Are you thinking about venturing out on your own to start a software development or contracting business? Then it occurs to you, “How the heck do I go from idea to service or product?”
 
 It’s a challenging journey, and not for the faint of heart. It’s also not nearly as hard as you think. Instantly you’ll start dreaming about that big exit. But seriously, stop that now!
 
 You don’t have to be the next Bill Gates or Sergey Brin. But it’s not as easy as just hanging up a digital shingle and going to the ATM.
 
-The truth is, with a small investment and the right motivation, you can easily be making [twice your day job salary](https://esteemed.io/blog/2020/09/30/why-demand-for-tech-talent-is-so-high/) {:target='_blank'}. And you’ll make your own hours if you’re savvy!
+The truth is, with a small investment and the right motivation, you can easily be making [twice your day job salary](https://esteemed.io/blog/2020/09/30/why-demand-for-tech-talent-is-so-high/){:target='_blank'}. And you’ll make your own hours if you’re savvy!
 
 ### The journey of 1000 miles starts with one step
 

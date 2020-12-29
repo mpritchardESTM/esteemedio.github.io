@@ -1,7 +1,8 @@
 ---
 date: 2020-12-21T21:10:02.000+00:00
 author: kelton-reid
-categories: []
+categories:
+- Contracting Tips
 title: 'The Developer''s Guide to Managing Your Business: Part One'
 description: With over a decade of expertise helping companies connect with talented
   contract developers we’ve seen the benefits of starting a business firsthand.

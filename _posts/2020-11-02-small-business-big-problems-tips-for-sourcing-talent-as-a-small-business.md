@@ -1,7 +1,8 @@
 ---
 date: 2020-11-02T22:46:40.000+00:00
 author: kelton-reid
-categories: []
+categories:
+- Hiring Strategy
 title: 'Small Business, Big Problems: Tips for Sourcing Talent as a Small Business'
 description: How can small businesses compete for top talent? Startups operating on
   a shoestring can still attract impactful teams. Here are some tips on how.

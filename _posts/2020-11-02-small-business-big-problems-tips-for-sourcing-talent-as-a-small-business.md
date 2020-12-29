@@ -1,12 +1,12 @@
 ---
-date: 2020-11-02 22:46:40 +0000
+date: 2020-11-02T22:46:40.000+00:00
 author: kelton-reid
 categories: []
 title: 'Small Business, Big Problems: Tips for Sourcing Talent as a Small Business'
 description: How can small businesses compete for top talent? Startups operating on
   a shoestring can still attract impactful teams. Here are some tips on how.
 image: "/uploads/alizee-baudez-sruzc3i_h8q-unsplash.jpg"
-thumbnail: "/uploads/pexels-andrew-neel-2682452.jpg"
+thumbnail: "/uploads/pexels-photo-3874040.jpg"
 color_overlay: "#00D4B7"
 featured: false
 
